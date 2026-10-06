@@ -393,6 +393,16 @@
  {
   "code": "C02",
   "url": "https://selfmade.ru/collection/novinki/product/zhaket-pritalennyy-67de3a",
+  "file": "capsule/C02.png",
+  "photo_url": null,
+  "title": "Приталенный жакет из шерсти «Между встречами»",
+  "price": 26990,
+  "status": "ok",
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
+ },
+ {
+  "code": "C02",
+  "url": "https://selfmade.ru/collection/novinki/product/zhaket-pritalennyy-67de3a",
   "file": "capsule/site/C02.jpg",
   "photo_url": "https://cdn.insales-shop.ru/images/products/1/4473/3288076665/selfmade_28_084890.jpg",
   "title": "Приталенный жакет из шерсти «Между встречами»",
@@ -445,6 +455,16 @@
  {
   "code": "C04",
   "url": "https://ivolga.moscow/product/kardigan-trikotazhnyy-persikovogo-tsveta/",
+  "file": "capsule/C04.png",
+  "photo_url": null,
+  "title": "Кардиган трикотажный персикового цвета",
+  "price": 8900,
+  "status": "ok",
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
+ },
+ {
+  "code": "C04",
+  "url": "https://ivolga.moscow/product/kardigan-trikotazhnyy-persikovogo-tsveta/",
   "file": "capsule/site/C04.jpg",
   "photo_url": null,
   "title": "Кардиган трикотажный персикового цвета",
@@ -483,6 +503,16 @@
   "price": 12150,
   "status": "ok",
   "note": "pos 2, 1086x1448, packshot"
+ },
+ {
+  "code": "C06",
+  "url": "https://ivolga.moscow/product/bryuki-trikotazhnye-persikovogo-tsveta/",
+  "file": "capsule/C06.png",
+  "photo_url": null,
+  "title": "Брюки трикотажные персикового цвета",
+  "price": 12200,
+  "status": "ok",
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
  },
  {
   "code": "C06",
@@ -560,6 +590,16 @@
  {
   "code": "C09",
   "url": "https://selfmade.ru/collection/novinki/product/palto-odnobortnoe-3",
+  "file": "capsule/C09.png",
+  "photo_url": null,
+  "title": "Однобортное пальто из шерсти с шарфом «Суфле»",
+  "price": 39990,
+  "status": "ok",
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
+ },
+ {
+  "code": "C09",
+  "url": "https://selfmade.ru/collection/novinki/product/palto-odnobortnoe-3",
   "file": "capsule/site/C09.jpg",
   "photo_url": "https://cdn.insales-shop.ru/images/products/1/7497/3281313097/IMG_9851.jpeg",
   "title": "Однобортное пальто из шерсти с шарфом «Суфле»",
@@ -586,7 +626,7 @@
   "title": "Блейзер с тиснением под кожу крокодила",
   "price": 9999,
   "status": "ok",
-  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
  },
  {
   "code": "C10",
@@ -741,7 +781,7 @@
   "title": "Свитер с фигурным вырезом",
   "price": 5999,
   "status": "ok",
-  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
  },
  {
   "code": "C15",
@@ -798,6 +838,16 @@
  {
   "code": "C17",
   "url": "https://selfmade.ru/collection/aksessuary/product/shapka-9639b2",
+  "file": "capsule/C17.png",
+  "photo_url": null,
+  "title": "Шапка-бини из шерстяной пряжи «Свободный вечер»",
+  "price": 6990,
+  "status": "ok",
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
+ },
+ {
+  "code": "C17",
+  "url": "https://selfmade.ru/collection/aksessuary/product/shapka-9639b2",
   "file": "capsule/site/C17.jpg",
   "photo_url": "https://cdn.insales-shop.ru/images/products/1/6073/3281483705/IMG_9285_.jpeg",
   "title": "Шапка-бини из шерстяной пряжи «Свободный вечер»",
@@ -815,6 +865,16 @@
   "price": 6990,
   "status": "ok",
   "note": "pos 10, 1200x1600, packshot"
+ },
+ {
+  "code": "C18",
+  "url": "https://selfmade.ru/collection/novinki/product/vodolazka-oblegayuschaya-0f72cb",
+  "file": "capsule/C18.png",
+  "photo_url": null,
+  "title": "Деликатная водолазка с шерстью «Оливка»",
+  "price": 6990,
+  "status": "ok",
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
  },
  {
   "code": "C18",
@@ -840,6 +900,16 @@
  {
   "code": "C19",
   "url": "https://limestore.com/ru_ru/product/37803-9812_846_120_molocnyi",
+  "file": "capsule/C19.png",
+  "photo_url": null,
+  "title": "Прямые джинсы с высокой посадкой",
+  "price": 4999,
+  "status": "ok",
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
+ },
+ {
+  "code": "C19",
+  "url": "https://limestore.com/ru_ru/product/37803-9812_846_120_molocnyi",
   "file": "capsule/site/C19.jpg",
   "photo_url": "https://a.cdn.lime-shine.com/p/d4502b0d88f85bb390b97c176d930e56.jpeg",
   "title": "Прямые джинсы с высокой посадкой",
@@ -861,6 +931,16 @@
  {
   "code": "C20",
   "url": "https://limestore.com/ru_ru/product/27989_7532_869-temno_seryi_melanz",
+  "file": "capsule/C20.png",
+  "photo_url": null,
+  "title": "Жилет с верблюжьим пухом",
+  "price": 4999,
+  "status": "ok",
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
+ },
+ {
+  "code": "C20",
+  "url": "https://limestore.com/ru_ru/product/27989_7532_869-temno_seryi_melanz",
   "file": "capsule/site/C20.jpg",
   "photo_url": "https://a.cdn.lime-shine.com/p/89bef4c3fe5e5ae0b0b2bb8ae4ef9076.jpeg",
   "title": "Жилет с верблюжьим пухом",
@@ -878,6 +958,16 @@
   "price": 4999,
   "status": "ok",
   "note": "в наличии не проверено по размерам; gallery pos 5; size 1333x2000"
+ },
+ {
+  "code": "C21",
+  "url": "https://selfmade.ru/collection/novinki/product/vodolazka-oblegayuschaya-38adef",
+  "file": "capsule/C21.png",
+  "photo_url": null,
+  "title": "Деликатная водолазка с шерстью «Горячий шоколад»",
+  "price": 6990,
+  "status": "нет в наличии",
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
  },
  {
   "code": "C21",
@@ -962,6 +1052,16 @@
   "price": 1199,
   "status": "ok",
   "note": "в наличии не проверено по размерам; gallery pos 3; size 1333x2000"
+ },
+ {
+  "code": "C25",
+  "url": "https://selfmade.ru/collection/novinki/product/kardigan-iz-kashemira-21c568",
+  "file": "capsule/C25.png",
+  "photo_url": null,
+  "title": "Нежный кардиган из кашемира «Глинтвейн»",
+  "price": 26990,
+  "status": "ok",
+  "note": "Codex v2 packshot (RGBA), front view, brand label kept"
  },
  {
   "code": "C25",
