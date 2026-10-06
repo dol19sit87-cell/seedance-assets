@@ -10,6 +10,28 @@
   "note": "gallery: full-length on model (replaced flat lay that matched the August guide); 1800x2400; JSON-LD OutOfStock"
  },
  {
+  "code": "T01R",
+  "replaces": "T01",
+  "url": "https://befree.ru/zhenskaya/product/BF2641526056/19",
+  "file": "products/T01R.jpg",
+  "photo_url": "https://imgcdn.befree.ru/rest/V1/images/2000/product/images/BF2641526056/BF2641526056_19_4.jpg",
+  "title": "Джемпер пушистый с глубоким V-образным вырезом (мятный)",
+  "price": 3599,
+  "status": "в наличии",
+  "note": "Befree. JSON-LD availability=InStock; page variations stocks_available=true for XS,S,M,L,XL. Color mint (мятный, code 19), fluffy knit, deep V. Full-figure seller photo. Image 1333x2000 (downscaled from 1920x2880)."
+ },
+ {
+  "code": "T01R_2",
+  "replaces": "T01",
+  "url": "https://befree.ru/zhenskaya/product/BF2641526057/19",
+  "file": "products/T01R_2.jpg",
+  "photo_url": "https://imgcdn.befree.ru/rest/V1/images/2000/product/images/BF2641526057/BF2641526057_19_2.jpg",
+  "title": "Джемпер пушистый с V-образным вырезом и воротником-поло (мятный)",
+  "price": 2999,
+  "status": "в наличии",
+  "note": "Befree. JSON-LD InStock; stocks_available=true for XS,S,M,L,XL. Mint (code 19) but V-neck has a small polo collar, so less close than T01R. Image 1333x2000 (downscaled from 1920x2880)."
+ },
+ {
   "code": "T02",
   "url": "https://loverepublic.ru/catalog/odezhda/trikotazh/dzhempery/336759/",
   "file": "products/T02.jpg",
@@ -48,6 +70,17 @@
   "price": "нет цены (0.00)",
   "status": "нет в наличии",
   "note": "gallery pos 2 (no head); all editions quantity 0, price 0.00, JSON OutOfStock size 1536x2048"
+ },
+ {
+  "code": "T05R",
+  "replaces": "T05",
+  "url": "https://befree.ru/zhenskaya/product/BF2631312036/26",
+  "file": "products/T05R.jpg",
+  "photo_url": "https://imgcdn.befree.ru/rest/V1/images/2000/product/images/BF2631312036/BF2631312036_26_1.jpg",
+  "title": "Юбка прямая миди из искусственной кожи под крокодила",
+  "price": 3999,
+  "status": "в наличии",
+  "note": "Befree. JSON-LD InStock; stocks_available=true for XS,S,M,L,XL. WEAK MATCH: faux-leather croc/reptile-embossed midi pencil-style skirt, but color is dark brown (code 26, looks near-black) not grey; no grey croc skirt found in reachable shops (Love Republic 327764 is black, 6999). Model face visible in photo. Image 1333x2000 (downscaled from 1920x2880)."
  },
  {
   "code": "T06",
@@ -741,6 +774,17 @@
   "price": 1499,
   "status": "нет в наличии",
   "note": "gallery pos 1; size 1524x2200"
+ },
+ {
+  "code": "C13R",
+  "replaces": "C13",
+  "url": "https://markformelle.ru/catalog/zhenshchinam/noski-i-kolgotki/kolgotki-zhenskie/poliamidnye-zhenskie/1041pa-1529-58423-74587/",
+  "file": "products/C13R.jpg",
+  "photo_url": "https://static.markformelle.ru/site/master/catalog/692349/desktop/card/8716309.webp",
+  "title": "Колготки женские капроновые 20 den натуральные (Mark Formelle 1041PA-1529)",
+  "price": 349,
+  "status": "в наличии",
+  "note": "Mark Formelle (markformelle.ru). JSON-LD Offers InStock for sizes 2,3,4,5,6 (349 RUB; 399 for 5-6); add-to-cart button \"В корзину\" present. Natural/nude shade, 20 den. Legs only, no face. Image 1200x1600 (webp source, saved as JPEG)."
  },
  {
   "code": "C14",
