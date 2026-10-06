@@ -1,0 +1,712 @@
+[
+ {
+  "code": "T01",
+  "url": "https://aimclo.ru/shop/dzhempery/dzhemper-s-v-obraznym-vyrezom-svetlo-biryuzovyy/",
+  "file": "products/T01.jpg",
+  "photo_url": "https://aimclo.ru/upload/iblock/ee4/1vx4050ewch7ah7h8dcj82755xvq4e60/20260909_SKUPRO_AIMCLO_obtravka4127_rezultat.webp",
+  "title": "Джемпер с V образным вырезом, светло-бирюзовый",
+  "price": "6999 RUB",
+  "status": "нет в наличии",
+  "note": "gallery pos 7 (flat lay); JSON-LD OutOfStock size 1800x2400"
+ },
+ {
+  "code": "T02",
+  "url": "https://loverepublic.ru/catalog/odezhda/trikotazh/dzhempery/336759/",
+  "file": "products/T02.jpg",
+  "photo_url": "https://imgcdn.loverepublic.ru/upload/images/63593/6359307803_38_4.jpg",
+  "title": "Джемпер с шерстью альпака 6359307803-38",
+  "price": "4999 RUB",
+  "status": "ok",
+  "note": "gallery pos 2 (flat front); InStock size 900x1200"
+ },
+ {
+  "code": "T03",
+  "url": "https://www.lamoda.ru/p/rtlafo340501/clothes-mango-pulover/",
+  "file": "products/T03.jpg",
+  "photo_url": "https://a.lmcdn.ru/product/R/T/RTLAFO340501_38026602_2_v1_2x.jpg",
+  "title": "Пуловер Mango ETOO, синий",
+  "price": 15999,
+  "status": "ok",
+  "note": "gallery pos 2; size 1524x2200"
+ },
+ {
+  "code": "T04",
+  "url": "https://aimclo.ru/shop/dzhempery/dzhemper-s-v-obraznym-vyrezom-krasnyy/",
+  "file": "products/T04.jpg",
+  "photo_url": "https://aimclo.ru/upload/iblock/e6f/ibzwngggbbrwnoysbncuocs3zyeaz3am/20260909_SKUPRO_AIMCLO_obtravka4019_rezultat.webp",
+  "title": "Джемпер с V образным вырезом, красный",
+  "price": "6999 RUB",
+  "status": "ok",
+  "note": "gallery pos 7 (flat lay); InStock size 1800x2400"
+ },
+ {
+  "code": "T05",
+  "url": "https://belartes.ru/new/tproduct/235682815163-yubka-iz-eko-kozhi",
+  "file": "products/T05.jpg",
+  "photo_url": "https://static.tildacdn.com/stor6564-6131-4235-b062-646331336633/ccbdffc88b7f416785c627f721898eaf.jpg",
+  "title": "Юбка из эко-кожи (BELARTES)",
+  "price": "нет цены (0.00)",
+  "status": "нет в наличии",
+  "note": "gallery pos 2 (no head); all editions quantity 0, price 0.00, JSON OutOfStock size 1536x2048"
+ },
+ {
+  "code": "T06",
+  "url": "https://69moscow.com/kurtka-pilot-s-fakturoy-pod-krokodila-i-mehovym-vorotom-pod-norku",
+  "file": "products/T06.jpg",
+  "photo_url": "https://69moscow.com/images/010/108/690/10108690/original/photo5226809005928736256y.jpg",
+  "title": "Куртка пилот с фактурой под «крокодила» и меховым воротом под «норку»",
+  "price": "19700-21700 RUB",
+  "status": "ok",
+  "note": "ONLY ONE photo exists on site (main, gallery pos 1; checked .js/product data/lookbook) - used as fallback; variants quantity 0 but infinite_quantity true (made to order) -> orderable size 1136x1280"
+ },
+ {
+  "code": "T07",
+  "url": "https://yourreticule.com/clutches/tproduct/398859304523-clutch-signature-croco",
+  "file": "products/T07.jpg",
+  "photo_url": "https://static.tildacdn.com/stor3135-6162-4438-b930-303734393866/bc1c2f6afe292191f21cb7548982deaf.webp",
+  "title": "Clutch Signature Croco",
+  "price": "26900 RUB",
+  "status": "ok",
+  "note": "gallery pos 3 (3/4 view of clutch) size 1680x2240"
+ },
+ {
+  "code": "T08",
+  "url": "https://www.lamoda.ru/p/rtlaff328101/shoes-nume-sapogi/",
+  "file": "products/T08.jpg",
+  "photo_url": "https://a.lmcdn.ru/product/R/T/RTLAFF328101_38004268_9_v1_2x.jpg",
+  "title": "Сапоги Nume, зеленый",
+  "price": 9990,
+  "status": "ok",
+  "note": "gallery pos 6; size 1524x2200"
+ },
+ {
+  "code": "T09",
+  "url": "https://asyasemyonova.ru/magazin/product/kragi-iz-eko-kozhi-piton-bordo",
+  "file": "products/T09.jpg",
+  "photo_url": "https://asyasemyonova.ru/d/dscf8712_retouched.jpg",
+  "title": "КРАГИ ИЗ ЭКО-КОЖИ ПИТОН БОРДО OS",
+  "price": "6990 RUB",
+  "status": "ok",
+  "note": "gallery pos 2 (model, gauntlets visible; gallery has only 3 photos); page shows PREORDER (ships 5-14 days) size 1786x2500"
+ },
+ {
+  "code": "T10",
+  "url": "https://furly.ru/catalog/18/cobras",
+  "file": "products/T10.jpg",
+  "photo_url": "https://furly.ru/cdn/product-gallery/1079/8712/good_quality.jpg",
+  "title": "Furly сумка-пуф cobra s",
+  "price": "6500 RUB",
+  "status": "ok",
+  "note": "gallery pos 2 (flat product shot, vertical canvas); page shows \"в наличии\" (+preorder menu link) size 1333x2000"
+ },
+ {
+  "code": "T11",
+  "url": "https://proyavi.com/tproduct/510478034-362098296912-zhaket-iz-ekokozhi",
+  "file": "products/T11.jpg",
+  "photo_url": "https://static.tildacdn.com/stor6361-3739-4136-b334-633866373933/22573205.jpg",
+  "title": "Жакет из экокожи (proyavi)",
+  "price": "29000 RUB",
+  "status": "ok",
+  "note": "gallery pos 4 (full body, jacket whole) size 1680x2519"
+ },
+ {
+  "code": "T12",
+  "url": "https://wysh-brand.com/shoes/tproduct/794468374-797345457192-zmeinie-tufli",
+  "file": "products/T12.jpg",
+  "photo_url": "https://static.tildacdn.com/stor3736-3261-4263-b861-396330386565/5a8f06c09f67c76be2537ed05c778862.jpg",
+  "title": "Змеиные туфли (wysh)",
+  "price": "7990 RUB",
+  "status": "ok",
+  "note": "gallery pos 2 (pair, side view); short 1024x1280 is the tilda original size 1024x1280"
+ },
+ {
+  "code": "T13",
+  "url": "https://www.lamoda.ru/p/mp002xw1o0g6/clothes-loverepublic-bryuki/",
+  "file": "products/T13.jpg",
+  "photo_url": "https://a.lmcdn.ru/product/M/P/MP002XW1O0G6_38227210_2_v2.jpg",
+  "title": "Брюки Love Republic, серый",
+  "price": 6999,
+  "status": "ok",
+  "note": "gallery pos 2; size 762x1100; largest available on Lamoda is 762x1100"
+ },
+ {
+  "code": "T14",
+  "url": "https://drugaya.store/product/leginsy-lesi",
+  "file": "products/T14.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/3537/3226897873/другая-осень2318.jpg",
+  "title": "Легинсы Леси (DRUGAYA)",
+  "price": "11600 RUB",
+  "status": "ok",
+  "note": "gallery pos 8 (model front full length); JSON-LD: 1 of 4 variants OutOfStock, others InStock. Note: product shown is stirrup trousers/leggings size 2333x3500"
+ },
+ {
+  "code": "T15",
+  "url": "https://asyasemyonova.ru/magazin/product/bryuki-so-shtripkami-iz-kostyumnoj-tkani-chernyj",
+  "file": "products/T15.jpg",
+  "photo_url": "https://asyasemyonova.ru/d/dscf8802_retouched.jpg",
+  "title": "БРЮКИ СО ШТРИПКАМИ ИЗ КОСТЮМНОЙ ТКАНИ ЧЕРНЫЙ",
+  "price": "12990 RUB",
+  "status": "ok",
+  "note": "gallery pos 4 (model front, head visible); sizes in stock 1-3 pcs each, plus preorder size 1786x2500"
+ },
+ {
+  "code": "T16",
+  "url": "https://www.lamoda.ru/p/mp002xw1mk7b/clothes-zarina-bryuki/",
+  "file": "products/T16.jpg",
+  "photo_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MK7B_34620554_2_v2_2x.jpg",
+  "title": "Брюки Zarina, черный",
+  "price": 2899,
+  "status": "ok",
+  "note": "gallery pos 2; size 1524x2200"
+ },
+ {
+  "code": "T17",
+  "url": "https://www.ushatava.ru/store/w/aksessuary/ukorochennye-perchatki-zheltaya-kletka-82602/",
+  "file": "products/T17.jpg",
+  "photo_url": "https://www.ushatava.ru/upload/iblock/e37/9cgp1xreauabie7mll01d28v7kwpftua/107.jpg",
+  "title": "Укороченные перчатки в клетку (Ushatava)",
+  "price": "18900 RUB",
+  "status": "нет в наличии",
+  "note": "gallery pos 2 (gloves flat, whole); page: \"Изделия нет в наличии в интернет-магазине\"; only 2 photos in gallery; 4070x5400 original size 4070x5400"
+ },
+ {
+  "code": "T18",
+  "url": "https://limestore.com/ru_ru/product/28997_0817_544-vinnyi",
+  "file": "products/T18.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/a00f29c41a905f2e9f47d2b61015bf35.jpeg",
+  "title": "Перчатки из овечьей кожи",
+  "price": 4599,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 3; size 1333x2000"
+ },
+ {
+  "code": "T19",
+  "url": "https://www.lamoda.ru/p/mp002xw1nw0p/accs-portal-perchatki/",
+  "file": "products/T19.jpg",
+  "photo_url": "https://a.lmcdn.ru/product/M/P/MP002XW1NW0P_37949425_1_v1_2x.jpg",
+  "title": "Перчатки Portal, розовый",
+  "price": 12990,
+  "status": "ok",
+  "note": "gallery pos 1; size 1524x2200; only pos 2 is non-first but is a cuff close-up, so first-gallery packshot (pos 1) used"
+ },
+ {
+  "code": "T20",
+  "url": "https://befree.ru/zhenskaya/product/BF2635343001/41",
+  "file": "products/T20.jpg",
+  "photo_url": "https://imgcdn.befree.ru/rest/V1/images/2048/product/images/BF2635343001/BF2635343001_41_2.jpg",
+  "title": "Перчатки короткие из искусственной кожи BF2635343001, голубой (41)",
+  "price": "1299 RUB",
+  "status": "ok",
+  "note": "gallery pos 2 (close-up detail; only 2 photos for this colour; pos 1 main shows gloves whole) 2048px version size 1920x2880"
+ },
+ {
+  "code": "T21",
+  "url": "https://anmuse.shop/shop/tproduct/2921907001-459998370163-zhaket-v-kletku-blue",
+  "file": "products/T21.jpg",
+  "photo_url": "https://static.tildacdn.com/stor3061-6535-4539-a139-663464643064/89da4677d14bc74986356832cb1a42b6.jpg",
+  "title": "Жакет в клетку BLUE (anmuse)",
+  "price": "17700 RUB",
+  "status": "ok",
+  "note": "gallery pos 12 (flat lay front, whole); gallery pos 14-15 are customer selfies - avoided size 1680x2519"
+ },
+ {
+  "code": "T22",
+  "url": "https://jultise.com/tproduct/2622583101-618461205503-rubashka-kletka-seraya-ponedelnik",
+  "file": "products/T22.jpg",
+  "photo_url": "https://static.tildacdn.com/stor6664-3433-4235-b162-626466366233/392297ad25bc80440217ff3a07785f90.jpg",
+  "title": "Рубашка клетка серая «Понедельник» (jultise)",
+  "price": "12900 RUB",
+  "status": "ok",
+  "note": "gallery pos 7 (full-length, head visible); qty field blank size 1680x2240"
+ },
+ {
+  "code": "T23",
+  "url": "https://www.lamoda.ru/p/rtlafk628901/clothes-mango-bryuki/",
+  "file": "products/T23.jpg",
+  "photo_url": "https://a.lmcdn.ru/product/R/T/RTLAFK628901_36616815_2_v1_2x.jpg",
+  "title": "Брюки Mango MARTINI, коричневый",
+  "price": 8999,
+  "status": "ok",
+  "note": "gallery pos 2; size 1524x2200"
+ },
+ {
+  "code": "T24",
+  "url": "https://limestore.com/ru_ru/product/35620-2778_954_999_mnogocvetnyi",
+  "file": "products/T24.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/75d9cd4b1cdb5e439013f8f5c3e60d86.jpeg",
+  "title": "Блейзер из полушерсти в клетку",
+  "price": 13999,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 2; size 1333x2000"
+ },
+ {
+  "code": "T25",
+  "url": "https://anmuse.shop/shop/tproduct/2921907001-937634442033-mehovoi-vorotnik-na-shnurke-light-blue",
+  "file": "products/T25.jpg",
+  "photo_url": "https://static.tildacdn.com/stor3735-3339-4232-b637-666164613536/5e0d2edbcffafe3d019946dea034a4ab.jpg",
+  "title": "Меховой воротник на шнурке LIGHT BLUE (anmuse)",
+  "price": "6300 RUB",
+  "status": "ok",
+  "note": "gallery pos 7 (collar worn, full figure); qty 17 size 1680x2100"
+ },
+ {
+  "code": "T26",
+  "url": "https://monreve.online/all/tproduct/696926969-142265663273-kotelok-fourrure",
+  "file": "products/T26.jpg",
+  "photo_url": "https://static.tildacdn.com/stor6662-3039-4430-b536-653165323035/ba7f2d8217447fe6931fd77711c35163.jpg",
+  "title": "Котелок Fourrure (monreve)",
+  "price": "6500 RUB",
+  "status": "ok",
+  "note": "gallery pos 4 (hat 3/4 view with head/shoulders); tilda original 960x1280 size 960x1280"
+ },
+ {
+  "code": "T27",
+  "url": "https://mua.shop/products/68-643-3299/",
+  "file": "products/T27.jpg",
+  "photo_url": "https://mua.shop/files/1/20260923/upscaled-image-1790074746987-f47ce885-ccf7-4472-9e00-0ac2cdbc7799_3000x3000.jpeg",
+  "title": "Шубка \"Бемби\" (MUA) code 68-643",
+  "price": "22500 RUB",
+  "status": "ok",
+  "note": "gallery pos 2 (full figure, head visible) via /api/products; item is PREORDER (prebook 2026-10-16, inventory 0); photos 2-5 look AI-generated/upscaled by seller, 6-7 are selfies - avoided size 2240x3000"
+ },
+ {
+  "code": "T28",
+  "url": "https://furly.ru/catalog/54/muffboni",
+  "file": "products/T28.jpg",
+  "photo_url": "https://furly.ru/cdn/product-gallery/1093/8810/good_quality.jpg",
+  "title": "Furly муфта Бони",
+  "price": "6900 RUB",
+  "status": "ok",
+  "note": "gallery pos 3 (full figure with muff); \"в наличии мало\" size 1333x2000"
+ },
+ {
+  "code": "T29",
+  "url": "https://limestore.com/ru_ru/product/36630-3623_209_610_krasnyi",
+  "file": "products/T29.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/e287ae8cfd635814a5809abce05268e9.jpeg",
+  "title": "Блейзер из ткани под кожу с тиснением",
+  "price": 9999,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 3; size 1333x2000"
+ },
+ {
+  "code": "T30",
+  "url": "https://acte.ru/catalog/zhakety/zhaket_s_sharfom_iz_kozhi/?oid=2086",
+  "file": "products/T30.jpg",
+  "photo_url": "https://acte.ru/upload/iblock/534/6kn9x1jy77zu7qgqx5v18fclxm1azakc.webp",
+  "title": "Жакет с шарфом из кожи (ACTE)",
+  "price": "14900 RUB",
+  "status": "ok",
+  "note": "gallery pos 4 (full length); original /upload/iblock webp 2000x3000; ЕСТЬ В НАЛИЧИИ 2 шт in store size 2000x3000"
+ },
+ {
+  "code": "T31",
+  "url": "https://limestore.com/ru_ru/product/35490-2781_016_023_temno_seryi_melanz",
+  "file": "products/T31.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/66ca8cffb3315736be5a2c49512bd5c4.jpeg",
+  "title": "Приталенный блейзер из шерсти с поясом",
+  "price": 11999,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 2; size 1333x2000"
+ },
+ {
+  "code": "T32",
+  "url": "https://lesyanebo.com/catalog/zhakety/zhaket_mikki_2/",
+  "file": "products/T32.jpg",
+  "photo_url": "https://lesyanebo.com/upload/iblock/d02/p54nqw9irt7g613emd7gl2xgi9kaozjs.jpg",
+  "title": "Жакет МИККИ красный (Lesyanebo)",
+  "price": "52000 RUB",
+  "status": "ok",
+  "note": "gallery pos 2 (front, head visible); InStock size 1380x2069"
+ },
+ {
+  "code": "T33",
+  "url": "https://nebozemlia.ru/catalog/tproduct/974910679253-vodolazka-iz-kashemira-i-tensela-seraya",
+  "file": "products/T33.jpg",
+  "photo_url": "https://static.tildacdn.com/stor3032-3939-4666-b563-636562616362/c166935f463444f27f6103d5343446c0.jpg",
+  "title": "Водолазка из кашемира и тенсела серая (nebozemlia)",
+  "price": "15000 RUB",
+  "status": "ok",
+  "note": "gallery pos 3 (3/4 front, head visible); tilda original 1000x1333; qty 6 size 1000x1333"
+ },
+ {
+  "code": "T34",
+  "url": "https://belartes.ru/new/tproduct/631007325243-vodolazka-s-aktsentnim-plechom",
+  "file": "products/T34.jpg",
+  "photo_url": "https://static.tildacdn.com/stor3338-6634-4562-b366-396134616534/6b503d96a0fff86c30bfd0e0f318c329.jpg",
+  "title": "Водолазка с акцентным плечом (BELARTES)",
+  "price": "13900 RUB",
+  "status": "ok",
+  "note": "gallery pos 2 (head cropped at nose, as in all gallery shots); qty 14/19 size 1536x2048"
+ },
+ {
+  "code": "T35",
+  "url": "https://nextdore.ru/product/w21kbd03-l-blue",
+  "file": "products/T35.jpg",
+  "photo_url": "https://nextdore-media.storage.yandexcloud.net/products/compressed/cmr9ebvx0001u2v3c7cxfgy26/1786623226262-0660hd.webp",
+  "title": "Светло-голубая водолазка из 100% мериноса с подплечниками (NEXTDORE)",
+  "price": "13990 RUB",
+  "status": "ok",
+  "note": "gallery pos 5 (front, hands on hips, forehead slightly cropped); only compressed webp available (1536x2048); InStock size 1536x2048"
+ },
+ {
+  "code": "T36",
+  "url": "https://www.2moodstore.com/collection/katalog/top_khalter_iz_tonkoy_shersti_korichnevogo_tsveta/",
+  "file": "products/T36.jpg",
+  "photo_url": "https://www.2moodstore.com/upload/iblock/f87/f2j676xv5yir1r3yuevqio7ru7llee54.jpg",
+  "title": "Топ-халтер из тонкой шерсти (2MOOD)",
+  "price": "9980 RUB",
+  "status": "ok",
+  "note": "gallery pos 6 (flat lay, whole); data from __NEXT_DATA__ media list; availabilityCount 92 size 1288x1933"
+ },
+ {
+  "code": "C01",
+  "url": "https://limestore.com/ru_ru/product/36835-2835_858_321_olivkovyi",
+  "file": "capsule/src/C01.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/dbe9f860e97a522c80273512461a8dd6.jpeg",
+  "title": "Солнцезащитные очки в пластиковой оправе",
+  "price": 3599,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 2; size 1333x2000"
+ },
+ {
+  "code": "C02",
+  "url": "https://selfmade.ru/collection/novinki/product/zhaket-pritalennyy-67de3a",
+  "file": "capsule/src/C02.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/7889/3287211729/Selfmade_31_08_27943_05.jpg",
+  "title": "Приталенный жакет из шерсти «Между встречами»",
+  "price": 26990,
+  "status": "ok",
+  "note": "pos 11, 1200x1600, packshot"
+ },
+ {
+  "code": "C03",
+  "url": "https://limestore.com/ru_ru/product/37471-3898_012_040_serebrianyi",
+  "file": "capsule/src/C03.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/284e69b679ac53edb3bc6aa4b8cb8276.jpeg",
+  "title": "Серьги-кольца из латуни",
+  "price": 1599,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 3; size 1333x2000"
+ },
+ {
+  "code": "C04",
+  "url": "https://ivolga.moscow/product/kardigan-trikotazhnyy-persikovogo-tsveta/",
+  "file": "capsule/src/C04.jpg",
+  "photo_url": "https://ivolga.moscow/upload/iblock/d53/ugcvj0g3i0vowq66nkrwkvzne100y1nh/1.jpg",
+  "title": "Кардиган трикотажный персикового цвета",
+  "price": 8900,
+  "status": "ok",
+  "note": "pos 1, 800x1200, packshot"
+ },
+ {
+  "code": "C05",
+  "url": "https://ankabags.ru/product/248084323762-ekler-kroko-platina",
+  "file": "capsule/src/C05.jpg",
+  "photo_url": "https://static.tildacdn.com/stor6331-3638-4438-b735-366337396366/41c1727ed4e64efbac0927bb7294abb1.png",
+  "title": "Клатч из натуральной кожи Эклер кроко платина",
+  "price": 12150,
+  "status": "ok",
+  "note": "pos 2, 1086x1448, packshot"
+ },
+ {
+  "code": "C06",
+  "url": "https://ivolga.moscow/product/bryuki-trikotazhnye-persikovogo-tsveta/",
+  "file": "capsule/src/C06.jpg",
+  "photo_url": "https://ivolga.moscow/upload/iblock/639/pe8p210k74ysgt6ipcr9afi417usklv2/1.jpg",
+  "title": "Брюки трикотажные персикового цвета",
+  "price": 12200,
+  "status": "ok",
+  "note": "pos 1, 800x1200, packshot"
+ },
+ {
+  "code": "C07",
+  "url": "https://tod-store.ru/shop/tufli-iz-vintazhnoj-kozhi-cvet-seryj-vintazh/",
+  "file": "capsule/src/C07.jpg",
+  "photo_url": "https://tod-store.ru/wp-content/uploads/2026/09/01-35.jpg",
+  "title": "Туфли из винтажной кожи без банта, серый винтаж, каблук 7 см",
+  "price": 25900,
+  "status": "ok",
+  "note": "pos 1, 600x900, packshot; side view, preorder up to 14 days; pos 2 is top-down pair"
+ },
+ {
+  "code": "C08",
+  "url": "https://limestore.com/ru_ru/product/37433-3897_767_821_iantarnyi",
+  "file": "capsule/src/C08.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/5c59f85435c25d5394aec5c479b959b6.jpeg",
+  "title": "Квадратные серьги с элементом под янтарь",
+  "price": 2599,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 3; size 1333x2000"
+ },
+ {
+  "code": "C09",
+  "url": "https://selfmade.ru/collection/novinki/product/palto-odnobortnoe-3",
+  "file": "capsule/src/C09.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/5529/3280926105/Selfmade_20_08_27044_05.jpg",
+  "title": "Однобортное пальто из шерсти с шарфом «Суфле»",
+  "price": 39990,
+  "status": "ok",
+  "note": "pos 10, 1200x1600, packshot; coat only, scarf separate at pos 11"
+ },
+ {
+  "code": "C10",
+  "url": "https://limestore.com/ru_ru/product/36796-1711_694_210_koricnevyi",
+  "file": "capsule/src/C10.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/1e318e12a53a5c5889b9fbd81ef1b242.jpeg",
+  "title": "Блейзер с тиснением под кожу крокодила",
+  "price": 9999,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 4; size 1333x2000"
+ },
+ {
+  "code": "C11",
+  "url": "https://limestore.com/ru_ru/product/36447-0528_037_603_vinnyi",
+  "file": "capsule/src/C11.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/f0718bf89e875e78ba5774e21648240b.jpeg",
+  "title": "Мягкий клатч с отделкой под кожу",
+  "price": 5999,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 4; size 1333x2000"
+ },
+ {
+  "code": "C12",
+  "url": "https://limestore.com/ru_ru/product/37303-1267_274_925_bezevyi_koricnevyi",
+  "file": "capsule/src/C12.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/c111349d440a5d4d89d1d7bd6ccca759.jpeg",
+  "title": "Юбка миди с меховой отделкой",
+  "price": 7999,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 5; size 1333x2000"
+ },
+ {
+  "code": "C13",
+  "url": "https://www.lamoda.ru/p/mp002xw0yz8j/clothes-calzedonia-kolgotki/",
+  "file": "capsule/src/C13.jpg",
+  "photo_url": "https://a.lmcdn.ru/product/M/P/MP002XW0YZ8J_21357214_1_v1_2x.jpg",
+  "title": "Колготки Calzedonia 15 Den матовые, коричневый",
+  "price": 1499,
+  "status": "нет в наличии",
+  "note": "gallery pos 1; size 1524x2200"
+ },
+ {
+  "code": "C14",
+  "url": "https://www.lamoda.ru/p/mp002xw1mu03/shoes-wysh-tufli/",
+  "file": "capsule/src/C14.jpg",
+  "photo_url": "https://a.lmcdn.ru/product/M/P/MP002XW1MU03_34800798_2_v2_2x.jpg",
+  "title": "Туфли Wysh, коричневый",
+  "price": 6990,
+  "status": "ok",
+  "note": "gallery pos 2; size 1524x2200"
+ },
+ {
+  "code": "C15",
+  "url": "https://limestore.com/ru_ru/product/37648-2270_945_601_temno_krasnyi",
+  "file": "capsule/src/C15.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/4d45765487595741903662322af34352.jpeg",
+  "title": "Свитер с фигурным вырезом",
+  "price": 5999,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 4; size 1333x2000"
+ },
+ {
+  "code": "C16",
+  "url": "https://limestore.com/ru_ru/product/37217-3210_166_435_mineralnyi_sinii",
+  "file": "capsule/src/C16.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/2c7410eac11257d18ab73088a91fc647.jpeg",
+  "title": "Миди-юбка с тиснением под кожу крокодила",
+  "price": 4999,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 5; size 1333x2000"
+ },
+ {
+  "code": "C17",
+  "url": "https://selfmade.ru/collection/aksessuary/product/shapka-9639b2",
+  "file": "capsule/src/C17.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/8009/3280928585/Selfmade_20_08_27076_05.jpg",
+  "title": "Шапка-бини из шерстяной пряжи «Свободный вечер»",
+  "price": 6990,
+  "status": "ok",
+  "note": "pos 10, 1200x1600, packshot"
+ },
+ {
+  "code": "C18",
+  "url": "https://selfmade.ru/collection/novinki/product/vodolazka-oblegayuschaya-0f72cb",
+  "file": "capsule/src/C18.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/3985/3287207825/Selfmade_31_08_27902_05.jpg",
+  "title": "Деликатная водолазка с шерстью «Оливка»",
+  "price": 6990,
+  "status": "ok",
+  "note": "pos 9, 1200x1600, packshot"
+ },
+ {
+  "code": "C19",
+  "url": "https://limestore.com/ru_ru/product/37803-9812_846_120_molocnyi",
+  "file": "capsule/src/C19.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/5b81c9a0b1f956a3aab2a1a256dea65b.jpeg",
+  "title": "Прямые джинсы с высокой посадкой",
+  "price": 4999,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 5; size 1333x2000"
+ },
+ {
+  "code": "C20",
+  "url": "https://limestore.com/ru_ru/product/27989_7532_869-temno_seryi_melanz",
+  "file": "capsule/src/C20.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/aff35e0a21225c7ea48d57ef28322c68.jpeg",
+  "title": "Жилет с верблюжьим пухом",
+  "price": 4999,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 5; size 1333x2000"
+ },
+ {
+  "code": "C21",
+  "url": "https://selfmade.ru/collection/novinki/product/vodolazka-oblegayuschaya-38adef",
+  "file": "capsule/src/C21.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/6681/3316783641/Selfmade_21_09_35556_05.jpg",
+  "title": "Деликатная водолазка с шерстью «Горячий шоколад»",
+  "price": 6990,
+  "status": "нет в наличии",
+  "note": "pos 7, 1200x1600, packshot; page shows OutOfStock"
+ },
+ {
+  "code": "C22",
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/330887/",
+  "file": "capsule/src/C22.jpg",
+  "photo_url": "https://imgcdn.loverepublic.ru/upload/images/64491/644915045_99_4.jpg",
+  "title": "Манишка из экомеха 644915045-99",
+  "price": 6999,
+  "status": "ok",
+  "note": "pos 2, 900x1200, packshot"
+ },
+ {
+  "code": "C23",
+  "url": "https://limestore.com/ru_ru/product/38066-4312_911_821_iantarnyi",
+  "file": "capsule/src/C23.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/f5b948a3b0cb5926ba24a24b983a9b14.jpeg",
+  "title": "Широкое кольцо с элементом под янтарь",
+  "price": 1599,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 5; size 1333x2000"
+ },
+ {
+  "code": "C24",
+  "url": "https://limestore.com/ru_ru/product/36101-2144_787_710_zolotoi",
+  "file": "capsule/src/C24.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/7114c65f9618515aa4e14a2b11167f8a.jpeg",
+  "title": "Перстень из металла с камнем",
+  "price": 1199,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 3; size 1333x2000"
+ },
+ {
+  "code": "C25",
+  "url": "https://selfmade.ru/collection/novinki/product/kardigan-iz-kashemira-21c568",
+  "file": "capsule/src/C25.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/1873/3316729681/Selfmade_21_09_35598_05.jpg",
+  "title": "Нежный кардиган из кашемира «Глинтвейн»",
+  "price": 26990,
+  "status": "ok",
+  "note": "pos 9, 1200x1600, packshot"
+ },
+ {
+  "code": "C26",
+  "url": "https://limestore.com/ru_ru/product/28997_0817_544-vinnyi",
+  "file": "capsule/src/C26.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/8da4c105bd195414831fdfab957252e6.jpeg",
+  "title": "Перчатки из овечьей кожи",
+  "price": 4599,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 5; size 1333x2000; same product as T18"
+ },
+ {
+  "code": "C27",
+  "url": "https://limestore.com/ru_ru/product/31393_5313_701-5313_701_821_iantarnyi",
+  "file": "capsule/src/C27.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/78d10a115b63520fa55d6f42ecbb3d12.jpeg",
+  "title": "Топ с шелком и кашемиром",
+  "price": 4999,
+  "status": "ok",
+  "note": "в наличии не проверено по размерам; gallery pos 5; size 1333x2000"
+ },
+ {
+  "code": "R01",
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/max-mara/slideshow/collection",
+  "file": "runway/R01.jpg",
+  "photo_url": "https://assets.vogue.com/photos/69a03cca1a0e8156f983e99d/master/pass/00010-max-mara-fall-2026-ready-to-wear-credit-gorunway.jpg",
+  "title": "Max Mara Fall/Winter 2026-27 RTW, look 10 — camel double-breasted long wool coat with suede shoulders, tote",
+  "price": null,
+  "status": "ok",
+  "note": "2732x4098; Vogue Runway (assets.vogue.com, master original)"
+ },
+ {
+  "code": "R02",
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/saint-laurent/slideshow/collection",
+  "file": "runway/R02.jpg",
+  "photo_url": "https://assets.vogue.com/photos/69a81e19b5a9ac76d85f8175/master/pass/00014-saint-laurent-fall-2026-ready-to-wear-credit-gorunway.jpg",
+  "title": "Saint Laurent Fall/Winter 2026-27 RTW, look 14 — tan fur jacket with belt bow over lace slip, tights",
+  "price": null,
+  "status": "ok",
+  "note": "2732x4098; Vogue Runway (assets.vogue.com, master original)"
+ },
+ {
+  "code": "R03",
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/celine/slideshow/collection",
+  "file": "runway/R03.jpg",
+  "photo_url": "https://assets.vogue.com/photos/69b003baac0c35736e152970/master/pass/00032-celine-fall-2026-ready-to-wear-credit-brand.jpg",
+  "title": "Celine Fall/Winter 2026-27 RTW, look 32 — khaki trench coat over red sequin midi dress, white boots",
+  "price": null,
+  "status": "ok",
+  "note": "2732x4098; Vogue Runway (assets.vogue.com, master original)"
+ },
+ {
+  "code": "R04",
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/bottega-veneta/slideshow/collection",
+  "file": "runway/R04.jpg",
+  "photo_url": "https://assets.vogue.com/photos/69a449258095a5361a0c77e4/master/pass/00016-bottega-veneta-fall-2026-ready-to-wear-credit-brand.jpg",
+  "title": "Bottega Veneta Fall/Winter 2026-27 RTW, look 16 — belted tan leather trench coat, wide trousers",
+  "price": null,
+  "status": "ok",
+  "note": "2732x4098; Vogue Runway (assets.vogue.com, master original)"
+ },
+ {
+  "code": "R05",
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/loewe/slideshow/collection",
+  "file": "runway/R05.jpg",
+  "photo_url": "https://assets.vogue.com/photos/69aae9baf8492b9f7e063322/master/pass/00041-loewe-fall-2026-ready-to-wear-credit-gorunway.jpg",
+  "title": "Loewe Fall/Winter 2026-27 RTW, look 41 — oversized dark plaid wool coat with gingham lining",
+  "price": null,
+  "status": "ok",
+  "note": "2732x4098; Vogue Runway (assets.vogue.com, master original)"
+ },
+ {
+  "code": "R06",
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/tory-burch/slideshow/collection",
+  "file": "runway/R06.jpg",
+  "photo_url": "https://assets.vogue.com/photos/698d3ecd346412733c42e6ec/master/pass/00002-tory-burch-fall-2026-ready-to-wear-credit-gorunway.jpg",
+  "title": "Tory Burch Fall/Winter 2026-27 RTW, look 2 — taupe knit sweater with collar, corduroy wide trousers",
+  "price": null,
+  "status": "ok",
+  "note": "4098x6147; Vogue Runway (assets.vogue.com, master original)"
+ },
+ {
+  "code": "R07",
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/prada/slideshow/collection",
+  "file": "runway/R07.jpg",
+  "photo_url": "https://assets.vogue.com/photos/69a076db59dc90ed42f38263/master/pass/00006-prada-fall-2026-ready-to-wear-credit-gorunway.jpg",
+  "title": "Prada Fall/Winter 2026-27 RTW, look 6 — dark brown leather coat over printed skirt, boots",
+  "price": null,
+  "status": "ok",
+  "note": "2732x4098; Vogue Runway (assets.vogue.com, master original)"
+ },
+ {
+  "code": "R08",
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/chloe/slideshow/collection",
+  "file": "runway/R08.jpg",
+  "photo_url": "https://assets.vogue.com/photos/69a9931f54fb280c82d1c8d7/master/pass/00029-chloe-fall-2026-ready-to-wear-credit-brand.jpg",
+  "title": "Chloe Fall/Winter 2026-27 RTW, look 29 — red plaid wool coat with fringed cape, boots",
+  "price": null,
+  "status": "ok",
+  "note": "2732x4098; Vogue Runway (assets.vogue.com, master original)"
+ }
+]
