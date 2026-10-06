@@ -362,12 +362,44 @@
  {
   "code": "C01",
   "url": "https://limestore.com/ru_ru/product/36835-2835_858_321_olivkovyi",
+  "file": "capsule/C01.png",
+  "photo_url": null,
+  "title": "Солнцезащитные очки в пластиковой оправе",
+  "price": 3599,
+  "status": "ok",
+  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+ },
+ {
+  "code": "C01",
+  "url": "https://limestore.com/ru_ru/product/36835-2835_858_321_olivkovyi",
+  "file": "capsule/site/C01.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/a275dbe250295dd29f00eb19bb258d2d.jpeg",
+  "title": "Солнцезащитные очки в пластиковой оправе",
+  "price": 3599,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #2, chosen gallery #4 (packshot); "
+ },
+ {
+  "code": "C01",
+  "url": "https://limestore.com/ru_ru/product/36835-2835_858_321_olivkovyi",
   "file": "capsule/src/C01.jpg",
   "photo_url": "https://a.cdn.lime-shine.com/p/dbe9f860e97a522c80273512461a8dd6.jpeg",
   "title": "Солнцезащитные очки в пластиковой оправе",
   "price": 3599,
   "status": "ok",
   "note": "в наличии не проверено по размерам; gallery pos 2; size 1333x2000"
+ },
+ {
+  "code": "C02",
+  "url": "https://selfmade.ru/collection/novinki/product/zhaket-pritalennyy-67de3a",
+  "file": "capsule/site/C02.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/4473/3288076665/selfmade_28_084890.jpg",
+  "title": "Приталенный жакет из шерсти «Между встречами»",
+  "price": 26990,
+  "status": "ok",
+  "site_differs": false,
+  "note": "guide used gallery #11, chosen gallery #5 (on model); only one packshot (guide used it)"
  },
  {
   "code": "C02",
@@ -382,12 +414,44 @@
  {
   "code": "C03",
   "url": "https://limestore.com/ru_ru/product/37471-3898_012_040_serebrianyi",
+  "file": "capsule/C03.png",
+  "photo_url": null,
+  "title": "Серьги-кольца из латуни",
+  "price": 1599,
+  "status": "ok",
+  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+ },
+ {
+  "code": "C03",
+  "url": "https://limestore.com/ru_ru/product/37471-3898_012_040_serebrianyi",
+  "file": "capsule/site/C03.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/8bdf5b22cd955593a0c9d70e036381c0.jpeg",
+  "title": "Серьги-кольца из латуни",
+  "price": 1599,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #3, chosen gallery #4 (packshot); "
+ },
+ {
+  "code": "C03",
+  "url": "https://limestore.com/ru_ru/product/37471-3898_012_040_serebrianyi",
   "file": "capsule/src/C03.jpg",
   "photo_url": "https://a.cdn.lime-shine.com/p/284e69b679ac53edb3bc6aa4b8cb8276.jpeg",
   "title": "Серьги-кольца из латуни",
   "price": 1599,
   "status": "ok",
   "note": "в наличии не проверено по размерам; gallery pos 3; size 1333x2000"
+ },
+ {
+  "code": "C04",
+  "url": "https://ivolga.moscow/product/kardigan-trikotazhnyy-persikovogo-tsveta/",
+  "file": "capsule/site/C04.jpg",
+  "photo_url": null,
+  "title": "Кардиган трикотажный персикового цвета",
+  "price": 8900,
+  "status": "ok",
+  "site_differs": false,
+  "note": "guide used gallery #1, chosen gallery #4 (on model); only packshot is guide one; photo_url not resolved (local gallery file g/C04/04.jpg)"
  },
  {
   "code": "C04",
@@ -402,12 +466,34 @@
  {
   "code": "C05",
   "url": "https://ankabags.ru/product/248084323762-ekler-kroko-platina",
+  "file": "capsule/site/C05.jpg",
+  "photo_url": null,
+  "title": "Клатч из натуральной кожи Эклер кроко платина",
+  "price": 12150,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used 2 or 1 (unsure), chosen gallery #1 (packshot); guide match ambiguous between #1/#2; photo_url not resolved (local gallery file g/C05/01.jpg)"
+ },
+ {
+  "code": "C05",
+  "url": "https://ankabags.ru/product/248084323762-ekler-kroko-platina",
   "file": "capsule/src/C05.jpg",
   "photo_url": "https://static.tildacdn.com/stor6331-3638-4438-b735-366337396366/41c1727ed4e64efbac0927bb7294abb1.png",
   "title": "Клатч из натуральной кожи Эклер кроко платина",
   "price": 12150,
   "status": "ok",
   "note": "pos 2, 1086x1448, packshot"
+ },
+ {
+  "code": "C06",
+  "url": "https://ivolga.moscow/product/bryuki-trikotazhnye-persikovogo-tsveta/",
+  "file": "capsule/site/C06.jpg",
+  "photo_url": null,
+  "title": "Брюки трикотажные персикового цвета",
+  "price": 12200,
+  "status": "ok",
+  "site_differs": false,
+  "note": "guide used gallery #1, chosen gallery #2 (on model); only packshot is guide one; photo_url not resolved (local gallery file g/C06/02.jpg)"
  },
  {
   "code": "C06",
@@ -422,12 +508,44 @@
  {
   "code": "C07",
   "url": "https://tod-store.ru/shop/tufli-iz-vintazhnoj-kozhi-cvet-seryj-vintazh/",
+  "file": "capsule/site/C07.jpg",
+  "photo_url": null,
+  "title": "Туфли из винтажной кожи без банта, серый винтаж, каблук 7 см",
+  "price": 25900,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #2, chosen gallery #1 (packshot); side view; photo_url not resolved (local gallery file g/C07/01.jpg)"
+ },
+ {
+  "code": "C07",
+  "url": "https://tod-store.ru/shop/tufli-iz-vintazhnoj-kozhi-cvet-seryj-vintazh/",
   "file": "capsule/src/C07.jpg",
   "photo_url": "https://tod-store.ru/wp-content/uploads/2026/09/01-35.jpg",
   "title": "Туфли из винтажной кожи без банта, серый винтаж, каблук 7 см",
   "price": 25900,
   "status": "ok",
   "note": "pos 1, 600x900, packshot; side view, preorder up to 14 days; pos 2 is top-down pair"
+ },
+ {
+  "code": "C08",
+  "url": "https://limestore.com/ru_ru/product/37433-3897_767_821_iantarnyi",
+  "file": "capsule/C08.png",
+  "photo_url": null,
+  "title": "Квадратные серьги с элементом под янтарь",
+  "price": 2599,
+  "status": "ok",
+  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+ },
+ {
+  "code": "C08",
+  "url": "https://limestore.com/ru_ru/product/37433-3897_767_821_iantarnyi",
+  "file": "capsule/site/C08.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/e91ee09d50815793a2e0a7a97077e217.jpeg",
+  "title": "Квадратные серьги с элементом под янтарь",
+  "price": 2599,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #3, chosen gallery #4 (packshot); "
  },
  {
   "code": "C08",
@@ -442,12 +560,44 @@
  {
   "code": "C09",
   "url": "https://selfmade.ru/collection/novinki/product/palto-odnobortnoe-3",
+  "file": "capsule/site/C09.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/7497/3281313097/IMG_9851.jpeg",
+  "title": "Однобортное пальто из шерсти с шарфом «Суфле»",
+  "price": 39990,
+  "status": "ok",
+  "site_differs": false,
+  "note": "guide used gallery #10, chosen gallery #8 (on model); only coat packshot is guide one"
+ },
+ {
+  "code": "C09",
+  "url": "https://selfmade.ru/collection/novinki/product/palto-odnobortnoe-3",
   "file": "capsule/src/C09.jpg",
   "photo_url": "https://cdn.insales-shop.ru/images/products/1/5529/3280926105/Selfmade_20_08_27044_05.jpg",
   "title": "Однобортное пальто из шерсти с шарфом «Суфле»",
   "price": 39990,
   "status": "ok",
   "note": "pos 10, 1200x1600, packshot; coat only, scarf separate at pos 11"
+ },
+ {
+  "code": "C10",
+  "url": "https://limestore.com/ru_ru/product/36796-1711_694_210_koricnevyi",
+  "file": "capsule/C10.png",
+  "photo_url": null,
+  "title": "Блейзер с тиснением под кожу крокодила",
+  "price": 9999,
+  "status": "ok",
+  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+ },
+ {
+  "code": "C10",
+  "url": "https://limestore.com/ru_ru/product/36796-1711_694_210_koricnevyi",
+  "file": "capsule/site/C10.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/3aebd05e858b50c48a02077ff73a86d0.jpeg",
+  "title": "Блейзер с тиснением под кожу крокодила",
+  "price": 9999,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #4, chosen gallery #5 (packshot); back view"
  },
  {
   "code": "C10",
@@ -462,12 +612,54 @@
  {
   "code": "C11",
   "url": "https://limestore.com/ru_ru/product/36447-0528_037_603_vinnyi",
+  "file": "capsule/C11.png",
+  "photo_url": null,
+  "title": "Мягкий клатч с отделкой под кожу",
+  "price": 5999,
+  "status": "ok",
+  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+ },
+ {
+  "code": "C11",
+  "url": "https://limestore.com/ru_ru/product/36447-0528_037_603_vinnyi",
+  "file": "capsule/site/C11.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/3eed2eb98ffe50559896dbde383659a3.jpeg",
+  "title": "Мягкий клатч с отделкой под кожу",
+  "price": 5999,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #4, chosen gallery #3 (packshot); "
+ },
+ {
+  "code": "C11",
+  "url": "https://limestore.com/ru_ru/product/36447-0528_037_603_vinnyi",
   "file": "capsule/src/C11.jpg",
   "photo_url": "https://a.cdn.lime-shine.com/p/f0718bf89e875e78ba5774e21648240b.jpeg",
   "title": "Мягкий клатч с отделкой под кожу",
   "price": 5999,
   "status": "ok",
   "note": "в наличии не проверено по размерам; gallery pos 4; size 1333x2000"
+ },
+ {
+  "code": "C12",
+  "url": "https://limestore.com/ru_ru/product/37303-1267_274_925_bezevyi_koricnevyi",
+  "file": "capsule/C12.png",
+  "photo_url": null,
+  "title": "Юбка миди с меховой отделкой",
+  "price": 7999,
+  "status": "ok",
+  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+ },
+ {
+  "code": "C12",
+  "url": "https://limestore.com/ru_ru/product/37303-1267_274_925_bezevyi_koricnevyi",
+  "file": "capsule/site/C12.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/3e261521f2a25cc5920311e2f5ed9917.jpeg",
+  "title": "Юбка миди с меховой отделкой",
+  "price": 7999,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #5, chosen gallery #6 (packshot); "
  },
  {
   "code": "C12",
@@ -482,12 +674,54 @@
  {
   "code": "C13",
   "url": "https://www.lamoda.ru/p/mp002xw0yz8j/clothes-calzedonia-kolgotki/",
+  "file": "capsule/C13.png",
+  "photo_url": null,
+  "title": "Колготки Calzedonia 15 Den матовые, коричневый",
+  "price": 1499,
+  "status": "нет в наличии",
+  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+ },
+ {
+  "code": "C13",
+  "url": "https://www.lamoda.ru/p/mp002xw0yz8j/clothes-calzedonia-kolgotki/",
+  "file": "capsule/site/C13.jpg",
+  "photo_url": null,
+  "title": "Колготки Calzedonia 15 Den матовые, коричневый",
+  "price": 1499,
+  "status": "нет в наличии",
+  "site_differs": false,
+  "note": "guide used gallery #1, chosen gallery #1 (packshot); gallery has only 2 photos (2nd is close-up); same photo; photo_url not resolved (local lamoda:21357214_1_v1_2x)"
+ },
+ {
+  "code": "C13",
+  "url": "https://www.lamoda.ru/p/mp002xw0yz8j/clothes-calzedonia-kolgotki/",
   "file": "capsule/src/C13.jpg",
   "photo_url": "https://a.lmcdn.ru/product/M/P/MP002XW0YZ8J_21357214_1_v1_2x.jpg",
   "title": "Колготки Calzedonia 15 Den матовые, коричневый",
   "price": 1499,
   "status": "нет в наличии",
   "note": "gallery pos 1; size 1524x2200"
+ },
+ {
+  "code": "C14",
+  "url": "https://www.lamoda.ru/p/mp002xw1mu03/shoes-wysh-tufli/",
+  "file": "capsule/C14.png",
+  "photo_url": null,
+  "title": "Туфли Wysh, коричневый",
+  "price": 6990,
+  "status": "ok",
+  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+ },
+ {
+  "code": "C14",
+  "url": "https://www.lamoda.ru/p/mp002xw1mu03/shoes-wysh-tufli/",
+  "file": "capsule/site/C14.jpg",
+  "photo_url": null,
+  "title": "Туфли Wysh, коричневый",
+  "price": 6990,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #4, chosen gallery #2 (packshot); ; photo_url not resolved (local lamoda:34800798_2_v2_2x)"
  },
  {
   "code": "C14",
@@ -502,12 +736,54 @@
  {
   "code": "C15",
   "url": "https://limestore.com/ru_ru/product/37648-2270_945_601_temno_krasnyi",
+  "file": "capsule/C15.png",
+  "photo_url": null,
+  "title": "Свитер с фигурным вырезом",
+  "price": 5999,
+  "status": "ok",
+  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+ },
+ {
+  "code": "C15",
+  "url": "https://limestore.com/ru_ru/product/37648-2270_945_601_temno_krasnyi",
+  "file": "capsule/site/C15.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/0523a7c658d45547affa72d446cf3f9d.jpeg",
+  "title": "Свитер с фигурным вырезом",
+  "price": 5999,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #4, chosen gallery #5 (packshot); back view"
+ },
+ {
+  "code": "C15",
+  "url": "https://limestore.com/ru_ru/product/37648-2270_945_601_temno_krasnyi",
   "file": "capsule/src/C15.jpg",
   "photo_url": "https://a.cdn.lime-shine.com/p/4d45765487595741903662322af34352.jpeg",
   "title": "Свитер с фигурным вырезом",
   "price": 5999,
   "status": "ok",
   "note": "в наличии не проверено по размерам; gallery pos 4; size 1333x2000"
+ },
+ {
+  "code": "C16",
+  "url": "https://limestore.com/ru_ru/product/37217-3210_166_435_mineralnyi_sinii",
+  "file": "capsule/C16.png",
+  "photo_url": null,
+  "title": "Миди-юбка с тиснением под кожу крокодила",
+  "price": 4999,
+  "status": "ok",
+  "note": "Codex-generated packshot (RGBA); brand labels removed — backup only, owner prefers site photos"
+ },
+ {
+  "code": "C16",
+  "url": "https://limestore.com/ru_ru/product/37217-3210_166_435_mineralnyi_sinii",
+  "file": "capsule/site/C16.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/3cdf81b59a2d5971ac15a9af548c2c88.jpeg",
+  "title": "Миди-юбка с тиснением под кожу крокодила",
+  "price": 4999,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #5, chosen gallery #6 (packshot); back view"
  },
  {
   "code": "C16",
@@ -522,12 +798,34 @@
  {
   "code": "C17",
   "url": "https://selfmade.ru/collection/aksessuary/product/shapka-9639b2",
+  "file": "capsule/site/C17.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/6073/3281483705/IMG_9285_.jpeg",
+  "title": "Шапка-бини из шерстяной пряжи «Свободный вечер»",
+  "price": 6990,
+  "status": "ok",
+  "site_differs": false,
+  "note": "guide used gallery #10, chosen gallery #1 (on model); only packshot is guide one"
+ },
+ {
+  "code": "C17",
+  "url": "https://selfmade.ru/collection/aksessuary/product/shapka-9639b2",
   "file": "capsule/src/C17.jpg",
   "photo_url": "https://cdn.insales-shop.ru/images/products/1/8009/3280928585/Selfmade_20_08_27076_05.jpg",
   "title": "Шапка-бини из шерстяной пряжи «Свободный вечер»",
   "price": 6990,
   "status": "ok",
   "note": "pos 10, 1200x1600, packshot"
+ },
+ {
+  "code": "C18",
+  "url": "https://selfmade.ru/collection/novinki/product/vodolazka-oblegayuschaya-0f72cb",
+  "file": "capsule/site/C18.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/6497/3288029537/selfmade_28_083967.jpg",
+  "title": "Деликатная водолазка с шерстью «Оливка»",
+  "price": 6990,
+  "status": "ok",
+  "site_differs": false,
+  "note": "guide used gallery #9, chosen gallery #5 (on model); only packshot is guide one"
  },
  {
   "code": "C18",
@@ -542,12 +840,34 @@
  {
   "code": "C19",
   "url": "https://limestore.com/ru_ru/product/37803-9812_846_120_molocnyi",
+  "file": "capsule/site/C19.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/d4502b0d88f85bb390b97c176d930e56.jpeg",
+  "title": "Прямые джинсы с высокой посадкой",
+  "price": 4999,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #5, chosen gallery #6 (packshot); back view"
+ },
+ {
+  "code": "C19",
+  "url": "https://limestore.com/ru_ru/product/37803-9812_846_120_molocnyi",
   "file": "capsule/src/C19.jpg",
   "photo_url": "https://a.cdn.lime-shine.com/p/5b81c9a0b1f956a3aab2a1a256dea65b.jpeg",
   "title": "Прямые джинсы с высокой посадкой",
   "price": 4999,
   "status": "ok",
   "note": "в наличии не проверено по размерам; gallery pos 5; size 1333x2000"
+ },
+ {
+  "code": "C20",
+  "url": "https://limestore.com/ru_ru/product/27989_7532_869-temno_seryi_melanz",
+  "file": "capsule/site/C20.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/89bef4c3fe5e5ae0b0b2bb8ae4ef9076.jpeg",
+  "title": "Жилет с верблюжьим пухом",
+  "price": 4999,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #5, chosen gallery #6 (packshot); back view"
  },
  {
   "code": "C20",
@@ -562,12 +882,34 @@
  {
   "code": "C21",
   "url": "https://selfmade.ru/collection/novinki/product/vodolazka-oblegayuschaya-38adef",
+  "file": "capsule/site/C21.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/7537/3314408817/SELFMADE_17_097971.jpg",
+  "title": "Деликатная водолазка с шерстью «Горячий шоколад»",
+  "price": 6990,
+  "status": "нет в наличии",
+  "site_differs": false,
+  "note": "guide used gallery #7, chosen gallery #2 (on model); only packshot is guide one"
+ },
+ {
+  "code": "C21",
+  "url": "https://selfmade.ru/collection/novinki/product/vodolazka-oblegayuschaya-38adef",
   "file": "capsule/src/C21.jpg",
   "photo_url": "https://cdn.insales-shop.ru/images/products/1/6681/3316783641/Selfmade_21_09_35556_05.jpg",
   "title": "Деликатная водолазка с шерстью «Горячий шоколад»",
   "price": 6990,
   "status": "нет в наличии",
   "note": "pos 7, 1200x1600, packshot; page shows OutOfStock"
+ },
+ {
+  "code": "C22",
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/330887/",
+  "file": "capsule/site/C22.jpg",
+  "photo_url": null,
+  "title": "Манишка из экомеха 644915045-99",
+  "price": 6999,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #2, chosen gallery #3 (packshot); ; photo_url not resolved (local gallery file g/C22/03.jpg)"
  },
  {
   "code": "C22",
@@ -582,12 +924,34 @@
  {
   "code": "C23",
   "url": "https://limestore.com/ru_ru/product/38066-4312_911_821_iantarnyi",
+  "file": "capsule/site/C23.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/9fb7555d93d85f5abc5ab878ab45f418.jpeg",
+  "title": "Широкое кольцо с элементом под янтарь",
+  "price": 1599,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used unknown, chosen gallery #6 (packshot); guide is ring close crop, likely #4/#5/#6"
+ },
+ {
+  "code": "C23",
+  "url": "https://limestore.com/ru_ru/product/38066-4312_911_821_iantarnyi",
   "file": "capsule/src/C23.jpg",
   "photo_url": "https://a.cdn.lime-shine.com/p/f5b948a3b0cb5926ba24a24b983a9b14.jpeg",
   "title": "Широкое кольцо с элементом под янтарь",
   "price": 1599,
   "status": "ok",
   "note": "в наличии не проверено по размерам; gallery pos 5; size 1333x2000"
+ },
+ {
+  "code": "C24",
+  "url": "https://limestore.com/ru_ru/product/36101-2144_787_710_zolotoi",
+  "file": "capsule/site/C24.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/27803bc2c47459a7b74a3325cb707059.jpeg",
+  "title": "Перстень из металла с камнем",
+  "price": 1199,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used unknown, chosen gallery #4 (packshot); guide likely #2"
  },
  {
   "code": "C24",
@@ -602,6 +966,17 @@
  {
   "code": "C25",
   "url": "https://selfmade.ru/collection/novinki/product/kardigan-iz-kashemira-21c568",
+  "file": "capsule/site/C25.jpg",
+  "photo_url": "https://cdn.insales-shop.ru/images/products/1/4257/3314692257/SELFMADE_18_09_12299.jpg",
+  "title": "Нежный кардиган из кашемира «Глинтвейн»",
+  "price": 26990,
+  "status": "ok",
+  "site_differs": false,
+  "note": "guide used gallery #9, chosen gallery #2 (on model); only packshot is guide one"
+ },
+ {
+  "code": "C25",
+  "url": "https://selfmade.ru/collection/novinki/product/kardigan-iz-kashemira-21c568",
   "file": "capsule/src/C25.jpg",
   "photo_url": "https://cdn.insales-shop.ru/images/products/1/1873/3316729681/Selfmade_21_09_35598_05.jpg",
   "title": "Нежный кардиган из кашемира «Глинтвейн»",
@@ -612,12 +987,34 @@
  {
   "code": "C26",
   "url": "https://limestore.com/ru_ru/product/28997_0817_544-vinnyi",
+  "file": "capsule/site/C26.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/8da4c105bd195414831fdfab957252e6.jpeg",
+  "title": "Перчатки из овечьей кожи",
+  "price": 4599,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used gallery #4, chosen gallery #5 (packshot); "
+ },
+ {
+  "code": "C26",
+  "url": "https://limestore.com/ru_ru/product/28997_0817_544-vinnyi",
   "file": "capsule/src/C26.jpg",
   "photo_url": "https://a.cdn.lime-shine.com/p/8da4c105bd195414831fdfab957252e6.jpeg",
   "title": "Перчатки из овечьей кожи",
   "price": 4599,
   "status": "ok",
   "note": "в наличии не проверено по размерам; gallery pos 5; size 1333x2000; same product as T18"
+ },
+ {
+  "code": "C27",
+  "url": "https://limestore.com/ru_ru/product/31393_5313_701-5313_701_821_iantarnyi",
+  "file": "capsule/site/C27.jpg",
+  "photo_url": "https://a.cdn.lime-shine.com/p/7a06cc5b657058518f8bf153edbc2567.jpeg",
+  "title": "Топ с шелком и кашемиром",
+  "price": 4999,
+  "status": "ok",
+  "site_differs": true,
+  "note": "guide used 5 (or 6), chosen gallery #6 (packshot); back view; guide match #5/#6 near-tie"
  },
  {
   "code": "C27",
