@@ -932,18 +932,18 @@
  },
  {
   "code": "N9d",
-  "shop": "befree",
-  "title": "Угги из натуральной замши на платформе",
-  "color": "коричневый",
-  "price": 5999,
-  "url": "https://befree.ru/zhenskaya/product/BF2646687006/20",
+  "shop": "lime",
+  "title": "Кожаные лоферы с пушистым мехом",
+  "color": "тёмно-бежевый",
+  "price": 14999,
+  "url": "https://limestore.com/ru_ru/product/38908-3792_732_251_temno_bezevyi",
   "files": [
    "products/N9d_1.jpg",
    "products/N9d_2.jpg",
    "products/N9d_3.jpg"
   ],
   "packshot_file": "products/N9d_3.jpg",
-  "note": "21 size variants flagged in stock online"
+  "note": "sizes in stock: 37, 38, 39, 40, 41; article 3792-732"
  },
  {
   "code": "W1",
