@@ -378,6 +378,34 @@
   "note": "sizes in stock: XS, S, M, L, XL"
  },
  {
+  "code": "K28",
+  "shop": "lime",
+  "title": "Базовый свитер из полушерсти",
+  "color": "молочный",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/37661-2888_608_120_molocnyi",
+  "files": [
+   "capsule/site/K28_1.jpg",
+   "capsule/site/K28_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K28_1.jpg",
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "K29",
+  "shop": "lime",
+  "title": "Базовая юбка из полушерсти",
+  "color": "молочный",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/37679-2889_608_120_molocnyi",
+  "files": [
+   "capsule/site/K29_1.jpg",
+   "capsule/site/K29_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K29_1.jpg",
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
   "code": "N1a",
   "shop": "befree",
   "title": "Пальто с леопардовым принтом и меховой отделкой",
