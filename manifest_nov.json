@@ -1,1160 +1,1160 @@
 [
-  {
-    "code": "K01",
-    "shop": "lime",
-    "title": "Утепленное пальто оверсайз из шерсти",
-    "color": "коричневый меланж",
-    "price": 17999,
-    "url": "https://limestore.com/ru_ru/product/34694-0437_122_211_koricnevyi_melanz",
-    "files": [
-      "capsule/site/K01_1.jpg",
-      "capsule/site/K01_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K01_1.jpg",
-    "note": "sizes in stock: XS, S, M, L"
-  },
-  {
-    "code": "K02",
-    "shop": "befree",
-    "title": "Пуховик стеганый утепленный с капюшоном",
-    "color": "молочно-жёлтый",
-    "price": 12999,
-    "url": "https://befree.ru/zhenskaya/product/BF2641601012/9",
-    "files": [
-      "capsule/site/K02_1.jpg",
-      "capsule/site/K02_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K02_1.jpg",
-    "note": "15 size variants flagged in stock online"
-  },
-  {
-    "code": "K03",
-    "shop": "lime",
-    "title": "Приталенный свитер фактурной вязки с шерстью",
-    "color": "молочный",
-    "price": 5999,
-    "url": "https://limestore.com/ru_ru/product/38990-3342_552_120_molocnyi",
-    "files": [
-      "capsule/site/K03_1.jpg",
-      "capsule/site/K03_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K03_1.jpg",
-    "note": "sizes in stock: S, M, L"
-  },
-  {
-    "code": "K04",
-    "shop": "befree",
-    "title": "Джемпер оверсайз пушистый с добавлением шерсти",
-    "color": "серый",
-    "price": 3299,
-    "url": "https://befree.ru/zhenskaya/product/BF2641526085/39",
-    "files": [
-      "capsule/site/K04_1.jpg",
-      "capsule/site/K04_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K04_1.jpg",
-    "note": "10 size variants flagged in stock online"
-  },
-  {
-    "code": "K05",
-    "shop": "2mood",
-    "title": "Кардиган из шерсти с кашемиром",
-    "color": "серый",
-    "price": 16980,
-    "url": "https://www.2moodstore.com/collection/katalog/kardigan_s_vorotnikom_stoykoy_serogo_tsveta/",
-    "files": [
-      "capsule/site/K05_1.jpg",
-      "capsule/site/K05_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K05_1.jpg",
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "K06",
-    "shop": "selfmade",
-    "title": "Деликатная водолазка с шерстью «Горячий шоколад»",
-    "color": "Шоколадный",
-    "price": 6990,
-    "url": "https://selfmade.ru/collection/trikotazh-2/product/vodolazka-oblegayuschaya-38adef",
-    "files": [
-      "capsule/site/K06_1.jpg",
-      "capsule/site/K06_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K06_1.jpg",
-    "note": "sizes in stock: XS, S, M, L"
-  },
-  {
-    "code": "K07",
-    "shop": "befree",
-    "title": "Рубашка прямая хлопковая",
-    "color": "бежевый",
-    "price": 1799,
-    "url": "https://befree.ru/zhenskaya/product/BF2631418042/65",
-    "files": [
-      "capsule/site/K07_1.jpg",
-      "capsule/site/K07_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K07_1.jpg",
-    "note": "20 size variants flagged in stock online"
-  },
-  {
-    "code": "K08",
-    "shop": "2mood",
-    "title": "Брюки из шерсти с кашемиром",
-    "color": "коричневый",
-    "price": 19980,
-    "url": "https://www.2moodstore.com/collection/katalog/bryuki_pryamye_s_dobavleniem_kashemira_korichnevogo_tsveta/",
-    "files": [
-      "capsule/site/K08_1.jpg",
-      "capsule/site/K08_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K08_1.jpg",
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "K09",
-    "shop": "lime",
-    "title": "Широкие брюки клеш со складками",
-    "color": "серо-бежевый",
-    "price": 4999,
-    "url": "https://limestore.com/ru_ru/product/31086_3473_474-sero_bezevyi",
-    "files": [
-      "capsule/site/K09_1.jpg",
-      "capsule/site/K09_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K09_1.jpg",
-    "note": "sizes in stock: XS, S, M, L, XL"
-  },
-  {
-    "code": "K10",
-    "shop": "lime",
-    "title": "Прямые джинсы с высокой посадкой",
-    "color": "серый ледник",
-    "price": 5599,
-    "url": "https://limestore.com/ru_ru/product/35126-5425_038_051_seryi_lednik",
-    "files": [
-      "capsule/site/K10_1.jpg",
-      "capsule/site/K10_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K10_1.jpg",
-    "note": "sizes in stock: 34, 36, 38, 40, 42, 44"
-  },
-  {
-    "code": "K11",
-    "shop": "lr",
-    "title": "Трикотажная юбка миди с шерстью",
-    "color": "коричневый",
-    "price": 5999,
-    "url": "https://loverepublic.ru/catalog/odezhda/yubki/331525/",
-    "files": [
-      "capsule/site/K11_1.jpg",
-      "capsule/site/K11_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K11_1.jpg",
-    "note": "sizes in stock: XL, L, M, S, XS, XXS"
-  },
-  {
-    "code": "K12",
-    "shop": "lr",
-    "title": "Юбка миди А-силуэта",
-    "color": "серый",
-    "price": 6999,
-    "url": "https://loverepublic.ru/catalog/odezhda/yubki/337507/",
-    "files": [
-      "capsule/site/K12_1.jpg",
-      "capsule/site/K12_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K12_1.jpg",
-    "note": "sizes in stock: 48, 46, 44, 42, 40"
-  },
-  {
-    "code": "K13",
-    "shop": "lime",
-    "title": "Свободное платье вязки аранами с ангорой и шерстью",
-    "color": "молочный",
-    "price": 10999,
-    "url": "https://limestore.com/ru_ru/product/38702-3354_218_120_molocnyi",
-    "files": [
-      "capsule/site/K13_1.jpg",
-      "capsule/site/K13_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K13_1.jpg",
-    "note": "sizes in stock: XS/S, M/L"
-  },
-  {
-    "code": "K14",
-    "shop": "lime",
-    "title": "Высокие сапоги на каблуке из овечьей кожи",
-    "color": "коричневый",
-    "price": 23999,
-    "url": "https://limestore.com/ru_ru/product/38661-3818_884_210_koricnevyi",
-    "files": [
-      "capsule/site/K14_1.jpg",
-      "capsule/site/K14_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K14_1.jpg",
-    "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
-  },
-  {
-    "code": "K15",
-    "shop": "2mood",
-    "title": "Ботильоны на устойчивом каблуке",
-    "color": "тёмно-коричневый",
-    "price": 22980,
-    "url": "https://www.2moodstore.com/collection/katalog/botilony_na_ustoychivom_kabluke_temno_korichnevogo_tsveta/",
-    "files": [
-      "capsule/site/K15_1.jpg",
-      "capsule/site/K15_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K15_1.jpg",
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "K16",
-    "shop": "2mood",
-    "title": "Осенние элегантные лоферы",
-    "color": "тёмно-коричневый",
-    "price": 18980,
-    "url": "https://www.2moodstore.com/collection/katalog/osennie_elegantnye_lofery_temno_korichnevogo_tsveta/",
-    "files": [
-      "capsule/site/K16_1.jpg",
-      "capsule/site/K16_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K16_1.jpg",
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "K17",
-    "shop": "lr",
-    "title": "Сумка-хобо из экокожи",
-    "color": "белый",
-    "price": 5999,
-    "url": "https://loverepublic.ru/catalog/sumki/324270/",
-    "files": [
-      "capsule/site/K17_1.jpg",
-      "capsule/site/K17_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K17_1.jpg",
-    "note": "one size, in stock"
-  },
-  {
-    "code": "K18",
-    "shop": "lime",
-    "title": "Сумка с подвеской-брелоком",
-    "color": "винный",
-    "price": 8999,
-    "url": "https://limestore.com/ru_ru/product/32772_2457_242-2457_242_603_vinnyi",
-    "files": [
-      "capsule/site/K18_1.jpg",
-      "capsule/site/K18_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K18_1.jpg",
-    "note": "one size, in stock"
-  },
-  {
-    "code": "K19",
-    "shop": "2mood",
-    "title": "Шарф из шерсти енота",
-    "color": "серый",
-    "price": 8980,
-    "url": "https://www.2moodstore.com/collection/katalog/sharf_s_sherstyu_enota_serogo_tsveta_1/",
-    "files": [
-      "capsule/site/K19_1.jpg",
-      "capsule/site/K19_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K19_1.jpg",
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "K20",
-    "shop": "sela",
-    "title": "Вязаная шапка из кашемира премиум качества",
-    "color": "молочный",
-    "price": 4599,
-    "url": "https://www.sela.ru/eshop/women/aksessuary/golovnye-ubory/shapki/SL6810163314_60/",
-    "files": [
-      "capsule/site/K20_1.jpg",
-      "capsule/site/K20_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K20_1.jpg",
-    "note": "one size, in stock"
-  },
-  {
-    "code": "K21",
-    "shop": "2mood",
-    "title": "Перчатки из гладкой кожи",
-    "color": "бордовый",
-    "price": 7980,
-    "url": "https://www.2moodstore.com/collection/katalog/perchatki_iz_gladkoy_kozhi_bordovogo_tsveta/",
-    "files": [
-      "capsule/site/K21_1.jpg",
-      "capsule/site/K21_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K21_1.jpg",
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "K22",
-    "shop": "lime",
-    "title": "Базовые колготки 60 ден",
-    "color": "каштановый",
-    "price": 899,
-    "url": "https://limestore.com/ru_ru/product/22858_2037_922-kastanovyi",
-    "files": [
-      "capsule/site/K22_1.jpg",
-      "capsule/site/K22_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K22_1.jpg",
-    "note": "sizes in stock: XS/S, M/L"
-  },
-  {
-    "code": "K23",
-    "shop": "lime",
-    "title": "Ремень из замши",
-    "color": "коричневый",
-    "price": 3999,
-    "url": "https://limestore.com/ru_ru/product/38040-4183_332_210_koricnevyi",
-    "files": [
-      "capsule/site/K23_1.jpg",
-      "capsule/site/K23_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K23_1.jpg",
-    "note": "sizes in stock: XS/S, M/L"
-  },
-  {
-    "code": "K24",
-    "shop": "befree",
-    "title": "Серьги-гвоздики объемные",
-    "color": "золотистый",
-    "price": 199,
-    "url": "https://befree.ru/zhenskaya/product/BF2635551067/6",
-    "files": [
-      "capsule/site/K24_1.jpg",
-      "capsule/site/K24_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K24_1.jpg",
-    "note": "2 size variants flagged in stock online"
-  },
-  {
-    "code": "K25",
-    "shop": "befree",
-    "title": "Серьги-гвоздики в виде пирсинга",
-    "color": "серебристый",
-    "price": 699,
-    "url": "https://befree.ru/zhenskaya/product/BF2645551035/7",
-    "files": [
-      "capsule/site/K25_1.jpg",
-      "capsule/site/K25_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K25_1.jpg",
-    "note": "1 size variants flagged in stock online"
-  },
-  {
-    "code": "K26",
-    "shop": "lime",
-    "title": "Жилет из 100% шерсти",
-    "color": "карамельный",
-    "price": 6999,
-    "url": "https://limestore.com/ru_ru/product/36572-2357_229_222_karamelnyi",
-    "files": [
-      "capsule/site/K26_1.jpg",
-      "capsule/site/K26_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K26_1.jpg",
-    "note": "sizes in stock: S, M, L, XL"
-  },
-  {
-    "code": "K27",
-    "shop": "lime",
-    "title": "Блейзер карго с шерстью",
-    "color": "молочный",
-    "price": 9999,
-    "url": "https://limestore.com/ru_ru/product/35512-1194_709_120_molocnyi",
-    "files": [
-      "capsule/site/K27_1.jpg",
-      "capsule/site/K27_2.jpg"
-    ],
-    "packshot_file": "capsule/site/K27_1.jpg",
-    "note": "sizes in stock: XS, S, M, L, XL"
-  },
-  {
-    "code": "N1a",
-    "shop": "befree",
-    "title": "Пальто с леопардовым принтом и меховой отделкой",
-    "color": "мультиколор",
-    "price": 10999,
-    "url": "https://befree.ru/zhenskaya/product/BF2641602033/99",
-    "files": [
-      "products/N1a_1.jpg",
-      "products/N1a_2.jpg",
-      "products/N1a_3.jpg"
-    ],
-    "packshot_file": "products/N1a_3.jpg",
-    "note": "5 size variants flagged in stock online"
-  },
-  {
-    "code": "N1b",
-    "shop": "2mood",
-    "title": "Пальто длинное с воротником из натурального меха",
-    "color": "чёрный",
-    "price": 39980,
-    "url": "https://www.2moodstore.com/collection/katalog/palto_dlinnoe_s_vorotnikom_iz_naturalnogo_mekha_chernogo_tsveta/",
-    "files": [
-      "products/N1b_1.jpg",
-      "products/N1b_2.jpg",
-      "products/N1b_3.jpg"
-    ],
-    "packshot_file": null,
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "N1c",
-    "shop": "lime",
-    "title": "Пальто из шерсти с меховой отделкой",
-    "color": "темно-серый меланж",
-    "price": 17999,
-    "url": "https://limestore.com/ru_ru/product/35448-7145_302_023_temno_seryi_melanz",
-    "files": [
-      "products/N1c_1.jpg",
-      "products/N1c_2.jpg",
-      "products/N1c_3.jpg"
-    ],
-    "packshot_file": "products/N1c_3.jpg",
-    "note": "sizes in stock: XS, S, M, L"
-  },
-  {
-    "code": "N1d",
-    "shop": "lime",
-    "title": "Двубортное пальто из шерсти с отделкой мехом",
-    "color": "серо-бежевый",
-    "price": 15999,
-    "url": "https://limestore.com/ru_ru/product/37852-7099_503_263_sero_bezevyi_melanz",
-    "files": [
-      "products/N1d_1.jpg",
-      "products/N1d_2.jpg",
-      "products/N1d_3.jpg"
-    ],
-    "packshot_file": null,
-    "note": "sizes in stock: XS, S, M"
-  },
-  {
-    "code": "N2a",
-    "shop": "befree",
-    "title": "Полупальто драповое с меховым воротником",
-    "color": "серый",
-    "price": 6999,
-    "url": "https://befree.ru/zhenskaya/product/BF2641602016/32",
-    "files": [
-      "products/N2a_1.jpg",
-      "products/N2a_2.jpg",
-      "products/N2a_3.jpg"
-    ],
-    "packshot_file": "products/N2a_3.jpg",
-    "note": "10 size variants flagged in stock online"
-  },
-  {
-    "code": "N2b",
-    "shop": "lr",
-    "title": "Пальто из шерсти с высоким воротником",
-    "color": "молочный",
-    "price": 32999,
-    "url": "https://loverepublic.ru/catalog/odezhda/verhnyaya-odezhda/329656/",
-    "files": [
-      "products/N2b_1.jpg",
-      "products/N2b_2.jpg",
-      "products/N2b_3.jpg"
-    ],
-    "packshot_file": "products/N2b_3.jpg",
-    "note": "sizes in stock: XS, S, M, L; article 6450526126-60; photo 3 is the packshot with the collar stood up"
-  },
-  {
-    "code": "N2c",
-    "shop": "zarina",
-    "title": "Пальто на поясе с воротником-стойкой",
-    "color": "тёмно-коричневый",
-    "price": 8999,
-    "url": "https://zarina.ru/catalog/product/ZR2611102213-27/",
-    "files": [
-      "products/N2c_1.jpg",
-      "products/N2c_2.jpg",
-      "products/N2c_3.jpg"
-    ],
-    "packshot_file": "products/N2c_3.jpg",
-    "note": "sizes in stock: 42, 44, 46, 48, 50"
-  },
-  {
-    "code": "N2d",
-    "shop": "zarina",
-    "title": "Пальто из смесовой шерсти со съёмным воротником",
-    "color": "темно-серый меланж",
-    "price": 10999,
-    "url": "https://zarina.ru/catalog/product/ZR2610102219-39/",
-    "files": [
-      "products/N2d_1.jpg",
-      "products/N2d_2.jpg",
-      "products/N2d_3.jpg"
-    ],
-    "packshot_file": "products/N2d_3.jpg",
-    "note": "sizes in stock: 42, 44, 46, 48, 50"
-  },
-  {
-    "code": "N3a",
-    "shop": "lichi",
-    "title": "Пуховик на запах с ремнем",
-    "color": "черный",
-    "price": 27999,
-    "url": "https://lichi.com/ru/ru/product/53034",
-    "files": [
-      "products/N3a_1.jpg",
-      "products/N3a_2.jpg",
-      "products/N3a_3.jpg"
-    ],
-    "packshot_file": "products/N3a_3.jpg",
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "N3b",
-    "shop": "lichi",
-    "title": "Пуховик в полоску с ремнем",
-    "color": "темно-синий",
-    "price": 19999,
-    "url": "https://lichi.com/ru/ru/product/52914",
-    "files": [
-      "products/N3b_1.jpg",
-      "products/N3b_2.jpg",
-      "products/N3b_3.jpg"
-    ],
-    "packshot_file": "products/N3b_3.jpg",
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "N3c",
-    "shop": "2mood",
-    "title": "Пуховик с кулиской по талии",
-    "color": "чёрный",
-    "price": 32980,
-    "url": "https://www.2moodstore.com/collection/katalog/pukhovik_s_kuliskoy_po_talii_chernogo_tsveta/",
-    "files": [
-      "products/N3c_1.jpg",
-      "products/N3c_2.jpg",
-      "products/N3c_3.jpg"
-    ],
-    "packshot_file": "products/N3c_3.jpg",
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "N3d",
-    "shop": "sela",
-    "title": "Стеганая базовая куртка с утяжкой на талии",
-    "color": "коричневый",
-    "price": 5599,
-    "url": "https://www.sela.ru/eshop/women/verkhnyaya-odezhda/jackets/SL6810011103_169/",
-    "files": [
-      "products/N3d_1.jpg",
-      "products/N3d_2.jpg",
-      "products/N3d_3.jpg"
-    ],
-    "packshot_file": null,
-    "note": "sizes in stock: XS, S, M, L, XL"
-  },
-  {
-    "code": "N4a",
-    "shop": "2mood",
-    "title": "Дубленка из искусственной кожи",
-    "color": "кэмел (по фото)",
-    "price": 26980,
-    "url": "https://www.2moodstore.com/collection/katalog/dublenka_iz_iskusstvennoy_kozhi_pesochnogo_tsveta/",
-    "files": [
-      "products/N4a_1.jpg",
-      "products/N4a_2.jpg",
-      "products/N4a_3.jpg"
-    ],
-    "packshot_file": null,
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "N4b",
-    "shop": "lr",
-    "title": "Двухсторонняя дубленка из искусственного меха и кожи",
-    "color": "черный",
-    "price": 19999,
-    "url": "https://loverepublic.ru/catalog/odezhda/verhnyaya-odezhda/327675/",
-    "files": [
-      "products/N4b_1.jpg",
-      "products/N4b_2.jpg",
-      "products/N4b_3.jpg"
-    ],
-    "packshot_file": "products/N4b_3.jpg",
-    "note": "sizes in stock: L, M, S, XS"
-  },
-  {
-    "code": "N4c",
-    "shop": "lime",
-    "title": "Свободная дубленка с меховой отделкой",
-    "color": "темно-коричневый",
-    "price": 10999,
-    "url": "https://limestore.com/ru_ru/product/37109-8137_383_201_temno_koricnevyi",
-    "files": [
-      "products/N4c_1.jpg",
-      "products/N4c_2.jpg",
-      "products/N4c_3.jpg"
-    ],
-    "packshot_file": "products/N4c_3.jpg",
-    "note": "sizes in stock: XS, S, M, L"
-  },
-  {
-    "code": "N4d",
-    "shop": "befree",
-    "title": "Дубленка длинная с меховой отделкой утепленная",
-    "color": "коричневый",
-    "price": 6999,
-    "url": "https://befree.ru/zhenskaya/product/BF2641601034/22",
-    "files": [
-      "products/N4d_1.jpg",
-      "products/N4d_2.jpg",
-      "products/N4d_3.jpg"
-    ],
-    "packshot_file": null,
-    "note": "10 size variants flagged in stock online"
-  },
-  {
-    "code": "N5a",
-    "shop": "lime",
-    "title": "Удлиненная куртка на кулиске из ткани под кожу",
-    "color": "коричневый",
-    "price": 13999,
-    "url": "https://limestore.com/ru_ru/product/35823-7585_763_210_koricnevyi",
-    "files": [
-      "products/N5a_1.jpg",
-      "products/N5a_2.jpg",
-      "products/N5a_3.jpg"
-    ],
-    "packshot_file": "products/N5a_3.jpg",
-    "note": "sizes in stock: S, M, L; hip-length/parka piece, no long leather coat found in open shops"
-  },
-  {
-    "code": "N5b",
-    "shop": "befree",
-    "title": "Куртка лакированная с воротником-стойкой утепленная",
-    "color": "коричневый",
-    "price": 3999,
-    "url": "https://befree.ru/zhenskaya/product/BF2641601003/22",
-    "files": [
-      "products/N5b_1.jpg",
-      "products/N5b_2.jpg",
-      "products/N5b_3.jpg"
-    ],
-    "packshot_file": "products/N5b_3.jpg",
-    "note": "15 size variants flagged in stock online; hip-length/parka piece, no long leather coat found in open shops"
-  },
-  {
-    "code": "N5c",
-    "shop": "befree",
-    "title": "Куртка лакированная утепленная с воротником-стойкой",
-    "color": "бордовый",
-    "price": 5999,
-    "url": "https://befree.ru/zhenskaya/product/BF2641601065/71",
-    "files": [
-      "products/N5c_1.jpg",
-      "products/N5c_2.jpg",
-      "products/N5c_3.jpg"
-    ],
-    "packshot_file": "products/N5c_3.jpg",
-    "note": "15 size variants flagged in stock online; hip-length/parka piece, no long leather coat found in open shops"
-  },
-  {
-    "code": "N5d",
-    "shop": "zarina",
-    "title": "Парка из искусственной кожи с меховым воротником",
-    "color": "тёмно-коричневый",
-    "price": 9999,
-    "url": "https://zarina.ru/catalog/product/ZR2610102217-27/",
-    "files": [
-      "products/N5d_1.jpg",
-      "products/N5d_2.jpg",
-      "products/N5d_3.jpg"
-    ],
-    "packshot_file": "products/N5d_3.jpg",
-    "note": "sizes in stock: 44, 46, 48; hip-length/parka piece, no long leather coat found in open shops"
-  },
-  {
-    "code": "N6a",
-    "shop": "selfmade",
-    "title": "Объемное пальто «Облачный серый»",
-    "color": "Серый",
-    "price": 35990,
-    "url": "https://selfmade.ru/collection/verhnyaya-odezhda-2/product/palto-s-patami-988fb1",
-    "files": [
-      "products/N6a_1.jpg",
-      "products/N6a_2.jpg",
-      "products/N6a_3.jpg"
-    ],
-    "packshot_file": "products/N6a_3.jpg",
-    "note": "sizes in stock: S, M"
-  },
-  {
-    "code": "N6b",
-    "shop": "lichi",
-    "title": "Пальто макси кроя оверсайз с застежкой на воротнике",
-    "color": "коричневый",
-    "price": 19999,
-    "url": "https://lichi.com/ru/ru/product/52652",
-    "files": [
-      "products/N6b_1.jpg",
-      "products/N6b_2.jpg",
-      "products/N6b_3.jpg"
-    ],
-    "packshot_file": "products/N6b_3.jpg",
-    "note": "product JSON-LD InStock; sizes not individually confirmed"
-  },
-  {
-    "code": "N6c",
-    "shop": "lime",
-    "title": "Утепленное пальто оверсайз из шерсти",
-    "color": "коричневый меланж",
-    "price": 17999,
-    "url": "https://limestore.com/ru_ru/product/34694-0437_122_211_koricnevyi_melanz",
-    "files": [
-      "products/N6c_1.jpg",
-      "products/N6c_2.jpg",
-      "products/N6c_3.jpg"
-    ],
-    "packshot_file": "products/N6c_3.jpg",
-    "note": "sizes in stock: XS, S, M, L"
-  },
-  {
-    "code": "N6d",
-    "shop": "befree",
-    "title": "Полупальто оверсайз драповое",
-    "color": "коричневый",
-    "price": 7999,
-    "url": "https://befree.ru/zhenskaya/product/BF2641602046/22",
-    "files": [
-      "products/N6d_1.jpg",
-      "products/N6d_2.jpg",
-      "products/N6d_3.jpg"
-    ],
-    "packshot_file": "products/N6d_3.jpg",
-    "note": "5 size variants flagged in stock online"
-  },
-  {
-    "code": "N7a",
-    "shop": "befree",
-    "title": "Полупальто драповое с отложным воротником",
-    "color": "коричневый",
-    "price": 4999,
-    "url": "https://befree.ru/zhenskaya/product/BF2631602003/22",
-    "files": [
-      "products/N7a_1.jpg",
-      "products/N7a_2.jpg",
-      "products/N7a_3.jpg"
-    ],
-    "packshot_file": "products/N7a_3.jpg",
-    "note": "10 size variants flagged in stock online"
-  },
-  {
-    "code": "N7b",
-    "shop": "sela",
-    "title": "Драповое полупальто из смесовой шерсти и кашемира",
-    "color": "бежевый",
-    "price": 15999,
-    "url": "https://www.sela.ru/eshop/women/verkhnyaya-odezhda/palto/SL6809011122_189/",
-    "files": [
-      "products/N7b_1.jpg",
-      "products/N7b_2.jpg",
-      "products/N7b_3.jpg"
-    ],
-    "packshot_file": "products/N7b_3.jpg",
-    "note": "sizes in stock: XS, S, M, L"
-  },
-  {
-    "code": "N7c",
-    "shop": "selfmade",
-    "title": "Укороченное пальто с шерстью «Выйти за кофе»",
-    "color": "Серый",
-    "price": 29990,
-    "url": "https://selfmade.ru/collection/verhnyaya-odezhda-2/product/palto-ukorochennoe",
-    "files": [
-      "products/N7c_1.jpg",
-      "products/N7c_2.jpg",
-      "products/N7c_3.jpg"
-    ],
-    "packshot_file": "products/N7c_3.jpg",
-    "note": "sizes in stock: XS, S, M, L"
-  },
-  {
-    "code": "N7d",
-    "shop": "lime",
-    "title": "Скульптурное полупальто из смесовой шерсти",
-    "color": "коричневый",
-    "price": 13999,
-    "url": "https://limestore.com/ru_ru/product/35981-7399_181_210_koricnevyi",
-    "files": [
-      "products/N7d_1.jpg",
-      "products/N7d_2.jpg",
-      "products/N7d_3.jpg"
-    ],
-    "packshot_file": "products/N7d_3.jpg",
-    "note": "sizes in stock: XS, S, M, L"
-  },
-  {
-    "code": "N8a",
-    "shop": "lime",
-    "title": "Ботфорты на каблуке",
-    "color": "коричневый",
-    "price": 13999,
-    "url": "https://limestore.com/ru_ru/product/38306-2072_425_210_koricnevyi",
-    "files": [
-      "products/N8a_1.jpg",
-      "products/N8a_2.jpg",
-      "products/N8a_3.jpg"
-    ],
-    "packshot_file": "products/N8a_3.jpg",
-    "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
-  },
-  {
-    "code": "N8b",
-    "shop": "ushatava",
-    "title": "Кожаные сапоги-чулки",
-    "color": "бордовый (по фото)",
-    "price": 59900,
-    "url": "https://www.ushatava.ru/store/w/kozhanye-sapogi-chulki-83439/",
-    "files": [
-      "products/N8b_1.jpg",
-      "products/N8b_2.jpg",
-      "products/N8b_3.jpg"
-    ],
-    "packshot_file": "products/N8b_3.jpg",
-    "note": "page lists all offers AVAILABLE; sizes not individually confirmed"
-  },
-  {
-    "code": "N8c",
-    "shop": "rv",
-    "title": "Женские ботфорты TENDANCE",
-    "color": "коричневый",
-    "price": 18390,
-    "url": "https://www.rendez-vous.ru/catalog/female/botforty/tendance_bs921_01_korichnevyy-4738028/",
-    "files": [
-      "products/N8c_1.jpg",
-      "products/N8c_2.jpg",
-      "products/N8c_3.jpg"
-    ],
-    "packshot_file": "products/N8c_3.jpg",
-    "note": "sizes in stock: 38, 39, 40"
-  },
-  {
-    "code": "N8d",
-    "shop": "lime",
-    "title": "Замшевые ботфорты с отворотом",
-    "color": "бутылочно-зеленый",
-    "price": 23999,
-    "url": "https://limestore.com/ru_ru/product/38410-3812_524_307_butylocno_zelenyi",
-    "files": [
-      "products/N8d_1.jpg",
-      "products/N8d_2.jpg",
-      "products/N8d_3.jpg"
-    ],
-    "packshot_file": "products/N8d_3.jpg",
-    "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
-  },
-  {
-    "code": "N9a",
-    "shop": "lime",
-    "title": "Замшевые ботинки с мехом",
-    "color": "темно-коричневый",
-    "price": 14999,
-    "url": "https://limestore.com/ru_ru/product/37460-2026_415_201_temno_koricnevyi",
-    "files": [
-      "products/N9a_1.jpg",
-      "products/N9a_2.jpg",
-      "products/N9a_3.jpg"
-    ],
-    "packshot_file": "products/N9a_3.jpg",
-    "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
-  },
-  {
-    "code": "N9b",
-    "shop": "sela",
-    "title": "Угги из натуральной замши с резинками",
-    "color": "коричневый",
-    "price": 7999,
-    "url": "https://www.sela.ru/eshop/women/obuv/sapogi/SL6811206101_27/",
-    "files": [
-      "products/N9b_1.jpg",
-      "products/N9b_2.jpg",
-      "products/N9b_3.jpg"
-    ],
-    "packshot_file": "products/N9b_3.jpg",
-    "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
-  },
-  {
-    "code": "N9c",
-    "shop": "befree",
-    "title": "Угги высокие из натуральной замши с крестом",
-    "color": "черный",
-    "price": 5999,
-    "url": "https://befree.ru/zhenskaya/product/BF2646687031/50",
-    "files": [
-      "products/N9c_1.jpg",
-      "products/N9c_2.jpg",
-      "products/N9c_3.jpg"
-    ],
-    "packshot_file": "products/N9c_3.jpg",
-    "note": "7 size variants flagged in stock online"
-  },
-  {
-    "code": "N9d",
-    "shop": "befree",
-    "title": "Угги из натуральной замши на платформе",
-    "color": "коричневый",
-    "price": 5999,
-    "url": "https://befree.ru/zhenskaya/product/BF2646687006/20",
-    "files": [
-      "products/N9d_1.jpg",
-      "products/N9d_2.jpg",
-      "products/N9d_3.jpg"
-    ],
-    "packshot_file": "products/N9d_3.jpg",
-    "note": "21 size variants flagged in stock online"
-  },
-  {
-    "code": "W1",
-    "shop": "Vogue Runway",
-    "designer": "Acne Studios",
-    "look": 37,
-    "title": "Acne Studios Fall 2026 RTW, look 37",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/acne-studios/slideshow/collection#37",
-    "files": [
-      "runway/W1.jpg"
-    ],
-    "packshot_file": null,
-    "note": "camel long coat, large dark fur collar; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/69a94dc9953681e0124ebae2/master/pass/00037-acne-studios-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "W2",
-    "shop": "Vogue Runway",
-    "designer": "Balenciaga",
-    "look": 44,
-    "title": "Balenciaga Fall 2026 RTW, look 44",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/balenciaga/slideshow/collection#44",
-    "files": [
-      "runway/W2.jpg"
-    ],
-    "packshot_file": null,
-    "note": "camel long coat, huge sculpted collar; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/69ac9ff5c5251f3c111f1d34/master/pass/00044-balenciaga-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "W3",
-    "shop": "Vogue Runway",
-    "designer": "Tod's",
-    "look": 24,
-    "title": "Tod's Fall 2026 RTW, look 24",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/tod-s/slideshow/collection#24",
-    "files": [
-      "runway/W3.jpg"
-    ],
-    "packshot_file": null,
-    "note": "dark brown quilted puffer jacket cinched with a tie at the waist, over shirt and pinstripe trousers; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/69a17c8dcb1f294d985fcf70/master/pass/00024-tods-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "W4",
-    "shop": "Vogue Runway",
-    "designer": "Ralph Lauren",
-    "look": 50,
-    "title": "Ralph Lauren Fall 2026 RTW, look 50",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/ralph-lauren/slideshow/collection#50",
-    "files": [
-      "runway/W4.jpg"
-    ],
-    "packshot_file": null,
-    "note": "chocolate long shearling coat; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/698c6373b30434c3b8aab0eb/master/pass/00050-ralph-lauren-fall-2026-ready-to-wear-credit-brand.jpg"
-  },
-  {
-    "code": "W5",
-    "shop": "Vogue Runway",
-    "designer": "Carven",
-    "look": 1,
-    "title": "Carven Fall 2026 RTW, look 1",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/carven/slideshow/collection#1",
-    "files": [
-      "runway/W5.jpg"
-    ],
-    "packshot_file": null,
-    "note": "chocolate-burgundy long leather coat, belted; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/69a9bb26953681e0124ec64e/master/pass/00001-carven-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "W6",
-    "shop": "Vogue Runway",
-    "designer": "Max Mara",
-    "look": 23,
-    "title": "Max Mara Fall 2026 RTW, look 23",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/max-mara/slideshow/collection#23",
-    "files": [
-      "runway/W6.jpg"
-    ],
-    "packshot_file": null,
-    "note": "burgundy cocoon coat, voluminous, belted; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/69a03cde27c91c9eae6f315f/master/pass/00023-max-mara-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "W7",
-    "shop": "Vogue Runway",
-    "designer": "Burberry",
-    "look": 31,
-    "title": "Burberry Fall 2026 RTW, look 31",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/burberry-prorsum/slideshow/collection#31",
-    "files": [
-      "runway/W7.jpg"
-    ],
-    "packshot_file": null,
-    "note": "milk short double-breasted peacoat; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/699f682120e9fb6a1977747d/master/pass/00031-burberry-fall-2026-ready-to-wear-credit-gorunway-brand.jpg"
-  },
-  {
-    "code": "W8",
-    "shop": "Vogue Runway",
-    "designer": "Michael Kors Collection",
-    "look": 31,
-    "title": "Michael Kors Collection Fall 2026 RTW, look 31",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/michael-kors-collection/slideshow/collection#31",
-    "files": [
-      "runway/W8.jpg"
-    ],
-    "packshot_file": null,
-    "note": "grey coat, tall brown fitted boots; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/698e76d75f316534f96ae16e/master/pass/00031-michael-kors-collection-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "W9",
-    "shop": "Vogue Runway",
-    "designer": "Acne Studios",
-    "look": 7,
-    "title": "Acne Studios Fall 2026 RTW, look 7",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/acne-studios/slideshow/collection#7",
-    "files": [
-      "runway/W9.jpg"
-    ],
-    "packshot_file": null,
-    "note": "beige tall boots with fur cuffs; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/69a94dad0f131c648133f0a7/master/pass/00007-acne-studios-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "V01",
-    "shop": "Vogue Runway",
-    "designer": "Stella McCartney",
-    "look": 3,
-    "title": "Stella McCartney Fall 2026 RTW, look 3",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/stella-mccartney/slideshow/collection#3",
-    "files": [
-      "runway/V01.jpg"
-    ],
-    "packshot_file": null,
-    "note": "camel teddy shearling coat, big collar; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/69a88fa5bc8ac2ce01583f68/master/pass/00003-stella-mccartney-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "V02",
-    "shop": "Vogue Runway",
-    "designer": "Altuzarra",
-    "look": 16,
-    "title": "Altuzarra Fall 2026 RTW, look 16",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/altuzarra/slideshow/collection#16",
-    "files": [
-      "runway/V02.jpg"
-    ],
-    "packshot_file": null,
-    "note": "black leather coat, shearling collar/cuffs/hem; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/6990e0da780cbb4c570ecb51/master/pass/00016-altuzarra-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "V03",
-    "shop": "Vogue Runway",
-    "designer": "Miu Miu",
-    "look": 44,
-    "title": "Miu Miu Fall 2026 RTW, look 44",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/miu-miu/slideshow/collection#44",
-    "files": [
-      "runway/V03.jpg"
-    ],
-    "packshot_file": null,
-    "note": "burgundy puffer coat, fur trim; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/69b04b3784c5798535066dd6/master/pass/00044-miu-miu-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "V04",
-    "shop": "Vogue Runway",
-    "designer": "Saint Laurent",
-    "look": 25,
-    "title": "Saint Laurent Fall 2026 RTW, look 25",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/saint-laurent/slideshow/collection#25",
-    "files": [
-      "runway/V04.jpg"
-    ],
-    "packshot_file": null,
-    "note": "chocolate coat, huge fur collar; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/69a81e2e113ce9d76e684ae9/master/pass/00025-saint-laurent-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "V05",
-    "shop": "Vogue Runway",
-    "designer": "Michael Kors Collection",
-    "look": 12,
-    "title": "Michael Kors Collection Fall 2026 RTW, look 12",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/michael-kors-collection/slideshow/collection#12",
-    "files": [
-      "runway/V05.jpg"
-    ],
-    "packshot_file": null,
-    "note": "milk fur cocoon coat; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/698fc1e1595dc36c7d38f955/master/pass/00012-michael-kors-collection-fall-2026-ready-to-wear-credit-gorunway.jpg"
-  },
-  {
-    "code": "V06",
-    "shop": "Vogue Runway",
-    "designer": "Khaite",
-    "look": 31,
-    "title": "Khaite Fall 2026 RTW, look 31",
-    "color": "",
-    "price": null,
-    "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/khaite/slideshow/collection#31",
-    "files": [
-      "runway/V06.jpg"
-    ],
-    "packshot_file": null,
-    "note": "cream fur short jacket, trousers; assets.vogue.com master original",
-    "photo_url": "https://assets.vogue.com/photos/69927573c191ac3040f10c8c/master/pass/00031-khaite-fall-2026-ready-to-wear-credit-brand.jpg"
-  }
+ {
+  "code": "K01",
+  "shop": "lime",
+  "title": "Утепленное пальто оверсайз из шерсти",
+  "color": "коричневый меланж",
+  "price": 17999,
+  "url": "https://limestore.com/ru_ru/product/34694-0437_122_211_koricnevyi_melanz",
+  "files": [
+   "capsule/site/K01_1.jpg",
+   "capsule/site/K01_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K01_1.jpg",
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "K02",
+  "shop": "befree",
+  "title": "Пуховик стеганый утепленный с капюшоном",
+  "color": "молочно-жёлтый",
+  "price": 12999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641601012/9",
+  "files": [
+   "capsule/site/K02_1.jpg",
+   "capsule/site/K02_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K02_1.jpg",
+  "note": "15 size variants flagged in stock online"
+ },
+ {
+  "code": "K03",
+  "shop": "lime",
+  "title": "Приталенный свитер фактурной вязки с шерстью",
+  "color": "молочный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/38990-3342_552_120_molocnyi",
+  "files": [
+   "capsule/site/K03_1.jpg",
+   "capsule/site/K03_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K03_1.jpg",
+  "note": "sizes in stock: S, M, L"
+ },
+ {
+  "code": "K04",
+  "shop": "befree",
+  "title": "Джемпер оверсайз пушистый с добавлением шерсти",
+  "color": "серый",
+  "price": 3299,
+  "url": "https://befree.ru/zhenskaya/product/BF2641526085/39",
+  "files": [
+   "capsule/site/K04_1.jpg",
+   "capsule/site/K04_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K04_1.jpg",
+  "note": "10 size variants flagged in stock online"
+ },
+ {
+  "code": "K05",
+  "shop": "2mood",
+  "title": "Кардиган из шерсти с кашемиром",
+  "color": "серый",
+  "price": 16980,
+  "url": "https://www.2moodstore.com/collection/katalog/kardigan_s_vorotnikom_stoykoy_serogo_tsveta/",
+  "files": [
+   "capsule/site/K05_1.jpg",
+   "capsule/site/K05_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K05_1.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "K06",
+  "shop": "selfmade",
+  "title": "Деликатная водолазка с шерстью «Горячий шоколад»",
+  "color": "Шоколадный",
+  "price": 6990,
+  "url": "https://selfmade.ru/collection/trikotazh-2/product/vodolazka-oblegayuschaya-38adef",
+  "files": [
+   "capsule/site/K06_1.jpg",
+   "capsule/site/K06_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K06_1.jpg",
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "K07",
+  "shop": "befree",
+  "title": "Рубашка прямая хлопковая",
+  "color": "бежевый",
+  "price": 1799,
+  "url": "https://befree.ru/zhenskaya/product/BF2631418042/65",
+  "files": [
+   "capsule/site/K07_1.jpg",
+   "capsule/site/K07_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K07_1.jpg",
+  "note": "20 size variants flagged in stock online"
+ },
+ {
+  "code": "K08",
+  "shop": "2mood",
+  "title": "Брюки из шерсти с кашемиром",
+  "color": "коричневый",
+  "price": 19980,
+  "url": "https://www.2moodstore.com/collection/katalog/bryuki_pryamye_s_dobavleniem_kashemira_korichnevogo_tsveta/",
+  "files": [
+   "capsule/site/K08_1.jpg",
+   "capsule/site/K08_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K08_1.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "K09",
+  "shop": "lime",
+  "title": "Широкие брюки клеш со складками",
+  "color": "серо-бежевый",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/31086_3473_474-sero_bezevyi",
+  "files": [
+   "capsule/site/K09_1.jpg",
+   "capsule/site/K09_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K09_1.jpg",
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "K10",
+  "shop": "lime",
+  "title": "Прямые джинсы с высокой посадкой",
+  "color": "серый ледник",
+  "price": 5599,
+  "url": "https://limestore.com/ru_ru/product/35126-5425_038_051_seryi_lednik",
+  "files": [
+   "capsule/site/K10_1.jpg",
+   "capsule/site/K10_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K10_1.jpg",
+  "note": "sizes in stock: 34, 36, 38, 40, 42, 44"
+ },
+ {
+  "code": "K11",
+  "shop": "lr",
+  "title": "Трикотажная юбка миди с шерстью",
+  "color": "коричневый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/odezhda/yubki/331525/",
+  "files": [
+   "capsule/site/K11_1.jpg",
+   "capsule/site/K11_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K11_1.jpg",
+  "note": "sizes in stock: XL, L, M, S, XS, XXS"
+ },
+ {
+  "code": "K12",
+  "shop": "lr",
+  "title": "Юбка миди А-силуэта",
+  "color": "серый",
+  "price": 6999,
+  "url": "https://loverepublic.ru/catalog/odezhda/yubki/337507/",
+  "files": [
+   "capsule/site/K12_1.jpg",
+   "capsule/site/K12_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K12_1.jpg",
+  "note": "sizes in stock: 48, 46, 44, 42, 40"
+ },
+ {
+  "code": "K13",
+  "shop": "lime",
+  "title": "Свободное платье вязки аранами с ангорой и шерстью",
+  "color": "молочный",
+  "price": 10999,
+  "url": "https://limestore.com/ru_ru/product/38702-3354_218_120_molocnyi",
+  "files": [
+   "capsule/site/K13_1.jpg",
+   "capsule/site/K13_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K13_1.jpg",
+  "note": "sizes in stock: XS/S, M/L"
+ },
+ {
+  "code": "K14",
+  "shop": "lime",
+  "title": "Высокие сапоги на каблуке из овечьей кожи",
+  "color": "коричневый",
+  "price": 23999,
+  "url": "https://limestore.com/ru_ru/product/38661-3818_884_210_koricnevyi",
+  "files": [
+   "capsule/site/K14_1.jpg",
+   "capsule/site/K14_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K14_1.jpg",
+  "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
+ },
+ {
+  "code": "K15",
+  "shop": "2mood",
+  "title": "Ботильоны на устойчивом каблуке",
+  "color": "тёмно-коричневый",
+  "price": 22980,
+  "url": "https://www.2moodstore.com/collection/katalog/botilony_na_ustoychivom_kabluke_temno_korichnevogo_tsveta/",
+  "files": [
+   "capsule/site/K15_1.jpg",
+   "capsule/site/K15_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K15_1.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "K16",
+  "shop": "2mood",
+  "title": "Осенние элегантные лоферы",
+  "color": "тёмно-коричневый",
+  "price": 18980,
+  "url": "https://www.2moodstore.com/collection/katalog/osennie_elegantnye_lofery_temno_korichnevogo_tsveta/",
+  "files": [
+   "capsule/site/K16_1.jpg",
+   "capsule/site/K16_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K16_1.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "K17",
+  "shop": "lr",
+  "title": "Сумка-хобо из экокожи",
+  "color": "белый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/sumki/324270/",
+  "files": [
+   "capsule/site/K17_1.jpg",
+   "capsule/site/K17_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K17_1.jpg",
+  "note": "one size, in stock"
+ },
+ {
+  "code": "K18",
+  "shop": "lime",
+  "title": "Сумка с подвеской-брелоком",
+  "color": "винный",
+  "price": 8999,
+  "url": "https://limestore.com/ru_ru/product/32772_2457_242-2457_242_603_vinnyi",
+  "files": [
+   "capsule/site/K18_1.jpg",
+   "capsule/site/K18_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K18_1.jpg",
+  "note": "one size, in stock"
+ },
+ {
+  "code": "K19",
+  "shop": "2mood",
+  "title": "Шарф из шерсти енота",
+  "color": "серый",
+  "price": 8980,
+  "url": "https://www.2moodstore.com/collection/katalog/sharf_s_sherstyu_enota_serogo_tsveta_1/",
+  "files": [
+   "capsule/site/K19_1.jpg",
+   "capsule/site/K19_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K19_1.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "K20",
+  "shop": "sela",
+  "title": "Вязаная шапка из кашемира премиум качества",
+  "color": "молочный",
+  "price": 4599,
+  "url": "https://www.sela.ru/eshop/women/aksessuary/golovnye-ubory/shapki/SL6810163314_60/",
+  "files": [
+   "capsule/site/K20_1.jpg",
+   "capsule/site/K20_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K20_1.jpg",
+  "note": "one size, in stock"
+ },
+ {
+  "code": "K21",
+  "shop": "2mood",
+  "title": "Перчатки из гладкой кожи",
+  "color": "бордовый",
+  "price": 7980,
+  "url": "https://www.2moodstore.com/collection/katalog/perchatki_iz_gladkoy_kozhi_bordovogo_tsveta/",
+  "files": [
+   "capsule/site/K21_1.jpg",
+   "capsule/site/K21_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K21_1.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "K22",
+  "shop": "lime",
+  "title": "Базовые колготки 60 ден",
+  "color": "каштановый",
+  "price": 899,
+  "url": "https://limestore.com/ru_ru/product/22858_2037_922-kastanovyi",
+  "files": [
+   "capsule/site/K22_1.jpg",
+   "capsule/site/K22_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K22_1.jpg",
+  "note": "sizes in stock: XS/S, M/L"
+ },
+ {
+  "code": "K23",
+  "shop": "lime",
+  "title": "Ремень из замши",
+  "color": "коричневый",
+  "price": 3999,
+  "url": "https://limestore.com/ru_ru/product/38040-4183_332_210_koricnevyi",
+  "files": [
+   "capsule/site/K23_1.jpg",
+   "capsule/site/K23_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K23_1.jpg",
+  "note": "sizes in stock: XS/S, M/L"
+ },
+ {
+  "code": "K24",
+  "shop": "befree",
+  "title": "Серьги-гвоздики объемные",
+  "color": "золотистый",
+  "price": 199,
+  "url": "https://befree.ru/zhenskaya/product/BF2635551067/6",
+  "files": [
+   "capsule/site/K24_1.jpg",
+   "capsule/site/K24_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K24_1.jpg",
+  "note": "2 size variants flagged in stock online"
+ },
+ {
+  "code": "K25",
+  "shop": "befree",
+  "title": "Серьги-гвоздики в виде пирсинга",
+  "color": "серебристый",
+  "price": 699,
+  "url": "https://befree.ru/zhenskaya/product/BF2645551035/7",
+  "files": [
+   "capsule/site/K25_1.jpg",
+   "capsule/site/K25_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K25_1.jpg",
+  "note": "1 size variants flagged in stock online"
+ },
+ {
+  "code": "K26",
+  "shop": "lime",
+  "title": "Жилет из 100% шерсти",
+  "color": "карамельный",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/36572-2357_229_222_karamelnyi",
+  "files": [
+   "capsule/site/K26_1.jpg",
+   "capsule/site/K26_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K26_1.jpg",
+  "note": "sizes in stock: S, M, L, XL"
+ },
+ {
+  "code": "K27",
+  "shop": "lime",
+  "title": "Блейзер карго с шерстью",
+  "color": "молочный",
+  "price": 9999,
+  "url": "https://limestore.com/ru_ru/product/35512-1194_709_120_molocnyi",
+  "files": [
+   "capsule/site/K27_1.jpg",
+   "capsule/site/K27_2.jpg"
+  ],
+  "packshot_file": "capsule/site/K27_1.jpg",
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "N1a",
+  "shop": "befree",
+  "title": "Пальто с леопардовым принтом и меховой отделкой",
+  "color": "мультиколор",
+  "price": 10999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641602033/99",
+  "files": [
+   "products/N1a_1.jpg",
+   "products/N1a_2.jpg",
+   "products/N1a_3.jpg"
+  ],
+  "packshot_file": "products/N1a_3.jpg",
+  "note": "5 size variants flagged in stock online"
+ },
+ {
+  "code": "N1b",
+  "shop": "2mood",
+  "title": "Пальто длинное с воротником из натурального меха",
+  "color": "чёрный",
+  "price": 39980,
+  "url": "https://www.2moodstore.com/collection/katalog/palto_dlinnoe_s_vorotnikom_iz_naturalnogo_mekha_chernogo_tsveta/",
+  "files": [
+   "products/N1b_1.jpg",
+   "products/N1b_2.jpg",
+   "products/N1b_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "N1c",
+  "shop": "lime",
+  "title": "Пальто из шерсти с меховой отделкой",
+  "color": "темно-серый меланж",
+  "price": 17999,
+  "url": "https://limestore.com/ru_ru/product/35448-7145_302_023_temno_seryi_melanz",
+  "files": [
+   "products/N1c_1.jpg",
+   "products/N1c_2.jpg",
+   "products/N1c_3.jpg"
+  ],
+  "packshot_file": "products/N1c_3.jpg",
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "N1d",
+  "shop": "lime",
+  "title": "Двубортное пальто из шерсти с отделкой мехом",
+  "color": "серо-бежевый",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/37852-7099_503_263_sero_bezevyi_melanz",
+  "files": [
+   "products/N1d_1.jpg",
+   "products/N1d_2.jpg",
+   "products/N1d_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M"
+ },
+ {
+  "code": "N2a",
+  "shop": "befree",
+  "title": "Полупальто драповое с меховым воротником",
+  "color": "серый",
+  "price": 6999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641602016/32",
+  "files": [
+   "products/N2a_1.jpg",
+   "products/N2a_2.jpg",
+   "products/N2a_3.jpg"
+  ],
+  "packshot_file": "products/N2a_3.jpg",
+  "note": "10 size variants flagged in stock online"
+ },
+ {
+  "code": "N2b",
+  "shop": "lr",
+  "title": "Пальто из шерсти с высоким воротником",
+  "color": "молочный",
+  "price": 32999,
+  "url": "https://loverepublic.ru/catalog/odezhda/verhnyaya-odezhda/329656/",
+  "files": [
+   "products/N2b_1.jpg",
+   "products/N2b_2.jpg",
+   "products/N2b_3.jpg"
+  ],
+  "packshot_file": "products/N2b_3.jpg",
+  "note": "sizes in stock: XS, S, M, L; article 6450526126-60; photo 3 is the packshot with the collar stood up"
+ },
+ {
+  "code": "N2c",
+  "shop": "zarina",
+  "title": "Пальто на поясе с воротником-стойкой",
+  "color": "тёмно-коричневый",
+  "price": 8999,
+  "url": "https://zarina.ru/catalog/product/ZR2611102213-27/",
+  "files": [
+   "products/N2c_1.jpg",
+   "products/N2c_2.jpg",
+   "products/N2c_3.jpg"
+  ],
+  "packshot_file": "products/N2c_3.jpg",
+  "note": "sizes in stock: 42, 44, 46, 48, 50"
+ },
+ {
+  "code": "N2d",
+  "shop": "zarina",
+  "title": "Пальто из смесовой шерсти со съёмным воротником",
+  "color": "темно-серый меланж",
+  "price": 10999,
+  "url": "https://zarina.ru/catalog/product/ZR2610102219-39/",
+  "files": [
+   "products/N2d_1.jpg",
+   "products/N2d_2.jpg",
+   "products/N2d_3.jpg"
+  ],
+  "packshot_file": "products/N2d_3.jpg",
+  "note": "sizes in stock: 42, 44, 46, 48, 50"
+ },
+ {
+  "code": "N3a",
+  "shop": "lichi",
+  "title": "Пуховик на запах с ремнем",
+  "color": "черный",
+  "price": 27999,
+  "url": "https://lichi.com/ru/ru/product/53034",
+  "files": [
+   "products/N3a_1.jpg",
+   "products/N3a_2.jpg",
+   "products/N3a_3.jpg"
+  ],
+  "packshot_file": "products/N3a_3.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "N3b",
+  "shop": "lichi",
+  "title": "Пуховик в полоску с ремнем",
+  "color": "темно-синий",
+  "price": 19999,
+  "url": "https://lichi.com/ru/ru/product/52914",
+  "files": [
+   "products/N3b_1.jpg",
+   "products/N3b_2.jpg",
+   "products/N3b_3.jpg"
+  ],
+  "packshot_file": "products/N3b_3.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "N3c",
+  "shop": "2mood",
+  "title": "Пуховик с кулиской по талии",
+  "color": "чёрный",
+  "price": 32980,
+  "url": "https://www.2moodstore.com/collection/katalog/pukhovik_s_kuliskoy_po_talii_chernogo_tsveta/",
+  "files": [
+   "products/N3c_1.jpg",
+   "products/N3c_2.jpg",
+   "products/N3c_3.jpg"
+  ],
+  "packshot_file": "products/N3c_3.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "N3d",
+  "shop": "sela",
+  "title": "Стеганая базовая куртка с утяжкой на талии",
+  "color": "коричневый",
+  "price": 5599,
+  "url": "https://www.sela.ru/eshop/women/verkhnyaya-odezhda/jackets/SL6810011103_169/",
+  "files": [
+   "products/N3d_1.jpg",
+   "products/N3d_2.jpg",
+   "products/N3d_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "N4a",
+  "shop": "2mood",
+  "title": "Дубленка из искусственной кожи",
+  "color": "кэмел (по фото)",
+  "price": 26980,
+  "url": "https://www.2moodstore.com/collection/katalog/dublenka_iz_iskusstvennoy_kozhi_pesochnogo_tsveta/",
+  "files": [
+   "products/N4a_1.jpg",
+   "products/N4a_2.jpg",
+   "products/N4a_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "N4b",
+  "shop": "lr",
+  "title": "Двухсторонняя дубленка из искусственного меха и кожи",
+  "color": "черный",
+  "price": 19999,
+  "url": "https://loverepublic.ru/catalog/odezhda/verhnyaya-odezhda/327675/",
+  "files": [
+   "products/N4b_1.jpg",
+   "products/N4b_2.jpg",
+   "products/N4b_3.jpg"
+  ],
+  "packshot_file": "products/N4b_3.jpg",
+  "note": "sizes in stock: L, M, S, XS"
+ },
+ {
+  "code": "N4c",
+  "shop": "lime",
+  "title": "Свободная дубленка с меховой отделкой",
+  "color": "темно-коричневый",
+  "price": 10999,
+  "url": "https://limestore.com/ru_ru/product/37109-8137_383_201_temno_koricnevyi",
+  "files": [
+   "products/N4c_1.jpg",
+   "products/N4c_2.jpg",
+   "products/N4c_3.jpg"
+  ],
+  "packshot_file": "products/N4c_3.jpg",
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "N4d",
+  "shop": "befree",
+  "title": "Дубленка длинная с меховой отделкой утепленная",
+  "color": "коричневый",
+  "price": 6999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641601034/22",
+  "files": [
+   "products/N4d_1.jpg",
+   "products/N4d_2.jpg",
+   "products/N4d_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "10 size variants flagged in stock online"
+ },
+ {
+  "code": "N5a",
+  "shop": "lime",
+  "title": "Удлиненная куртка на кулиске из ткани под кожу",
+  "color": "коричневый",
+  "price": 13999,
+  "url": "https://limestore.com/ru_ru/product/35823-7585_763_210_koricnevyi",
+  "files": [
+   "products/N5a_1.jpg",
+   "products/N5a_2.jpg",
+   "products/N5a_3.jpg"
+  ],
+  "packshot_file": "products/N5a_3.jpg",
+  "note": "sizes in stock: S, M, L; hip-length/parka piece, no long leather coat found in open shops"
+ },
+ {
+  "code": "N5b",
+  "shop": "befree",
+  "title": "Куртка лакированная с воротником-стойкой утепленная",
+  "color": "коричневый",
+  "price": 3999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641601003/22",
+  "files": [
+   "products/N5b_1.jpg",
+   "products/N5b_2.jpg",
+   "products/N5b_3.jpg"
+  ],
+  "packshot_file": "products/N5b_3.jpg",
+  "note": "15 size variants flagged in stock online; hip-length/parka piece, no long leather coat found in open shops"
+ },
+ {
+  "code": "N5c",
+  "shop": "befree",
+  "title": "Куртка лакированная утепленная с воротником-стойкой",
+  "color": "бордовый",
+  "price": 5999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641601065/71",
+  "files": [
+   "products/N5c_1.jpg",
+   "products/N5c_2.jpg",
+   "products/N5c_3.jpg"
+  ],
+  "packshot_file": "products/N5c_3.jpg",
+  "note": "15 size variants flagged in stock online; hip-length/parka piece, no long leather coat found in open shops"
+ },
+ {
+  "code": "N5d",
+  "shop": "zarina",
+  "title": "Парка из искусственной кожи с меховым воротником",
+  "color": "тёмно-коричневый",
+  "price": 9999,
+  "url": "https://zarina.ru/catalog/product/ZR2610102217-27/",
+  "files": [
+   "products/N5d_1.jpg",
+   "products/N5d_2.jpg",
+   "products/N5d_3.jpg"
+  ],
+  "packshot_file": "products/N5d_3.jpg",
+  "note": "sizes in stock: 44, 46, 48; hip-length/parka piece, no long leather coat found in open shops"
+ },
+ {
+  "code": "N6a",
+  "shop": "selfmade",
+  "title": "Объемное пальто «Облачный серый»",
+  "color": "Серый",
+  "price": 35990,
+  "url": "https://selfmade.ru/collection/verhnyaya-odezhda-2/product/palto-s-patami-988fb1",
+  "files": [
+   "products/N6a_1.jpg",
+   "products/N6a_2.jpg",
+   "products/N6a_3.jpg"
+  ],
+  "packshot_file": "products/N6a_3.jpg",
+  "note": "sizes in stock: S, M"
+ },
+ {
+  "code": "N6b",
+  "shop": "lichi",
+  "title": "Пальто макси кроя оверсайз с застежкой на воротнике",
+  "color": "коричневый",
+  "price": 19999,
+  "url": "https://lichi.com/ru/ru/product/52652",
+  "files": [
+   "products/N6b_1.jpg",
+   "products/N6b_2.jpg",
+   "products/N6b_3.jpg"
+  ],
+  "packshot_file": "products/N6b_3.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "N6c",
+  "shop": "lime",
+  "title": "Утепленное пальто оверсайз из шерсти",
+  "color": "коричневый меланж",
+  "price": 17999,
+  "url": "https://limestore.com/ru_ru/product/34694-0437_122_211_koricnevyi_melanz",
+  "files": [
+   "products/N6c_1.jpg",
+   "products/N6c_2.jpg",
+   "products/N6c_3.jpg"
+  ],
+  "packshot_file": "products/N6c_3.jpg",
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "N6d",
+  "shop": "befree",
+  "title": "Полупальто оверсайз драповое",
+  "color": "коричневый",
+  "price": 7999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641602046/22",
+  "files": [
+   "products/N6d_1.jpg",
+   "products/N6d_2.jpg",
+   "products/N6d_3.jpg"
+  ],
+  "packshot_file": "products/N6d_3.jpg",
+  "note": "5 size variants flagged in stock online"
+ },
+ {
+  "code": "N7a",
+  "shop": "befree",
+  "title": "Полупальто драповое с отложным воротником",
+  "color": "коричневый",
+  "price": 4999,
+  "url": "https://befree.ru/zhenskaya/product/BF2631602003/22",
+  "files": [
+   "products/N7a_1.jpg",
+   "products/N7a_2.jpg",
+   "products/N7a_3.jpg"
+  ],
+  "packshot_file": "products/N7a_3.jpg",
+  "note": "10 size variants flagged in stock online"
+ },
+ {
+  "code": "N7b",
+  "shop": "sela",
+  "title": "Драповое полупальто из смесовой шерсти и кашемира",
+  "color": "бежевый",
+  "price": 15999,
+  "url": "https://www.sela.ru/eshop/women/verkhnyaya-odezhda/palto/SL6809011122_189/",
+  "files": [
+   "products/N7b_1.jpg",
+   "products/N7b_2.jpg",
+   "products/N7b_3.jpg"
+  ],
+  "packshot_file": "products/N7b_3.jpg",
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "N7c",
+  "shop": "selfmade",
+  "title": "Укороченное пальто с шерстью «Выйти за кофе»",
+  "color": "Серый",
+  "price": 29990,
+  "url": "https://selfmade.ru/collection/verhnyaya-odezhda-2/product/palto-ukorochennoe",
+  "files": [
+   "products/N7c_1.jpg",
+   "products/N7c_2.jpg",
+   "products/N7c_3.jpg"
+  ],
+  "packshot_file": "products/N7c_3.jpg",
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "N7d",
+  "shop": "lime",
+  "title": "Скульптурное полупальто из смесовой шерсти",
+  "color": "коричневый",
+  "price": 13999,
+  "url": "https://limestore.com/ru_ru/product/35981-7399_181_210_koricnevyi",
+  "files": [
+   "products/N7d_1.jpg",
+   "products/N7d_2.jpg",
+   "products/N7d_3.jpg"
+  ],
+  "packshot_file": "products/N7d_3.jpg",
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "N8a",
+  "shop": "lime",
+  "title": "Ботфорты на каблуке",
+  "color": "коричневый",
+  "price": 13999,
+  "url": "https://limestore.com/ru_ru/product/38306-2072_425_210_koricnevyi",
+  "files": [
+   "products/N8a_1.jpg",
+   "products/N8a_2.jpg",
+   "products/N8a_3.jpg"
+  ],
+  "packshot_file": "products/N8a_3.jpg",
+  "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
+ },
+ {
+  "code": "N8b",
+  "shop": "ushatava",
+  "title": "Кожаные сапоги-чулки",
+  "color": "бордовый (по фото)",
+  "price": 59900,
+  "url": "https://www.ushatava.ru/store/w/kozhanye-sapogi-chulki-83439/",
+  "files": [
+   "products/N8b_1.jpg",
+   "products/N8b_2.jpg",
+   "products/N8b_3.jpg"
+  ],
+  "packshot_file": "products/N8b_3.jpg",
+  "note": "page lists all offers AVAILABLE; sizes not individually confirmed"
+ },
+ {
+  "code": "N8c",
+  "shop": "rv",
+  "title": "Женские ботфорты TENDANCE",
+  "color": "коричневый",
+  "price": 18390,
+  "url": "https://www.rendez-vous.ru/catalog/female/botforty/tendance_bs921_01_korichnevyy-4738028/",
+  "files": [
+   "products/N8c_1.jpg",
+   "products/N8c_2.jpg",
+   "products/N8c_3.jpg"
+  ],
+  "packshot_file": "products/N8c_3.jpg",
+  "note": "sizes in stock: 38, 39, 40"
+ },
+ {
+  "code": "N8d",
+  "shop": "lime",
+  "title": "Замшевые ботфорты с отворотом",
+  "color": "бутылочно-зеленый",
+  "price": 23999,
+  "url": "https://limestore.com/ru_ru/product/38410-3812_524_307_butylocno_zelenyi",
+  "files": [
+   "products/N8d_1.jpg",
+   "products/N8d_2.jpg",
+   "products/N8d_3.jpg"
+  ],
+  "packshot_file": "products/N8d_3.jpg",
+  "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
+ },
+ {
+  "code": "N9a",
+  "shop": "lime",
+  "title": "Замшевые ботинки с мехом",
+  "color": "темно-коричневый",
+  "price": 14999,
+  "url": "https://limestore.com/ru_ru/product/37460-2026_415_201_temno_koricnevyi",
+  "files": [
+   "products/N9a_1.jpg",
+   "products/N9a_2.jpg",
+   "products/N9a_3.jpg"
+  ],
+  "packshot_file": "products/N9a_3.jpg",
+  "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
+ },
+ {
+  "code": "N9b",
+  "shop": "sela",
+  "title": "Угги из натуральной замши с резинками",
+  "color": "коричневый",
+  "price": 7999,
+  "url": "https://www.sela.ru/eshop/women/obuv/sapogi/SL6811206101_27/",
+  "files": [
+   "products/N9b_1.jpg",
+   "products/N9b_2.jpg",
+   "products/N9b_3.jpg"
+  ],
+  "packshot_file": "products/N9b_3.jpg",
+  "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
+ },
+ {
+  "code": "N9c",
+  "shop": "befree",
+  "title": "Угги высокие из натуральной замши с крестом",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://befree.ru/zhenskaya/product/BF2646687031/50",
+  "files": [
+   "products/N9c_1.jpg",
+   "products/N9c_2.jpg",
+   "products/N9c_3.jpg"
+  ],
+  "packshot_file": "products/N9c_3.jpg",
+  "note": "7 size variants flagged in stock online"
+ },
+ {
+  "code": "N9d",
+  "shop": "befree",
+  "title": "Угги из натуральной замши на платформе",
+  "color": "коричневый",
+  "price": 5999,
+  "url": "https://befree.ru/zhenskaya/product/BF2646687006/20",
+  "files": [
+   "products/N9d_1.jpg",
+   "products/N9d_2.jpg",
+   "products/N9d_3.jpg"
+  ],
+  "packshot_file": "products/N9d_3.jpg",
+  "note": "21 size variants flagged in stock online"
+ },
+ {
+  "code": "W1",
+  "shop": "Vogue Runway",
+  "designer": "Acne Studios",
+  "look": 37,
+  "title": "Acne Studios Fall 2026 RTW, look 37",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/acne-studios/slideshow/collection#37",
+  "files": [
+   "runway/W1.jpg"
+  ],
+  "packshot_file": null,
+  "note": "camel long coat, large dark fur collar; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/69a94dc9953681e0124ebae2/master/pass/00037-acne-studios-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "W2",
+  "shop": "Vogue Runway",
+  "designer": "Balenciaga",
+  "look": 44,
+  "title": "Balenciaga Fall 2026 RTW, look 44",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/balenciaga/slideshow/collection#44",
+  "files": [
+   "runway/W2.jpg"
+  ],
+  "packshot_file": null,
+  "note": "camel long coat, huge sculpted collar; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/69ac9ff5c5251f3c111f1d34/master/pass/00044-balenciaga-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "W3",
+  "shop": "Vogue Runway",
+  "designer": "Tod's",
+  "look": 24,
+  "title": "Tod's Fall 2026 RTW, look 24",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/tod-s/slideshow/collection#24",
+  "files": [
+   "runway/W3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "dark brown quilted puffer jacket cinched with a tie at the waist, over shirt and pinstripe trousers; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/69a17c8dcb1f294d985fcf70/master/pass/00024-tods-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "W4",
+  "shop": "Vogue Runway",
+  "designer": "Ralph Lauren",
+  "look": 50,
+  "title": "Ralph Lauren Fall 2026 RTW, look 50",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/ralph-lauren/slideshow/collection#50",
+  "files": [
+   "runway/W4.jpg"
+  ],
+  "packshot_file": null,
+  "note": "chocolate long shearling coat; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/698c6373b30434c3b8aab0eb/master/pass/00050-ralph-lauren-fall-2026-ready-to-wear-credit-brand.jpg"
+ },
+ {
+  "code": "W5",
+  "shop": "Vogue Runway",
+  "designer": "Carven",
+  "look": 1,
+  "title": "Carven Fall 2026 RTW, look 1",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/carven/slideshow/collection#1",
+  "files": [
+   "runway/W5.jpg"
+  ],
+  "packshot_file": null,
+  "note": "chocolate-burgundy long leather coat, belted; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/69a9bb26953681e0124ec64e/master/pass/00001-carven-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "W6",
+  "shop": "Vogue Runway",
+  "designer": "Max Mara",
+  "look": 23,
+  "title": "Max Mara Fall 2026 RTW, look 23",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/max-mara/slideshow/collection#23",
+  "files": [
+   "runway/W6.jpg"
+  ],
+  "packshot_file": null,
+  "note": "burgundy cocoon coat, voluminous, belted; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/69a03cde27c91c9eae6f315f/master/pass/00023-max-mara-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "W7",
+  "shop": "Vogue Runway",
+  "designer": "Burberry",
+  "look": 31,
+  "title": "Burberry Fall 2026 RTW, look 31",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/burberry-prorsum/slideshow/collection#31",
+  "files": [
+   "runway/W7.jpg"
+  ],
+  "packshot_file": null,
+  "note": "milk short double-breasted peacoat; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/699f682120e9fb6a1977747d/master/pass/00031-burberry-fall-2026-ready-to-wear-credit-gorunway-brand.jpg"
+ },
+ {
+  "code": "W8",
+  "shop": "Vogue Runway",
+  "designer": "Michael Kors Collection",
+  "look": 31,
+  "title": "Michael Kors Collection Fall 2026 RTW, look 31",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/michael-kors-collection/slideshow/collection#31",
+  "files": [
+   "runway/W8.jpg"
+  ],
+  "packshot_file": null,
+  "note": "grey coat, tall brown fitted boots; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/698e76d75f316534f96ae16e/master/pass/00031-michael-kors-collection-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "W9",
+  "shop": "Vogue Runway",
+  "designer": "Acne Studios",
+  "look": 7,
+  "title": "Acne Studios Fall 2026 RTW, look 7",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/acne-studios/slideshow/collection#7",
+  "files": [
+   "runway/W9.jpg"
+  ],
+  "packshot_file": null,
+  "note": "beige tall boots with fur cuffs; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/69a94dad0f131c648133f0a7/master/pass/00007-acne-studios-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "V01",
+  "shop": "Vogue Runway",
+  "designer": "Stella McCartney",
+  "look": 3,
+  "title": "Stella McCartney Fall 2026 RTW, look 3",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/stella-mccartney/slideshow/collection#3",
+  "files": [
+   "runway/V01.jpg"
+  ],
+  "packshot_file": null,
+  "note": "camel teddy shearling coat, big collar; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/69a88fa5bc8ac2ce01583f68/master/pass/00003-stella-mccartney-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "V02",
+  "shop": "Vogue Runway",
+  "designer": "Altuzarra",
+  "look": 16,
+  "title": "Altuzarra Fall 2026 RTW, look 16",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/altuzarra/slideshow/collection#16",
+  "files": [
+   "runway/V02.jpg"
+  ],
+  "packshot_file": null,
+  "note": "black leather coat, shearling collar/cuffs/hem; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/6990e0da780cbb4c570ecb51/master/pass/00016-altuzarra-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "V03",
+  "shop": "Vogue Runway",
+  "designer": "Miu Miu",
+  "look": 44,
+  "title": "Miu Miu Fall 2026 RTW, look 44",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/miu-miu/slideshow/collection#44",
+  "files": [
+   "runway/V03.jpg"
+  ],
+  "packshot_file": null,
+  "note": "burgundy puffer coat, fur trim; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/69b04b3784c5798535066dd6/master/pass/00044-miu-miu-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "V04",
+  "shop": "Vogue Runway",
+  "designer": "Saint Laurent",
+  "look": 25,
+  "title": "Saint Laurent Fall 2026 RTW, look 25",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/saint-laurent/slideshow/collection#25",
+  "files": [
+   "runway/V04.jpg"
+  ],
+  "packshot_file": null,
+  "note": "chocolate coat, huge fur collar; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/69a81e2e113ce9d76e684ae9/master/pass/00025-saint-laurent-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "V05",
+  "shop": "Vogue Runway",
+  "designer": "Michael Kors Collection",
+  "look": 12,
+  "title": "Michael Kors Collection Fall 2026 RTW, look 12",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/michael-kors-collection/slideshow/collection#12",
+  "files": [
+   "runway/V05.jpg"
+  ],
+  "packshot_file": null,
+  "note": "milk fur cocoon coat; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/698fc1e1595dc36c7d38f955/master/pass/00012-michael-kors-collection-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "V06",
+  "shop": "Vogue Runway",
+  "designer": "Khaite",
+  "look": 31,
+  "title": "Khaite Fall 2026 RTW, look 31",
+  "color": "",
+  "price": null,
+  "url": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/khaite/slideshow/collection#31",
+  "files": [
+   "runway/V06.jpg"
+  ],
+  "packshot_file": null,
+  "note": "cream fur short jacket, trousers; assets.vogue.com master original",
+  "photo_url": "https://assets.vogue.com/photos/69927573c191ac3040f10c8c/master/pass/00031-khaite-fall-2026-ready-to-wear-credit-brand.jpg"
+ }
 ]
