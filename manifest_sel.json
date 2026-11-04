@@ -548,5 +548,565 @@
    "sel/S05/S05-8_2.jpg"
   ],
   "reuse_of": null
+ },
+ {
+  "code": "S06-1",
+  "theme": "Уютные свитера на выходные",
+  "shop": "lime",
+  "title": "Классический свитер с ангорской шерстью",
+  "color": "терракотовый",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/27961_9089_465-9089_465_611_terrakotovyi",
+  "files": [
+   "sel/S06/S06-1_1.jpg",
+   "sel/S06/S06-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S06-2",
+  "theme": "Уютные свитера на выходные",
+  "shop": "lime",
+  "title": "Кардиган с ангорой и шерстью",
+  "color": "молочный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/38554-3878_218_120_molocnyi",
+  "files": [
+   "sel/S06/S06-2_1.jpg",
+   "sel/S06/S06-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S06-3",
+  "theme": "Уютные свитера на выходные",
+  "shop": "lime",
+  "title": "Свитер из полушерсти с воротником",
+  "color": "серо-бежевый меланж",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/38274-3862_491_263_sero_bezevyi_melanz",
+  "files": [
+   "sel/S06/S06-3_1.jpg",
+   "sel/S06/S06-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S06-4",
+  "theme": "Уютные свитера на выходные",
+  "shop": "lr",
+  "title": "Свитер из 100% шерсти",
+  "color": "красный",
+  "price": 6999,
+  "url": "https://loverepublic.ru/catalog/odezhda/trikotazh/dzhempery/336106/",
+  "files": [
+   "sel/S06/S06-4_1.jpg",
+   "sel/S06/S06-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S06-5",
+  "theme": "Уютные свитера на выходные",
+  "shop": "lr",
+  "title": "Свитер из мохера с шерстью",
+  "color": "серый",
+  "price": 7999,
+  "url": "https://loverepublic.ru/catalog/odezhda/trikotazh/dzhempery/335638/",
+  "files": [
+   "sel/S06/S06-5_1.jpg",
+   "sel/S06/S06-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S06-6",
+  "theme": "Уютные свитера на выходные",
+  "shop": "lichi",
+  "title": "Свободный свитер в крупный рубчик",
+  "color": "молочный",
+  "price": 6999,
+  "url": "https://lichi.com/ru/ru/product/50566",
+  "files": [
+   "sel/S06/S06-6_1.jpg",
+   "sel/S06/S06-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S06-7",
+  "theme": "Уютные свитера на выходные",
+  "shop": "lichi",
+  "title": "Свободный свитер с воротником поло на молнии",
+  "color": "пудровый",
+  "price": 4999,
+  "url": "https://lichi.com/ru/ru/product/50181",
+  "files": [
+   "sel/S06/S06-7_1.jpg",
+   "sel/S06/S06-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S06-8",
+  "theme": "Уютные свитера на выходные",
+  "shop": "lichi",
+  "title": "Трикотажный свитер с шарфом в тон",
+  "color": "бордовый",
+  "price": 5999,
+  "url": "https://lichi.com/ru/ru/product/50548",
+  "files": [
+   "sel/S06/S06-8_1.jpg",
+   "sel/S06/S06-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S07-1",
+  "theme": "Шубки и эко-мех",
+  "shop": "lime",
+  "title": "Шуба из ткани под мех норки",
+  "color": "светло-бежевый",
+  "price": 13999,
+  "url": "https://limestore.com/ru_ru/product/36683-8122_554_270_svetlo_bezevyi",
+  "files": [
+   "sel/S07/S07-1_1.jpg",
+   "sel/S07/S07-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S07-2",
+  "theme": "Шубки и эко-мех",
+  "shop": "lime",
+  "title": "Укороченная шуба из объемного меха",
+  "color": "молочный",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/36312-8252_024_120_molocnyi",
+  "files": [
+   "sel/S07/S07-2_1.jpg",
+   "sel/S07/S07-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S07-3",
+  "theme": "Шубки и эко-мех",
+  "shop": "lime",
+  "title": "Шуба оверсайз с шарфом",
+  "color": "карамельный",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/36340-8138_663_222_karamelnyi",
+  "files": [
+   "sel/S07/S07-3_1.jpg",
+   "sel/S07/S07-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S07-4",
+  "theme": "Шубки и эко-мех",
+  "shop": "lr",
+  "title": "Шуба из искусственного меха",
+  "color": "серый",
+  "price": 15999,
+  "url": "https://loverepublic.ru/catalog/odezhda/verhnyaya-odezhda/333536/",
+  "files": [
+   "sel/S07/S07-4_1.jpg",
+   "sel/S07/S07-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S07-5",
+  "theme": "Шубки и эко-мех",
+  "shop": "lr",
+  "title": "Короткая шуба из экомеха",
+  "color": "серый",
+  "price": 15999,
+  "url": "https://loverepublic.ru/catalog/odezhda/verhnyaya-odezhda/329344/",
+  "files": [
+   "sel/S07/S07-5_1.jpg",
+   "sel/S07/S07-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S07-6",
+  "theme": "Шубки и эко-мех",
+  "shop": "lr",
+  "title": "Короткая шуба из искусственного меха",
+  "color": "коричневый",
+  "price": 15999,
+  "url": "https://loverepublic.ru/catalog/odezhda/verhnyaya-odezhda/336337/",
+  "files": [
+   "sel/S07/S07-6_1.jpg",
+   "sel/S07/S07-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S07-7",
+  "theme": "Шубки и эко-мех",
+  "shop": "lichi",
+  "title": "Укороченная шуба из эко-меха",
+  "color": "коричневый",
+  "price": 15999,
+  "url": "https://lichi.com/ru/ru/product/52945",
+  "files": [
+   "sel/S07/S07-7_1.jpg",
+   "sel/S07/S07-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S07-8",
+  "theme": "Шубки и эко-мех",
+  "shop": "lichi",
+  "title": "Короткая экошуба на молнии",
+  "color": "коричневый",
+  "price": 13999,
+  "url": "https://lichi.com/ru/ru/product/48132",
+  "files": [
+   "sel/S07/S07-8_1.jpg",
+   "sel/S07/S07-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S08-1",
+  "theme": "Праздничная обувь на устойчивом каблуке",
+  "shop": "lime",
+  "title": "Мюли из овечьей кожи на каблуке",
+  "color": "красный",
+  "price": 10999,
+  "url": "https://limestore.com/ru_ru/product/31960_4868_423-4868_423_610_krasnyi",
+  "files": [
+   "sel/S08/S08-1_1.jpg",
+   "sel/S08/S08-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S08-2",
+  "theme": "Праздничная обувь на устойчивом каблуке",
+  "shop": "lime",
+  "title": "Кожаные туфли с квадратным мысом",
+  "color": "черный",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/35398-2071_993_001_cernyi",
+  "files": [
+   "sel/S08/S08-2_1.jpg",
+   "sel/S08/S08-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S08-3",
+  "theme": "Праздничная обувь на устойчивом каблуке",
+  "shop": "lime",
+  "title": "Лакированные туфли из кожи",
+  "color": "коричневый",
+  "price": 12999,
+  "url": "https://limestore.com/ru_ru/product/36458-0544_595_210_koricnevyi",
+  "files": [
+   "sel/S08/S08-3_1.jpg",
+   "sel/S08/S08-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S08-4",
+  "theme": "Праздничная обувь на устойчивом каблуке",
+  "shop": "lr",
+  "title": "Туфли с жемчужным декором",
+  "color": "черный",
+  "price": 10999,
+  "url": "https://loverepublic.ru/catalog/shoes/268341/",
+  "files": [
+   "sel/S08/S08-4_1.jpg",
+   "sel/S08/S08-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S08-5",
+  "theme": "Праздничная обувь на устойчивом каблуке",
+  "shop": "lr",
+  "title": "Мюли из натуральной лаковой кожи",
+  "color": "красный",
+  "price": 10999,
+  "url": "https://loverepublic.ru/catalog/shoes/284396/",
+  "files": [
+   "sel/S08/S08-5_1.jpg",
+   "sel/S08/S08-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S08-6",
+  "theme": "Праздничная обувь на устойчивом каблуке",
+  "shop": "lr",
+  "title": "Туфли-лодочки из атласа",
+  "color": "коричневый",
+  "price": 10999,
+  "url": "https://loverepublic.ru/catalog/shoes/283504/",
+  "files": [
+   "sel/S08/S08-6_1.jpg",
+   "sel/S08/S08-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S08-7",
+  "theme": "Праздничная обувь на устойчивом каблуке",
+  "shop": "rv",
+  "title": "Мюли-вьетнамки Tendance",
+  "color": "серебряный",
+  "price": 12690,
+  "url": "https://www.rendez-vous.ru/catalog/female/myuli/tendance_glc9023_01_serebryanyy-5012326/",
+  "files": [
+   "sel/S08/S08-7_1.jpg",
+   "sel/S08/S08-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S08-8",
+  "theme": "Праздничная обувь на устойчивом каблуке",
+  "shop": "rv",
+  "title": "Мюли Tendance из замши",
+  "color": "серебряный",
+  "price": 13290,
+  "url": "https://www.rendez-vous.ru/catalog/female/myuli/tendance_rl662_11_serebryanyy-4344009/",
+  "files": [
+   "sel/S08/S08-8_1.jpg",
+   "sel/S08/S08-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S09-1",
+  "theme": "Сумки и клатчи на праздники",
+  "shop": "lime",
+  "title": "Сумка из стеклянных деталей",
+  "color": "золотой",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/39298-5161_981_710_zolotoi",
+  "files": [
+   "sel/S09/S09-1_1.jpg",
+   "sel/S09/S09-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S09-2",
+  "theme": "Сумки и клатчи на праздники",
+  "shop": "lime",
+  "title": "Клатч с анималистичным тиснением",
+  "color": "красный",
+  "price": 8999,
+  "url": "https://limestore.com/ru_ru/product/39035-4957_824_610_krasnyi",
+  "files": [
+   "sel/S09/S09-2_1.jpg",
+   "sel/S09/S09-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S09-3",
+  "theme": "Сумки и клатчи на праздники",
+  "shop": "lime",
+  "title": "Лакированная сумка-бокс",
+  "color": "винный",
+  "price": 5599,
+  "url": "https://limestore.com/ru_ru/product/35313-2525_988_603_vinnyi",
+  "files": [
+   "sel/S09/S09-3_1.jpg",
+   "sel/S09/S09-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S09-4",
+  "theme": "Сумки и клатчи на праздники",
+  "shop": "lr",
+  "title": "Сумка из жаккарда с фермуаром",
+  "color": "мультиколор",
+  "price": 4999,
+  "url": "https://loverepublic.ru/catalog/sumki/312862/",
+  "files": [
+   "sel/S09/S09-4_1.jpg",
+   "sel/S09/S09-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S09-5",
+  "theme": "Сумки и клатчи на праздники",
+  "shop": "lr",
+  "title": "Микросумка из бархата на цепочке",
+  "color": "коричневый",
+  "price": 3599,
+  "url": "https://loverepublic.ru/catalog/sumki/330585/",
+  "files": [
+   "sel/S09/S09-5_1.jpg",
+   "sel/S09/S09-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S09-6",
+  "theme": "Сумки и клатчи на праздники",
+  "shop": "lr",
+  "title": "Сумка-клатч из экокожи с цепочкой",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/sumki/324332/",
+  "files": [
+   "sel/S09/S09-6_1.jpg",
+   "sel/S09/S09-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S09-7",
+  "theme": "Сумки и клатчи на праздники",
+  "shop": "lichi",
+  "title": "Клатч из сатина с жемчужной нитью",
+  "color": "молочный",
+  "price": 6999,
+  "url": "https://lichi.com/ru/ru/product/52341",
+  "files": [
+   "sel/S09/S09-7_1.jpg",
+   "sel/S09/S09-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S09-8",
+  "theme": "Сумки и клатчи на праздники",
+  "shop": "lichi",
+  "title": "Клатч с перьевым декором и металлической ручкой",
+  "color": "белый",
+  "price": 7999,
+  "url": "https://lichi.com/ru/ru/product/52402",
+  "files": [
+   "sel/S09/S09-8_1.jpg",
+   "sel/S09/S09-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S10-1",
+  "theme": "Серьги-акцент",
+  "shop": "lime",
+  "title": "Серьги с кристаллами",
+  "color": "серебряный",
+  "price": 2599,
+  "url": "https://limestore.com/ru_ru/product/39255-4681_952_040_serebrianyi",
+  "files": [
+   "sel/S10/S10-1_1.jpg",
+   "sel/S10/S10-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S10-2",
+  "theme": "Серьги-акцент",
+  "shop": "lime",
+  "title": "Серьги с кристаллами",
+  "color": "бордовый",
+  "price": 2599,
+  "url": "https://limestore.com/ru_ru/product/39045-4682_955_602_bordovyi",
+  "files": [
+   "sel/S10/S10-2_1.jpg",
+   "sel/S10/S10-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S10-3",
+  "theme": "Серьги-акцент",
+  "shop": "lime",
+  "title": "Квадратные серьги с элементом под янтарь",
+  "color": "янтарный",
+  "price": 2599,
+  "url": "https://limestore.com/ru_ru/product/37433-3897_767_821_iantarnyi",
+  "files": [
+   "sel/S10/S10-3_1.jpg",
+   "sel/S10/S10-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S10-4",
+  "theme": "Серьги-акцент",
+  "shop": "lr",
+  "title": "Объемные серьги из латуни с кристаллами",
+  "color": "мультиколор",
+  "price": 2999,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/earrings/329874/",
+  "files": [
+   "sel/S10/S10-4_1.jpg",
+   "sel/S10/S10-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S10-5",
+  "theme": "Серьги-акцент",
+  "shop": "lr",
+  "title": "Серьги-подвески с кристаллами",
+  "color": "мультиколор",
+  "price": 2599,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/earrings/322754/",
+  "files": [
+   "sel/S10/S10-5_1.jpg",
+   "sel/S10/S10-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S10-6",
+  "theme": "Серьги-акцент",
+  "shop": "lr",
+  "title": "Объемные серьги с цветами",
+  "color": "мультиколор",
+  "price": 2999,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/earrings/328796/",
+  "files": [
+   "sel/S10/S10-6_1.jpg",
+   "sel/S10/S10-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S10-7",
+  "theme": "Серьги-акцент",
+  "shop": "lichi",
+  "title": "Золотистые серьги с кистями из бисера",
+  "color": "черный",
+  "price": 1499,
+  "url": "https://lichi.com/ru/ru/product/52849",
+  "files": [
+   "sel/S10/S10-7_1.jpg",
+   "sel/S10/S10-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S10-8",
+  "theme": "Серьги-акцент",
+  "shop": "lichi",
+  "title": "Длинные серьги-пусеты с цветами в стразах",
+  "color": "серебристый",
+  "price": 1299,
+  "url": "https://lichi.com/ru/ru/product/48617",
+  "files": [
+   "sel/S10/S10-8_1.jpg",
+   "sel/S10/S10-8_2.jpg"
+  ],
+  "reuse_of": null
  }
 ]
