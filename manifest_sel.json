@@ -180,11 +180,11 @@
  {
   "code": "S02-6",
   "theme": "Пайетки на каждый день",
-  "shop": "lr",
-  "title": "Юбка-баллон с вышивкой бисером",
-  "color": "розовый",
-  "price": 13999,
-  "url": "https://loverepublic.ru/catalog/odezhda/yubki/322770/",
+  "shop": "lime",
+  "title": "Мини-юбка из ткани букле с мерцанием",
+  "color": "цвет слоновой кости",
+  "price": 4599,
+  "url": "https://limestore.com/ru_ru/product/36998-2369_820_130_cvet_slonovoi_kosti",
   "files": [
    "sel/S02/S02-6_1.jpg",
    "sel/S02/S02-6_2.jpg"
@@ -194,11 +194,11 @@
  {
   "code": "S02-7",
   "theme": "Пайетки на каждый день",
-  "shop": "lr",
-  "title": "Джинсовый корсет с вышивкой бисером и пайетками",
-  "color": "синий",
-  "price": 7999,
-  "url": "https://loverepublic.ru/catalog/odezhda/topy/317416/",
+  "shop": "lichi",
+  "title": "Топ в пайетках с V-образным вырезом",
+  "color": "голубой",
+  "price": 5999,
+  "url": "https://lichi.com/ru/ru/product/52252",
   "files": [
    "sel/S02/S02-7_1.jpg",
    "sel/S02/S02-7_2.jpg"
@@ -208,11 +208,11 @@
  {
   "code": "S02-8",
   "theme": "Пайетки на каждый день",
-  "shop": "lr",
-  "title": "Бра с вышивкой бисером и пайетками",
-  "color": "коричневый",
-  "price": 3999,
-  "url": "https://loverepublic.ru/catalog/odezhda/belye/321504/",
+  "shop": "lime",
+  "title": "Топ из лиоцелла и шерсти с мерцанием",
+  "color": "золотой",
+  "price": 3599,
+  "url": "https://limestore.com/ru_ru/product/38957-3174_785_710_zolotoi",
   "files": [
    "sel/S02/S02-8_1.jpg",
    "sel/S02/S02-8_2.jpg"
@@ -441,7 +441,7 @@
  },
  {
   "code": "S05-1",
-  "theme": "Атласная юбка",
+  "theme": "Нарядные юбки",
   "shop": "lichi",
   "title": "Расклешенная юбка макси из атласа",
   "color": "черный",
@@ -455,7 +455,7 @@
  },
  {
   "code": "S05-2",
-  "theme": "Атласная юбка",
+  "theme": "Нарядные юбки",
   "shop": "lichi",
   "title": "Расклешенная юбка макси из сатина",
   "color": "черный",
@@ -468,7 +468,7 @@
  },
  {
   "code": "S05-3",
-  "theme": "Атласная юбка",
+  "theme": "Нарядные юбки",
   "shop": "lichi",
   "title": "Юбка макси из сатина со складками на талии",
   "color": "белый",
@@ -481,7 +481,7 @@
  },
  {
   "code": "S05-4",
-  "theme": "Атласная юбка",
+  "theme": "Нарядные юбки",
   "shop": "lime",
   "title": "Асимметричная юбка с драпировкой",
   "color": "молочный",
@@ -495,7 +495,7 @@
  },
  {
   "code": "S05-5",
-  "theme": "Атласная юбка",
+  "theme": "Нарядные юбки",
   "shop": "lr",
   "title": "Юбка с баской и воланами",
   "color": "черный",
@@ -509,7 +509,7 @@
  },
  {
   "code": "S05-6",
-  "theme": "Атласная юбка",
+  "theme": "Нарядные юбки",
   "shop": "lime",
   "title": "Миди-юбка из ткани с мерцанием",
   "color": "золотой",
@@ -523,7 +523,7 @@
  },
  {
   "code": "S05-7",
-  "theme": "Атласная юбка",
+  "theme": "Нарядные юбки",
   "shop": "lr",
   "title": "Юбка миди в складку с ремнем",
   "color": "серый",
@@ -537,7 +537,7 @@
  },
  {
   "code": "S05-8",
-  "theme": "Атласная юбка",
+  "theme": "Нарядные юбки",
   "shop": "lr",
   "title": "Юбка-шорты со шлейфом",
   "color": "синий",
@@ -1654,6 +1654,552 @@
   "files": [
    "sel/S15/S15-8_1.jpg",
    "sel/S15/S15-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S16-1",
+  "theme": "Шоколадный цвет",
+  "shop": "lime",
+  "title": "Шуба оверсайз с шарфом",
+  "color": "коричневый",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/36334-8138_585_210_koricnevyi",
+  "files": [
+   "sel/S16/S16-1_1.jpg",
+   "sel/S16/S16-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S16-2",
+  "theme": "Шоколадный цвет",
+  "shop": "lime",
+  "title": "Мини-платье с подплечниками из полушерстяной ткани",
+  "color": "темно-коричневый",
+  "price": 9999,
+  "url": "https://limestore.com/ru_ru/product/37977-3841_416_201_temno_koricnevyi",
+  "files": [
+   "sel/S16/S16-2_1.jpg",
+   "sel/S16/S16-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S16-3",
+  "theme": "Шоколадный цвет",
+  "shop": "lime",
+  "title": "Кардиган из трикотажа с шерстью и ангорой",
+  "color": "темно-коричневый",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/37141-1063_465_201_temno_koricnevyi",
+  "files": [
+   "sel/S16/S16-3_1.jpg",
+   "sel/S16/S16-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S16-4",
+  "theme": "Шоколадный цвет",
+  "shop": "lichi",
+  "title": "Приталенное платье миди с вырезом на лифе",
+  "color": "шоколад",
+  "price": 6999,
+  "url": "https://lichi.com/ru/ru/product/50721",
+  "files": [
+   "sel/S16/S16-4_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S16-5",
+  "theme": "Шоколадный цвет",
+  "shop": "lichi",
+  "title": "Юбка-карандаш до колена",
+  "color": "шоколад",
+  "price": 6999,
+  "url": "https://lichi.com/ru/ru/product/53015",
+  "files": [
+   "sel/S16/S16-5_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S16-6",
+  "theme": "Шоколадный цвет",
+  "shop": "lichi",
+  "title": "Двубортное шерстяное пальто длины макси",
+  "color": "кофе",
+  "price": 19999,
+  "url": "https://lichi.com/ru/ru/product/52757",
+  "files": [
+   "sel/S16/S16-6_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S16-7",
+  "theme": "Шоколадный цвет",
+  "shop": "2mood",
+  "title": "Брюки со складками",
+  "color": "шоколадный",
+  "price": 13980,
+  "url": "https://www.2moodstore.com/collection/katalog/bryuki_so_skladkami_shokoladnogo_tsveta/",
+  "files": [
+   "sel/S16/S16-7_1.jpg",
+   "sel/S16/S16-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S16-8",
+  "theme": "Шоколадный цвет",
+  "shop": "2mood",
+  "title": "Шапка из шерсти мериноса",
+  "color": "шоколадный",
+  "price": 5980,
+  "url": "https://www.2moodstore.com/collection/katalog/shapka_iz_shersti_merinosa_shokoladnogo_tsveta/",
+  "files": [
+   "sel/S16/S16-8_1.jpg",
+   "sel/S16/S16-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S17-1",
+  "theme": "Брючные костюмы на праздники",
+  "shop": "lime",
+  "title": "Приталенный блейзер с воротником-стойкой",
+  "color": "темно-коричневый",
+  "price": 8999,
+  "url": "https://limestore.com/ru_ru/product/33635-5504_325_201_temno_koricnevyi",
+  "files": [
+   "sel/S17/S17-1_1.jpg",
+   "sel/S17/S17-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S17-2",
+  "theme": "Брючные костюмы на праздники",
+  "shop": "lime",
+  "title": "Брюки свободного кроя со стрелками",
+  "color": "темно-коричневый",
+  "price": 5599,
+  "url": "https://limestore.com/ru_ru/product/33636-3052_325_201_temno_koricnevyi",
+  "files": [
+   "sel/S17/S17-2_1.jpg",
+   "sel/S17/S17-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S17-3",
+  "theme": "Брючные костюмы на праздники",
+  "shop": "lr",
+  "title": "Жакет из вискозы с шелком",
+  "color": "мультиколор",
+  "price": 16999,
+  "url": "https://loverepublic.ru/catalog/odezhda/zhakety/334436/",
+  "files": [
+   "sel/S17/S17-3_1.jpg",
+   "sel/S17/S17-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S17-4",
+  "theme": "Брючные костюмы на праздники",
+  "shop": "lr",
+  "title": "Брюки из вискозы с шелком",
+  "color": "мультиколор",
+  "price": 13999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/335991/",
+  "files": [
+   "sel/S17/S17-4_1.jpg",
+   "sel/S17/S17-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S17-5",
+  "theme": "Брючные костюмы на праздники",
+  "shop": "lichi",
+  "title": "Приталенный жакет с шарфом",
+  "color": "черный",
+  "price": 13999,
+  "url": "https://lichi.com/ru/ru/product/52998",
+  "files": [
+   "sel/S17/S17-5_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S17-6",
+  "theme": "Брючные костюмы на праздники",
+  "shop": "lichi",
+  "title": "Широкие брюки с кашемиром",
+  "color": "черный",
+  "price": 8999,
+  "url": "https://lichi.com/ru/ru/product/53010",
+  "files": [
+   "sel/S17/S17-6_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S17-7",
+  "theme": "Брючные костюмы на праздники",
+  "shop": "lime",
+  "title": "Удлиненный смокинг с цветком",
+  "color": "черный",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/38328-4336_325_001_cernyi",
+  "files": [
+   "sel/S17/S17-7_1.jpg",
+   "sel/S17/S17-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S17-8",
+  "theme": "Брючные костюмы на праздники",
+  "shop": "lichi",
+  "title": "Однобортный жакет с крупными пуговицами",
+  "color": "бордовый",
+  "price": 12999,
+  "url": "https://lichi.com/ru/ru/product/50139",
+  "files": [
+   "sel/S17/S17-8_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S18-1",
+  "theme": "Каникулы: тёплые образы для прогулок",
+  "shop": "lime",
+  "title": "Стеганый пуховик оверсайз с шерстяным воротником",
+  "color": "гранатовый",
+  "price": 17999,
+  "url": "https://limestore.com/ru_ru/product/36546-8219_335_604_granatovyi",
+  "files": [
+   "sel/S18/S18-1_1.jpg",
+   "sel/S18/S18-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S18-2",
+  "theme": "Каникулы: тёплые образы для прогулок",
+  "shop": "lime",
+  "title": "Утепленное пальто оверсайз из шерсти",
+  "color": "коричневый меланж",
+  "price": 17999,
+  "url": "https://limestore.com/ru_ru/product/34694-0437_122_211_koricnevyi_melanz",
+  "files": [
+   "sel/S18/S18-2_1.jpg",
+   "sel/S18/S18-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S18-3",
+  "theme": "Каникулы: тёплые образы для прогулок",
+  "shop": "lime",
+  "title": "Замшевые сапоги на низком каблуке",
+  "color": "карамельный",
+  "price": 19999,
+  "url": "https://limestore.com/ru_ru/product/33254-9731_414_222_karamelnyi",
+  "files": [
+   "sel/S18/S18-3_1.jpg",
+   "sel/S18/S18-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S18-4",
+  "theme": "Каникулы: тёплые образы для прогулок",
+  "shop": "lichi",
+  "title": "Пуховик в полоску с ремнем",
+  "color": "темно-синий",
+  "price": 19999,
+  "url": "https://lichi.com/ru/ru/product/52914",
+  "files": [
+   "sel/S18/S18-4_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S18-5",
+  "theme": "Каникулы: тёплые образы для прогулок",
+  "shop": "lr",
+  "title": "Стеганая куртка с вельветовым воротником",
+  "color": "черный",
+  "price": 8999,
+  "url": "https://loverepublic.ru/catalog/odezhda/verhnyaya-odezhda/kurtki/333114/",
+  "files": [
+   "sel/S18/S18-5_1.jpg",
+   "sel/S18/S18-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S18-6",
+  "theme": "Каникулы: тёплые образы для прогулок",
+  "shop": "lichi",
+  "title": "Свободный свитер в крупный рубчик",
+  "color": "кофе",
+  "price": 6999,
+  "url": "https://lichi.com/ru/ru/product/50569",
+  "files": [
+   "sel/S18/S18-6_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S18-7",
+  "theme": "Каникулы: тёплые образы для прогулок",
+  "shop": "2mood",
+  "title": "Шапка из шерсти мериноса",
+  "color": "бежевый",
+  "price": 5980,
+  "url": "https://www.2moodstore.com/collection/katalog/shapka_iz_shersti_merinosa_bezhevogo_tsveta/",
+  "files": [
+   "sel/S18/S18-7_1.jpg",
+   "sel/S18/S18-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S18-8",
+  "theme": "Каникулы: тёплые образы для прогулок",
+  "shop": "lr",
+  "title": "Трикотажное платье с шерстью и мохером",
+  "color": "черный",
+  "price": 6599,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/339225/",
+  "files": [
+   "sel/S18/S18-8_1.jpg",
+   "sel/S18/S18-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S19-1",
+  "theme": "Блузы с бантом и воротником",
+  "shop": "lichi",
+  "title": "Легкая блуза с кружевным декором и бантом на воротнике",
+  "color": "белый",
+  "price": 7999,
+  "url": "https://lichi.com/ru/ru/product/52520",
+  "files": [
+   "sel/S19/S19-1_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S19-2",
+  "theme": "Блузы с бантом и воротником",
+  "shop": "lichi",
+  "title": "Ажурная блуза с объемными воланами на воротнике",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://lichi.com/ru/ru/product/49761",
+  "files": [
+   "sel/S19/S19-2_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S19-3",
+  "theme": "Блузы с бантом и воротником",
+  "shop": "lichi",
+  "title": "Атласная блуза с шарфом",
+  "color": "черный",
+  "price": 7499,
+  "url": "https://lichi.com/ru/ru/product/52927",
+  "files": [
+   "sel/S19/S19-3_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S19-4",
+  "theme": "Блузы с бантом и воротником",
+  "shop": "lr",
+  "title": "Блузка из кружева с бантами",
+  "color": "зеленый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bluzy/337081/",
+  "files": [
+   "sel/S19/S19-4_1.jpg",
+   "sel/S19/S19-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S19-5",
+  "theme": "Блузы с бантом и воротником",
+  "shop": "lr",
+  "title": "Блузка из кружева с шарфом",
+  "color": "зеленый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bluzy/337950/",
+  "files": [
+   "sel/S19/S19-5_1.jpg",
+   "sel/S19/S19-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S19-6",
+  "theme": "Блузы с бантом и воротником",
+  "shop": "lr",
+  "title": "Рубашка из модала с галстуком",
+  "color": "белый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bluzy/333236/",
+  "files": [
+   "sel/S19/S19-6_1.jpg",
+   "sel/S19/S19-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S19-7",
+  "theme": "Блузы с бантом и воротником",
+  "shop": "lime",
+  "title": "Блуза из шифона с шарфом-лавальер",
+  "color": "черный / белый",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/36547-0802_298_900_cernyi_belyi",
+  "files": [
+   "sel/S19/S19-7_1.jpg",
+   "sel/S19/S19-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S19-8",
+  "theme": "Блузы с бантом и воротником",
+  "shop": "lime",
+  "title": "Блуза из атласа и кружева",
+  "color": "белый",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/35167-0825_593_110_belyi",
+  "files": [
+   "sel/S19/S19-8_1.jpg",
+   "sel/S19/S19-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S20-1",
+  "theme": "Образ на 31 декабря: платья макси",
+  "shop": "lime",
+  "title": "Макси-платье с кроличьим пухом",
+  "color": "кремовый",
+  "price": 7999,
+  "url": "https://limestore.com/ru_ru/product/36719-1080_440_272_kremovyi",
+  "files": [
+   "sel/S20/S20-1_1.jpg",
+   "sel/S20/S20-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S20-2",
+  "theme": "Образ на 31 декабря: платья макси",
+  "shop": "lime",
+  "title": "Атласное платье с шарфом-лавальер",
+  "color": "многоцветный",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/36137-1596_691_999_mnogocvetnyi",
+  "files": [
+   "sel/S20/S20-2_1.jpg",
+   "sel/S20/S20-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S20-3",
+  "theme": "Образ на 31 декабря: платья макси",
+  "shop": "lichi",
+  "title": "Атласное платье макси с жемчужным декором на лифе",
+  "color": "черный",
+  "price": 16999,
+  "url": "https://lichi.com/ru/ru/product/48491",
+  "files": [
+   "sel/S20/S20-3_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S20-4",
+  "theme": "Образ на 31 декабря: платья макси",
+  "shop": "lichi",
+  "title": "Бархатное платье макси с длинными рукавами",
+  "color": "черный",
+  "price": 15999,
+  "url": "https://lichi.com/ru/ru/product/50797",
+  "files": [
+   "sel/S20/S20-4_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S20-5",
+  "theme": "Образ на 31 декабря: платья макси",
+  "shop": "lichi",
+  "title": "Платье макси из сатина с объемными рукавами",
+  "color": "красный",
+  "price": 11999,
+  "url": "https://lichi.com/ru/ru/product/50681",
+  "files": [
+   "sel/S20/S20-5_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S20-6",
+  "theme": "Образ на 31 декабря: платья макси",
+  "shop": "lr",
+  "title": "Платье макси с кружевом",
+  "color": "розовый",
+  "price": 9999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/332854/",
+  "files": [
+   "sel/S20/S20-6_1.jpg",
+   "sel/S20/S20-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S20-7",
+  "theme": "Образ на 31 декабря: платья макси",
+  "shop": "lr",
+  "title": "Платье макси с открытой спиной",
+  "color": "черный",
+  "price": 10999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/325164/",
+  "files": [
+   "sel/S20/S20-7_1.jpg",
+   "sel/S20/S20-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S20-8",
+  "theme": "Образ на 31 декабря: платья макси",
+  "shop": "lr",
+  "title": "Кружевное платье макси с воланами",
+  "color": "бежевый",
+  "price": 9999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/317866/",
+  "files": [
+   "sel/S20/S20-8_1.jpg",
+   "sel/S20/S20-8_2.jpg"
   ],
   "reuse_of": null
  }
