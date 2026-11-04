@@ -1108,5 +1108,553 @@
    "sel/S10/S10-8_2.jpg"
   ],
   "reuse_of": null
+ },
+ {
+  "code": "S11-1",
+  "theme": "Новый год дома: нарядные комплекты",
+  "shop": "lime",
+  "title": "Свитер-топ из пряжи с мерцанием",
+  "color": "золотой",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/39245-4662_609_710_zolotoi",
+  "files": [
+   "sel/S11/S11-1_1.jpg",
+   "sel/S11/S11-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S11-2",
+  "theme": "Новый год дома: нарядные комплекты",
+  "shop": "lime",
+  "title": "Миди-юбка из пряжи с мерцанием",
+  "color": "золотой",
+  "price": 7999,
+  "url": "https://limestore.com/ru_ru/product/39244-4542_609_710_zolotoi",
+  "files": [
+   "sel/S11/S11-2_1.jpg",
+   "sel/S11/S11-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S11-3",
+  "theme": "Новый год дома: нарядные комплекты",
+  "shop": "lime",
+  "title": "Приталенный жилет из сатина с кейпом и брошью",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/38865-0662_014_001_cernyi",
+  "files": [
+   "sel/S11/S11-3_1.jpg",
+   "sel/S11/S11-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S11-4",
+  "theme": "Новый год дома: нарядные комплекты",
+  "shop": "lr",
+  "title": "Блузка из кружева с бантами",
+  "color": "зеленый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bluzy/337081/",
+  "files": [
+   "sel/S11/S11-4_1.jpg",
+   "sel/S11/S11-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S11-5",
+  "theme": "Новый год дома: нарядные комплекты",
+  "shop": "lr",
+  "title": "Юбка мини из кружева с бантом",
+  "color": "зеленый",
+  "price": 4999,
+  "url": "https://loverepublic.ru/catalog/odezhda/yubki/336995/",
+  "files": [
+   "sel/S11/S11-5_1.jpg",
+   "sel/S11/S11-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S11-6",
+  "theme": "Новый год дома: нарядные комплекты",
+  "shop": "lichi",
+  "title": "Юбка мини из жаккарда",
+  "color": "коричневый",
+  "price": 6499,
+  "url": "https://lichi.com/ru/ru/product/53293",
+  "files": [
+   "sel/S11/S11-6_1.jpg",
+   "sel/S11/S11-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S11-7",
+  "theme": "Новый год дома: нарядные комплекты",
+  "shop": "lichi",
+  "title": "Жакет из жаккарда",
+  "color": "коричневый",
+  "price": 12999,
+  "url": "https://lichi.com/ru/ru/product/53294",
+  "files": [
+   "sel/S11/S11-7_1.jpg",
+   "sel/S11/S11-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S11-8",
+  "theme": "Новый год дома: нарядные комплекты",
+  "shop": "lichi",
+  "title": "Кружевная блуза с баской",
+  "color": "черный",
+  "price": 10999,
+  "url": "https://lichi.com/ru/ru/product/53052",
+  "files": [
+   "sel/S11/S11-8_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S12-1",
+  "theme": "Подарки до 3000 ₽",
+  "shop": "lime",
+  "title": "Перчатки из 100% шерсти",
+  "color": "коричневый",
+  "price": 2599,
+  "url": "https://limestore.com/ru_ru/product/37662-1567_229_210_koricnevyi",
+  "files": [
+   "sel/S12/S12-1_1.jpg",
+   "sel/S12/S12-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S12-2",
+  "theme": "Подарки до 3000 ₽",
+  "shop": "lime",
+  "title": "Шапка вязки букле́ из пуха альпака",
+  "color": "молочный",
+  "price": 1999,
+  "url": "https://limestore.com/ru_ru/product/38301-1608_620_120_molocnyi",
+  "files": [
+   "sel/S12/S12-2_1.jpg",
+   "sel/S12/S12-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S12-3",
+  "theme": "Подарки до 3000 ₽",
+  "shop": "lime",
+  "title": "Клетчатый шарф из смесовой шерсти",
+  "color": "красный",
+  "price": 2999,
+  "url": "https://limestore.com/ru_ru/product/38073-4369_569_610_krasnyi",
+  "files": [
+   "sel/S12/S12-3_1.jpg",
+   "sel/S12/S12-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S12-4",
+  "theme": "Подарки до 3000 ₽",
+  "shop": "lr",
+  "title": "Перчатки с ангорой и шерстью",
+  "color": "черный",
+  "price": 1999,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/perchatki/335307/",
+  "files": [
+   "sel/S12/S12-4_1.jpg",
+   "sel/S12/S12-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S12-5",
+  "theme": "Подарки до 3000 ₽",
+  "shop": "lr",
+  "title": "Вязаные варежки из ангоры",
+  "color": "серый",
+  "price": 2599,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/perchatki/336571/",
+  "files": [
+   "sel/S12/S12-5_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S12-6",
+  "theme": "Подарки до 3000 ₽",
+  "shop": "lr",
+  "title": "Серьги и кафф в наборе",
+  "color": "мультиколор",
+  "price": 2599,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/earrings/330833/",
+  "files": [
+   "sel/S12/S12-6_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S12-7",
+  "theme": "Подарки до 3000 ₽",
+  "shop": "lichi",
+  "title": "Полупрозрачные перчатки со стразовым декором",
+  "color": "белый",
+  "price": 2499,
+  "url": "https://lichi.com/ru/ru/product/49507",
+  "files": [
+   "sel/S12/S12-7_1.jpg",
+   "sel/S12/S12-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S12-8",
+  "theme": "Подарки до 3000 ₽",
+  "shop": "lichi",
+  "title": "Повязка из эко-меха",
+  "color": "черный",
+  "price": 2999,
+  "url": "https://lichi.com/ru/ru/product/52964",
+  "files": [
+   "sel/S12/S12-8_1.jpg",
+   "sel/S12/S12-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S13-1",
+  "theme": "Подарки до 7000 ₽",
+  "shop": "lime",
+  "title": "Шарф из 100% шерсти с бахромой",
+  "color": "бежевый",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/38122-4372_566_260_bezevyi",
+  "files": [
+   "sel/S13/S13-1_1.jpg",
+   "sel/S13/S13-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S13-2",
+  "theme": "Подарки до 7000 ₽",
+  "shop": "lime",
+  "title": "Перчатки из кашемира",
+  "color": "серый меланж",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/29142_1502_611-1502_611_032_seryi_melanz",
+  "files": [
+   "sel/S13/S13-2_1.jpg",
+   "sel/S13/S13-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S13-3",
+  "theme": "Подарки до 7000 ₽",
+  "shop": "lime",
+  "title": "Шапка из 100% кашемира",
+  "color": "темно-коричневый",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/29137_0423_611-0423_611_201_temno_koricnevyi",
+  "files": [
+   "sel/S13/S13-3_1.jpg",
+   "sel/S13/S13-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S13-4",
+  "theme": "Подарки до 7000 ₽",
+  "shop": "lr",
+  "title": "Шарф из шерсти с экомехом",
+  "color": "мультиколор",
+  "price": 4999,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/scarves/328435/",
+  "files": [
+   "sel/S13/S13-4_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S13-5",
+  "theme": "Подарки до 7000 ₽",
+  "shop": "lr",
+  "title": "Боди из бархата с длинными рукавами",
+  "color": "серый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/odezhda/body/331006/",
+  "files": [
+   "sel/S13/S13-5_1.jpg",
+   "sel/S13/S13-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S13-6",
+  "theme": "Подарки до 7000 ₽",
+  "shop": "lr",
+  "title": "Сумка из экозамши с фигурной ручкой",
+  "color": "мультиколор",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/sumki/330503/",
+  "files": [
+   "sel/S13/S13-6_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S13-7",
+  "theme": "Подарки до 7000 ₽",
+  "shop": "lichi",
+  "title": "Шерстяной шарф с краями в рубчик",
+  "color": "черный",
+  "price": 3999,
+  "url": "https://lichi.com/ru/ru/product/48410",
+  "files": [
+   "sel/S13/S13-7_1.jpg",
+   "sel/S13/S13-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S13-8",
+  "theme": "Подарки до 7000 ₽",
+  "shop": "lichi",
+  "title": "Короткие вязаные перчатки с жемчужным декором",
+  "color": "молочный",
+  "price": 4999,
+  "url": "https://lichi.com/ru/ru/product/52363",
+  "files": [
+   "sel/S13/S13-8_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S14-1",
+  "theme": "Маленькое чёрное платье",
+  "shop": "lime",
+  "title": "Скульптурное мини-платье из хлопка",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/33872-5669_724_001_cernyi",
+  "files": [
+   "sel/S14/S14-1_1.jpg",
+   "sel/S14/S14-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S14-2",
+  "theme": "Маленькое чёрное платье",
+  "shop": "lime",
+  "title": "Мини-платье с отделкой кружевом",
+  "color": "черный",
+  "price": 8999,
+  "url": "https://limestore.com/ru_ru/product/35889-0372_515_001_cernyi",
+  "files": [
+   "sel/S14/S14-2_1.jpg",
+   "sel/S14/S14-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S14-3",
+  "theme": "Маленькое чёрное платье",
+  "shop": "lime",
+  "title": "Мини-платье из ткани с отделкой под кожу",
+  "color": "черный",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/37634-3209_278_001_cernyi",
+  "files": [
+   "sel/S14/S14-3_1.jpg",
+   "sel/S14/S14-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S14-4",
+  "theme": "Маленькое чёрное платье",
+  "shop": "lr",
+  "title": "Платье мини из кружева",
+  "color": "черный",
+  "price": 9999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/331303/",
+  "files": [
+   "sel/S14/S14-4_1.jpg",
+   "sel/S14/S14-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S14-5",
+  "theme": "Маленькое чёрное платье",
+  "shop": "lr",
+  "title": "Платье мини с вискозой",
+  "color": "черный",
+  "price": 8999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/333751/",
+  "files": [
+   "sel/S14/S14-5_1.jpg",
+   "sel/S14/S14-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S14-6",
+  "theme": "Маленькое чёрное платье",
+  "shop": "lichi",
+  "title": "Платье мини со сборками на юбке и мелкими пуговицами в тон",
+  "color": "черный",
+  "price": 4999,
+  "url": "https://lichi.com/ru/ru/product/50402",
+  "files": [
+   "sel/S14/S14-6_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S14-7",
+  "theme": "Маленькое чёрное платье",
+  "shop": "lichi",
+  "title": "Сатиновое платье мини с чашками",
+  "color": "черный",
+  "price": 8999,
+  "url": "https://lichi.com/ru/ru/product/53109",
+  "files": [
+   "sel/S14/S14-7_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S14-8",
+  "theme": "Маленькое чёрное платье",
+  "shop": "lichi",
+  "title": "Платье мини из экокожи с короткими рукавами",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://lichi.com/ru/ru/product/49875",
+  "files": [
+   "sel/S14/S14-8_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S15-1",
+  "theme": "Молочный и белый зимой",
+  "shop": "lime",
+  "title": "Миди-юбка с ангорой и шерстью",
+  "color": "молочный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/38945-3861_465_120_molocnyi",
+  "files": [
+   "sel/S15/S15-1_1.jpg",
+   "sel/S15/S15-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S15-2",
+  "theme": "Молочный и белый зимой",
+  "shop": "lime",
+  "title": "Кардиган с кроличьим пухом",
+  "color": "кремовый",
+  "price": 7999,
+  "url": "https://limestore.com/ru_ru/product/36720-1081_440_272_kremovyi",
+  "files": [
+   "sel/S15/S15-2_1.jpg",
+   "sel/S15/S15-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S15-3",
+  "theme": "Молочный и белый зимой",
+  "shop": "lime",
+  "title": "Приталенный жилет из сатина с кейпом и брошью",
+  "color": "белый",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/38865-0662_014_110_belyi",
+  "files": [
+   "sel/S15/S15-3_1.jpg",
+   "sel/S15/S15-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S15-4",
+  "theme": "Молочный и белый зимой",
+  "shop": "lichi",
+  "title": "Платье миди из сатина с драпировкой на лифе и декором в виде цветка",
+  "color": "молочный",
+  "price": 10999,
+  "url": "https://lichi.com/ru/ru/product/52324",
+  "files": [
+   "sel/S15/S15-4_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S15-5",
+  "theme": "Молочный и белый зимой",
+  "shop": "lichi",
+  "title": "Пушистый кардиган с кружевом",
+  "color": "молочный",
+  "price": 8999,
+  "url": "https://lichi.com/ru/ru/product/52970",
+  "files": [
+   "sel/S15/S15-5_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S15-6",
+  "theme": "Молочный и белый зимой",
+  "shop": "lichi",
+  "title": "Приталенный жакет из твида с пуговицами в стразах",
+  "color": "молочный",
+  "price": 11999,
+  "url": "https://lichi.com/ru/ru/product/50264",
+  "files": [
+   "sel/S15/S15-6_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S15-7",
+  "theme": "Молочный и белый зимой",
+  "shop": "2mood",
+  "title": "Топ с кружевом",
+  "color": "молочный",
+  "price": 11980,
+  "url": "https://www.2moodstore.com/collection/katalog/top_s_kruzhevom_molochnogo_tsveta_1/",
+  "files": [
+   "sel/S15/S15-7_1.jpg",
+   "sel/S15/S15-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S15-8",
+  "theme": "Молочный и белый зимой",
+  "shop": "2mood",
+  "title": "Джемпер на молнии с шерстью",
+  "color": "молочный",
+  "price": 13980,
+  "url": "https://www.2moodstore.com/collection/katalog/dzhemper_na_molnii_s_sherstyu_molochnogo_tsveta/",
+  "files": [
+   "sel/S15/S15-8_1.jpg",
+   "sel/S15/S15-8_2.jpg"
+  ],
+  "reuse_of": null
  }
 ]
