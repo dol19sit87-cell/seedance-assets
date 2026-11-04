@@ -1,0 +1,552 @@
+[
+ {
+  "code": "S01-1",
+  "theme": "Платья на корпоратив",
+  "shop": "lime",
+  "title": "Платье-футляр с подплечниками",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/35684-0156_686_001_cernyi",
+  "files": [
+   "sel/S01/S01-1_1.jpg",
+   "sel/S01/S01-1_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S01-2",
+  "theme": "Платья на корпоратив",
+  "shop": "lime",
+  "title": "Приталенное платье миди с ремнем",
+  "color": "чернильный синий",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/35507-2240_600_412_cernilnyi_sinii",
+  "files": [
+   "sel/S01/S01-2_1.jpg",
+   "sel/S01/S01-2_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S01-3",
+  "theme": "Платья на корпоратив",
+  "shop": "lime",
+  "title": "Двубортное платье миди",
+  "color": "черный",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/36493-0367_515_001_cernyi",
+  "files": [
+   "sel/S01/S01-3_1.jpg",
+   "sel/S01/S01-3_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S01-4",
+  "theme": "Платья на корпоратив",
+  "shop": "lr",
+  "title": "Платье-футляр с V-вырезом",
+  "color": "белый",
+  "price": 9999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/333801/",
+  "files": [
+   "sel/S01/S01-4_1.jpg",
+   "sel/S01/S01-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S01-5",
+  "theme": "Платья на корпоратив",
+  "shop": "lr",
+  "title": "Платье миди А-силуэта с ремнем",
+  "color": "черный",
+  "price": 10999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/337069/",
+  "files": [
+   "sel/S01/S01-5_1.jpg",
+   "sel/S01/S01-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S01-6",
+  "theme": "Платья на корпоратив",
+  "shop": "lichi",
+  "title": "Платье-жакет мини с юбкой в складку",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://lichi.com/ru/ru/product/50123",
+  "files": [
+   "sel/S01/S01-6_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S01-7",
+  "theme": "Платья на корпоратив",
+  "shop": "2mood",
+  "title": "Платье миди с коротким рукавом",
+  "color": "чёрный",
+  "price": 21980,
+  "url": "https://www.2moodstore.com/collection/katalog/plate_midi_s_korotkim_rukavom_chernogo_tsveta/",
+  "files": [
+   "sel/S01/S01-7_1.jpg",
+   "sel/S01/S01-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S01-8",
+  "theme": "Платья на корпоратив",
+  "shop": "2mood",
+  "title": "Платье миди с кружевной отделкой",
+  "color": "тёмно-синий",
+  "price": 19980,
+  "url": "https://www.2moodstore.com/collection/katalog/plate_midi_s_otdelkoy_kruzhevom_temno_sinego_tsveta/",
+  "files": [
+   "sel/S01/S01-8_1.jpg",
+   "sel/S01/S01-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S02-1",
+  "theme": "Пайетки на каждый день",
+  "shop": "lime",
+  "title": "Мини-платье в пайетку из ткани с шерстью",
+  "color": "темно-серый меланж",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/35745-2169_810_023_temno_seryi_melanz",
+  "files": [
+   "sel/S02/S02-1_1.jpg",
+   "sel/S02/S02-1_2.jpg"
+  ],
+  "reuse_of": "D2d"
+ },
+ {
+  "code": "S02-2",
+  "theme": "Пайетки на каждый день",
+  "shop": "lime",
+  "title": "Приталенный блейзер с отделкой пайетками",
+  "color": "черный",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/35337-1013_553_001_cernyi",
+  "files": [
+   "sel/S02/S02-2_1.jpg",
+   "sel/S02/S02-2_2.jpg"
+  ],
+  "reuse_of": "D2a"
+ },
+ {
+  "code": "S02-3",
+  "theme": "Пайетки на каждый день",
+  "shop": "lichi",
+  "title": "Платье миди с принтом и пайетками",
+  "color": "серый",
+  "price": 9999,
+  "url": "https://lichi.com/ru/ru/product/53068",
+  "files": [
+   "sel/S02/S02-3_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S02-4",
+  "theme": "Пайетки на каждый день",
+  "shop": "lichi",
+  "title": "Топ в пайетках на тонких бретелях",
+  "color": "бежевый",
+  "price": 7499,
+  "url": "https://lichi.com/ru/ru/product/52342",
+  "files": [
+   "sel/S02/S02-4_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S02-5",
+  "theme": "Пайетки на каждый день",
+  "shop": "lichi",
+  "title": "Юбка в пайетках длины до колена",
+  "color": "голубой",
+  "price": 7499,
+  "url": "https://lichi.com/ru/ru/product/52298",
+  "files": [
+   "sel/S02/S02-5_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S02-6",
+  "theme": "Пайетки на каждый день",
+  "shop": "lr",
+  "title": "Юбка-баллон с вышивкой бисером",
+  "color": "розовый",
+  "price": 13999,
+  "url": "https://loverepublic.ru/catalog/odezhda/yubki/322770/",
+  "files": [
+   "sel/S02/S02-6_1.jpg",
+   "sel/S02/S02-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S02-7",
+  "theme": "Пайетки на каждый день",
+  "shop": "lr",
+  "title": "Джинсовый корсет с вышивкой бисером и пайетками",
+  "color": "синий",
+  "price": 7999,
+  "url": "https://loverepublic.ru/catalog/odezhda/topy/317416/",
+  "files": [
+   "sel/S02/S02-7_1.jpg",
+   "sel/S02/S02-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S02-8",
+  "theme": "Пайетки на каждый день",
+  "shop": "lr",
+  "title": "Бра с вышивкой бисером и пайетками",
+  "color": "коричневый",
+  "price": 3999,
+  "url": "https://loverepublic.ru/catalog/odezhda/belye/321504/",
+  "files": [
+   "sel/S02/S02-8_1.jpg",
+   "sel/S02/S02-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S03-1",
+  "theme": "Бархат: платья, жакеты, брюки",
+  "shop": "lr",
+  "title": "Бархатное платье миди с драпировками",
+  "color": "бежевый",
+  "price": 9999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/333765/",
+  "files": [
+   "sel/S03/S03-1_1.jpg",
+   "sel/S03/S03-1_2.jpg"
+  ],
+  "reuse_of": "D1b"
+ },
+ {
+  "code": "S03-2",
+  "theme": "Бархат: платья, жакеты, брюки",
+  "shop": "lr",
+  "title": "Брюки-клеш из бархата",
+  "color": "коричневый",
+  "price": 7999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/337743/",
+  "files": [
+   "sel/S03/S03-2_1.jpg",
+   "sel/S03/S03-2_2.jpg"
+  ],
+  "reuse_of": "D1d"
+ },
+ {
+  "code": "S03-3",
+  "theme": "Бархат: платья, жакеты, брюки",
+  "shop": "lichi",
+  "title": "Бархатное платье миди с асимметричной застежкой",
+  "color": "черный",
+  "price": 12999,
+  "url": "https://lichi.com/ru/ru/product/50826",
+  "files": [
+   "sel/S03/S03-3_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S03-4",
+  "theme": "Бархат: платья, жакеты, брюки",
+  "shop": "lichi",
+  "title": "Брюки-баллоны из бархата",
+  "color": "черный",
+  "price": 7999,
+  "url": "https://lichi.com/ru/ru/product/53007",
+  "files": [
+   "sel/S03/S03-4_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S03-5",
+  "theme": "Бархат: платья, жакеты, брюки",
+  "shop": "lime",
+  "title": "Бархатный блейзер с жаккардовой вышивкой",
+  "color": "цвет оливкового масла",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/38752-5095_950_725_cvet_olivkovogo_masla",
+  "files": [
+   "sel/S03/S03-5_1.jpg",
+   "sel/S03/S03-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S03-6",
+  "theme": "Бархат: платья, жакеты, брюки",
+  "shop": "lime",
+  "title": "Бархатный блейзер с кружевом",
+  "color": "коричневый",
+  "price": 9999,
+  "url": "https://limestore.com/ru_ru/product/38384-3660_723_210_koricnevyi",
+  "files": [
+   "sel/S03/S03-6_1.jpg",
+   "sel/S03/S03-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S03-7",
+  "theme": "Бархат: платья, жакеты, брюки",
+  "shop": "lr",
+  "title": "Бархатный комбинезон",
+  "color": "черный",
+  "price": 12999,
+  "url": "https://loverepublic.ru/catalog/odezhda/kombinezony/332005/",
+  "files": [
+   "sel/S03/S03-7_1.jpg",
+   "sel/S03/S03-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S03-8",
+  "theme": "Бархат: платья, жакеты, брюки",
+  "shop": "lime",
+  "title": "Бархатный блейзер с застежкой-аламар",
+  "color": "темно-красный",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/38758-4343_723_601_temno_krasnyi",
+  "files": [
+   "sel/S03/S03-8_1.jpg",
+   "sel/S03/S03-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S04-1",
+  "theme": "Красный к праздникам",
+  "shop": "lr",
+  "title": "Платье мини с объемными рукавами",
+  "color": "красный",
+  "price": 8999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/333719/",
+  "files": [
+   "sel/S04/S04-1_1.jpg",
+   "sel/S04/S04-1_2.jpg"
+  ],
+  "reuse_of": "D5a"
+ },
+ {
+  "code": "S04-2",
+  "theme": "Красный к праздникам",
+  "shop": "lr",
+  "title": "Платье-бандо со шлейфом",
+  "color": "красный",
+  "price": 9999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/337532/",
+  "files": [
+   "sel/S04/S04-2_1.jpg",
+   "sel/S04/S04-2_2.jpg"
+  ],
+  "reuse_of": "D5d"
+ },
+ {
+  "code": "S04-3",
+  "theme": "Красный к праздникам",
+  "shop": "lichi",
+  "title": "Платье-сетка макси с перьями на рукавах",
+  "color": "красный",
+  "price": 10999,
+  "url": "https://lichi.com/ru/ru/product/48075",
+  "files": [
+   "sel/S04/S04-3_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S04-4",
+  "theme": "Красный к праздникам",
+  "shop": "lichi",
+  "title": "Однобортный жакет с каплевидным вырезом и укороченными рукавами",
+  "color": "красный",
+  "price": 8999,
+  "url": "https://lichi.com/ru/ru/product/52387",
+  "files": [
+   "sel/S04/S04-4_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S04-5",
+  "theme": "Красный к праздникам",
+  "shop": "lime",
+  "title": "Корсетное мини-платье из жаккарда",
+  "color": "темно-красный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/38160-4093_691_601_temno_krasnyi",
+  "files": [
+   "sel/S04/S04-5_1.jpg",
+   "sel/S04/S04-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S04-6",
+  "theme": "Красный к праздникам",
+  "shop": "lime",
+  "title": "Твидовый блейзер с отделкой тесьмой",
+  "color": "красный",
+  "price": 9999,
+  "url": "https://limestore.com/ru_ru/product/35455-1255_925_610_krasnyi",
+  "files": [
+   "sel/S04/S04-6_1.jpg",
+   "sel/S04/S04-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S04-7",
+  "theme": "Красный к праздникам",
+  "shop": "lime",
+  "title": "Брюки клеш со стрелками",
+  "color": "темно-красный",
+  "price": 5599,
+  "url": "https://limestore.com/ru_ru/product/36853-1253_325_601_temno_krasnyi",
+  "files": [
+   "sel/S04/S04-7_1.jpg",
+   "sel/S04/S04-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S04-8",
+  "theme": "Красный к праздникам",
+  "shop": "2mood",
+  "title": "Брюки из велюра",
+  "color": "красный",
+  "price": 12980,
+  "url": "https://www.2moodstore.com/collection/katalog/bryuki_iz_velveta_krasnogo_tsveta/",
+  "files": [
+   "sel/S04/S04-8_1.jpg",
+   "sel/S04/S04-8_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S05-1",
+  "theme": "Атласная юбка",
+  "shop": "lichi",
+  "title": "Расклешенная юбка макси из атласа",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://lichi.com/ru/ru/product/48175",
+  "files": [
+   "sel/S05/S05-1_1.jpg",
+   "sel/S05/S05-1_2.jpg"
+  ],
+  "reuse_of": "E11"
+ },
+ {
+  "code": "S05-2",
+  "theme": "Атласная юбка",
+  "shop": "lichi",
+  "title": "Расклешенная юбка макси из сатина",
+  "color": "черный",
+  "price": 9999,
+  "url": "https://lichi.com/ru/ru/product/50799",
+  "files": [
+   "sel/S05/S05-2_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S05-3",
+  "theme": "Атласная юбка",
+  "shop": "lichi",
+  "title": "Юбка макси из сатина со складками на талии",
+  "color": "белый",
+  "price": 8999,
+  "url": "https://lichi.com/ru/ru/product/49388",
+  "files": [
+   "sel/S05/S05-3_1.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S05-4",
+  "theme": "Атласная юбка",
+  "shop": "lime",
+  "title": "Асимметричная юбка с драпировкой",
+  "color": "молочный",
+  "price": 9999,
+  "url": "https://limestore.com/ru_ru/product/38866-4557_793_120_molocnyi",
+  "files": [
+   "sel/S05/S05-4_1.jpg",
+   "sel/S05/S05-4_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S05-5",
+  "theme": "Атласная юбка",
+  "shop": "lr",
+  "title": "Юбка с баской и воланами",
+  "color": "черный",
+  "price": 9999,
+  "url": "https://loverepublic.ru/catalog/odezhda/yubki/309404/",
+  "files": [
+   "sel/S05/S05-5_1.jpg",
+   "sel/S05/S05-5_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S05-6",
+  "theme": "Атласная юбка",
+  "shop": "lime",
+  "title": "Миди-юбка из ткани с мерцанием",
+  "color": "золотой",
+  "price": 7999,
+  "url": "https://limestore.com/ru_ru/product/38395-4741_727_710_zolotoi",
+  "files": [
+   "sel/S05/S05-6_1.jpg",
+   "sel/S05/S05-6_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S05-7",
+  "theme": "Атласная юбка",
+  "shop": "lr",
+  "title": "Юбка миди в складку с ремнем",
+  "color": "серый",
+  "price": 7599,
+  "url": "https://loverepublic.ru/catalog/odezhda/yubki/331464/",
+  "files": [
+   "sel/S05/S05-7_1.jpg",
+   "sel/S05/S05-7_2.jpg"
+  ],
+  "reuse_of": null
+ },
+ {
+  "code": "S05-8",
+  "theme": "Атласная юбка",
+  "shop": "lr",
+  "title": "Юбка-шорты со шлейфом",
+  "color": "синий",
+  "price": 10999,
+  "url": "https://loverepublic.ru/catalog/odezhda/yubki/321322/",
+  "files": [
+   "sel/S05/S05-8_1.jpg",
+   "sel/S05/S05-8_2.jpg"
+  ],
+  "reuse_of": null
+ }
+]
