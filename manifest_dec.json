@@ -746,5 +746,382 @@
   ],
   "packshot_file": "products/D9d_1.jpg",
   "note": "sizes listed: 35, 36, 37, 38, 39, 40, 41"
+ },
+ {
+  "code": "E01",
+  "shop": "lime",
+  "title": "Шуба на кулиске из меха под норку",
+  "color": "кремовый",
+  "price": 13999,
+  "url": "https://limestore.com/ru_ru/product/28931_7583_852-7583_852_272_kremovyi",
+  "files": [
+   "capsule/site/E01_1.jpg",
+   "capsule/site/E01_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E01_1.jpg",
+  "note": "sizes in stock: XS/S, M/L"
+ },
+ {
+  "code": "E02",
+  "shop": "lime",
+  "title": "Двубортное пальто из 100% шерсти",
+  "color": "черный",
+  "price": 25999,
+  "url": "https://limestore.com/ru_ru/product/36029-7726_482_001_cernyi",
+  "files": [
+   "capsule/site/E02_1.jpg",
+   "capsule/site/E02_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E02_1.jpg",
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "E03",
+  "shop": "lime",
+  "title": "Приталенный блейзер из атласа",
+  "color": "черный",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/35350-2838_501_001_cernyi",
+  "files": [
+   "capsule/site/E03_1.jpg",
+   "capsule/site/E03_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E03_1.jpg",
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "E04",
+  "shop": "lichi",
+  "title": "Топ в пайетках на тонких бретелях",
+  "color": "молочный",
+  "price": 7499,
+  "url": "https://lichi.com/ru/ru/product/52328",
+  "files": [
+   "capsule/site/E04_1.jpg",
+   "capsule/site/E04_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E04_1.jpg",
+  "note": "sizes in stock: XS, S, M; Lichi has no plain-background packshots, _1 is the cleanest shot"
+ },
+ {
+  "code": "E05",
+  "shop": "lime",
+  "title": "Атласная блуза с подплечниками",
+  "color": "пудрово-бежевый",
+  "price": 5599,
+  "url": "https://limestore.com/ru_ru/product/37820-2976_019_280_pudrovo_bezevyi",
+  "files": [
+   "capsule/site/E05_1.jpg",
+   "capsule/site/E05_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E05_1.jpg",
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "E06",
+  "shop": "lime",
+  "title": "Свитер из 100% кашемира",
+  "color": "темно-коричневый",
+  "price": 19999,
+  "url": "https://limestore.com/ru_ru/product/35623-9566_611_201_temno_koricnevyi",
+  "files": [
+   "capsule/site/E06_1.jpg",
+   "capsule/site/E06_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E06_1.jpg",
+  "note": "sizes in stock: S, M, L, XL"
+ },
+ {
+  "code": "E07",
+  "shop": "lime",
+  "title": "Приталенная блуза из кружева",
+  "color": "черный",
+  "price": 8999,
+  "url": "https://limestore.com/ru_ru/product/39283-4572_083_001_cernyi",
+  "files": [
+   "capsule/site/E07_1.jpg"
+  ],
+  "packshot_file": "capsule/site/E07_1.jpg",
+  "note": "sizes in stock: XS, S, M, L, XL; no model shot on the site"
+ },
+ {
+  "code": "E08",
+  "shop": "lr",
+  "title": "Бархатное платье мини с драпировкой",
+  "color": "черный",
+  "price": 8999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/333795/",
+  "files": [
+   "capsule/site/E08_1.jpg",
+   "capsule/site/E08_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E08_1.jpg",
+  "note": "sizes in stock: 48, 46, 44, 42, 40"
+ },
+ {
+  "code": "E09",
+  "shop": "lichi",
+  "title": "Платье-комбинация с корсетной вставкой и кружевом",
+  "color": "черный",
+  "price": 14999,
+  "url": "https://lichi.com/ru/ru/product/53094",
+  "files": [
+   "capsule/site/E09_1.jpg",
+   "capsule/site/E09_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E09_1.jpg",
+  "note": "sizes in stock: XS, S, M; Lichi has no plain-background packshots, _1 is the cleanest shot"
+ },
+ {
+  "code": "E10",
+  "shop": "lichi",
+  "title": "Трикотажное платье миди со стразами ",
+  "color": "черный",
+  "price": 8999,
+  "url": "https://lichi.com/ru/ru/product/53019",
+  "files": [
+   "capsule/site/E10_1.jpg",
+   "capsule/site/E10_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E10_1.jpg",
+  "note": "sizes in stock: XS, S, M, L; Lichi has no plain-background packshots, _1 is the cleanest shot"
+ },
+ {
+  "code": "E11",
+  "shop": "lichi",
+  "title": "Расклешенная юбка макси из атласа",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://lichi.com/ru/ru/product/48175",
+  "files": [
+   "capsule/site/E11_1.jpg",
+   "capsule/site/E11_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E11_1.jpg",
+  "note": "sizes in stock: S, M, L; Lichi has no plain-background packshots, _1 is the cleanest shot"
+ },
+ {
+  "code": "E12",
+  "shop": "lime",
+  "title": "Миди-юбка из пряжи с мерцанием",
+  "color": "золотой",
+  "price": 7999,
+  "url": "https://limestore.com/ru_ru/product/39244-4542_609_710_zolotoi",
+  "files": [
+   "capsule/site/E12_1.jpg",
+   "capsule/site/E12_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E12_1.jpg",
+  "note": "sizes in stock: S, M, L"
+ },
+ {
+  "code": "E13",
+  "shop": "lime",
+  "title": "Объемные брюки из атласного жаккарда",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/38218-9367_773_001_cernyi",
+  "files": [
+   "capsule/site/E13_1.jpg",
+   "capsule/site/E13_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E13_1.jpg",
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "E14",
+  "shop": "lime",
+  "title": "Прямые брюки со стрелками",
+  "color": "черный",
+  "price": 3999,
+  "url": "https://limestore.com/ru_ru/product/28182_6332_166-6332_166_001_cernyi",
+  "files": [
+   "capsule/site/E14_1.jpg",
+   "capsule/site/E14_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E14_1.jpg",
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "E15",
+  "shop": "lime",
+  "title": "Атласные босоножки с подвеской",
+  "color": "телесно-розовый",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/34438-7219_386_676_telesno_rozovyi",
+  "files": [
+   "capsule/site/E15_1.jpg",
+   "capsule/site/E15_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E15_1.jpg",
+  "note": "sizes in stock: 37, 38, 39, 40, 41"
+ },
+ {
+  "code": "E16",
+  "shop": "lime",
+  "title": "Ботильоны из овечьей кожи",
+  "color": "черный",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/35788-0277_884_001_cernyi",
+  "files": [
+   "capsule/site/E16_1.jpg",
+   "capsule/site/E16_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E16_1.jpg",
+  "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
+ },
+ {
+  "code": "E17",
+  "shop": "lime",
+  "title": "Высокие сапоги на каблуке из овечьей кожи",
+  "color": "коричневый",
+  "price": 23999,
+  "url": "https://limestore.com/ru_ru/product/38661-3818_884_210_koricnevyi",
+  "files": [
+   "capsule/site/E17_1.jpg",
+   "capsule/site/E17_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E17_1.jpg",
+  "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
+ },
+ {
+  "code": "E18",
+  "shop": "lichi",
+  "title": "Клатч с золотистым декором",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://lichi.com/ru/ru/product/52644",
+  "files": [
+   "capsule/site/E18_1.jpg",
+   "capsule/site/E18_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E18_1.jpg",
+  "note": "sizes in stock: One Size; Lichi has no plain-background packshots, _1 is the cleanest shot"
+ },
+ {
+  "code": "E19",
+  "shop": "lime",
+  "title": "Металлическая сумка",
+  "color": "золотой",
+  "price": 7999,
+  "url": "https://limestore.com/ru_ru/product/39534-5159_992_710_zolotoi",
+  "files": [
+   "capsule/site/E19_1.jpg",
+   "capsule/site/E19_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E19_1.jpg",
+  "note": "sizes in stock: ЕДИНЫЙ РАЗМЕР"
+ },
+ {
+  "code": "E20",
+  "shop": "lichi",
+  "title": "Длинные перчатки из натуральной кожи",
+  "color": "кофе",
+  "price": 6999,
+  "url": "https://lichi.com/ru/ru/product/48818",
+  "files": [
+   "capsule/site/E20_1.jpg",
+   "capsule/site/E20_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E20_1.jpg",
+  "note": "sizes in stock: One Size; Lichi has no plain-background packshots, _1 is the cleanest shot"
+ },
+ {
+  "code": "E21",
+  "shop": "lime",
+  "title": "Сетчатые чулки с вышивкой",
+  "color": "черный",
+  "price": 1599,
+  "url": "https://limestore.com/ru_ru/product/36836-1023_841_001_cernyi",
+  "files": [
+   "capsule/site/E21_1.jpg",
+   "capsule/site/E21_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E21_1.jpg",
+  "note": "sizes in stock: ЕДИНЫЙ РАЗМЕР; sheer tights not found in allowed shops, mesh stockings instead"
+ },
+ {
+  "code": "E22",
+  "shop": "lime",
+  "title": "Длинные серьги с кристаллами",
+  "color": "серебряный",
+  "price": 2599,
+  "url": "https://limestore.com/ru_ru/product/39323-4679_952_040_serebrianyi",
+  "files": [
+   "capsule/site/E22_1.jpg",
+   "capsule/site/E22_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E22_1.jpg",
+  "note": "sizes in stock: ЕДИНЫЙ РАЗМЕР"
+ },
+ {
+  "code": "E23",
+  "shop": "lime",
+  "title": "Абстрактные серьги с кристаллами",
+  "color": "золотой",
+  "price": 1999,
+  "url": "https://limestore.com/ru_ru/product/38787-4710_670_710_zolotoi",
+  "files": [
+   "capsule/site/E23_1.jpg",
+   "capsule/site/E23_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E23_1.jpg",
+  "note": "sizes in stock: ЕДИНЫЙ РАЗМЕР"
+ },
+ {
+  "code": "E24",
+  "shop": "lichi",
+  "title": "Бархатный бант для волос",
+  "color": "черный",
+  "price": 799,
+  "url": "https://lichi.com/ru/ru/product/50637",
+  "files": [
+   "capsule/site/E24_1.jpg",
+   "capsule/site/E24_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E24_1.jpg",
+  "note": "sizes in stock: One Size; Lichi has no plain-background packshots, _1 is the cleanest shot"
+ },
+ {
+  "code": "E25",
+  "shop": "2mood",
+  "title": "Шарф из искусственного меха",
+  "color": "бежевый",
+  "price": 6980,
+  "url": "https://www.2moodstore.com/collection/katalog/sharf_iz_iskusstvennogo_mekha_bezhevogo_tsveta/",
+  "files": [
+   "capsule/site/E25_1.jpg",
+   "capsule/site/E25_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E25_1.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "E26",
+  "shop": "lichi",
+  "title": "Приталенный жакет из бархата",
+  "color": "черный",
+  "price": 14999,
+  "url": "https://lichi.com/ru/ru/product/52956",
+  "files": [
+   "capsule/site/E26_1.jpg",
+   "capsule/site/E26_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E26_1.jpg",
+  "note": "sizes in stock: XS, S, M, L; Lichi has no plain-background packshots, _1 is the cleanest shot"
+ },
+ {
+  "code": "E27",
+  "shop": "lime",
+  "title": "Топ из атласного жаккарда со шнуровкой",
+  "color": "золотой",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/38225-8357_773_710_zolotoi",
+  "files": [
+   "capsule/site/E27_1.jpg",
+   "capsule/site/E27_2.jpg"
+  ],
+  "packshot_file": "capsule/site/E27_1.jpg",
+  "note": "sizes in stock: XS, S, M, L, XL"
  }
 ]
