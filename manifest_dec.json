@@ -206,5 +206,545 @@
   "packshot_file": null,
   "note": "black mini dress, black boots with gold jewel embellishment (party shoes: trend 9); assets.vogue.com master original",
   "photo_url": "https://assets.vogue.com/photos/69a1a4d5993f4fc38046ce57/master/pass/00031-blumarine-fall-2026-ready-to-wear-credit-gorunway.jpg"
+ },
+ {
+  "code": "D1a",
+  "shop": "lichi",
+  "title": "Платье мини из бархата",
+  "color": "черный",
+  "price": 11999,
+  "url": "https://lichi.com/ru/ru/product/53005",
+  "files": [
+   "products/D1a_1.jpg",
+   "products/D1a_2.jpg",
+   "products/D1a_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "D1b",
+  "shop": "lr",
+  "title": "Бархатное платье миди с драпировками",
+  "color": "бежевый",
+  "price": 9999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/333765/",
+  "files": [
+   "products/D1b_1.jpg",
+   "products/D1b_2.jpg",
+   "products/D1b_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 48, 46, 44, 42, 40"
+ },
+ {
+  "code": "D1c",
+  "shop": "lime",
+  "title": "Бархатный блейзер с кружевом",
+  "color": "черный",
+  "price": 9999,
+  "url": "https://limestore.com/ru_ru/product/38384-3660_723_001_cernyi",
+  "files": [
+   "products/D1c_1.jpg",
+   "products/D1c_2.jpg",
+   "products/D1c_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "D1d",
+  "shop": "lr",
+  "title": "Брюки-клеш из бархата",
+  "color": "коричневый",
+  "price": 7999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/337743/",
+  "files": [
+   "products/D1d_1.jpg",
+   "products/D1d_2.jpg",
+   "products/D1d_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 46, 44, 42, 40"
+ },
+ {
+  "code": "D2a",
+  "shop": "lime",
+  "title": "Приталенный блейзер с отделкой пайетками",
+  "color": "черный",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/35337-1013_553_001_cernyi",
+  "files": [
+   "products/D2a_1.jpg",
+   "products/D2a_2.jpg",
+   "products/D2a_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "D2b",
+  "shop": "lichi",
+  "title": "Юбка в пайетках длины до колена",
+  "color": "молочный",
+  "price": 7499,
+  "url": "https://lichi.com/ru/ru/product/52296",
+  "files": [
+   "products/D2b_1.jpg",
+   "products/D2b_2.jpg",
+   "products/D2b_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "D2c",
+  "shop": "lichi",
+  "title": "Платье макси из сияющей ткани с драпировкой на спинке",
+  "color": "черный",
+  "price": 13999,
+  "url": "https://lichi.com/ru/ru/product/50808",
+  "files": [
+   "products/D2c_1.jpg",
+   "products/D2c_2.jpg",
+   "products/D2c_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "D2d",
+  "shop": "lime",
+  "title": "Мини-платье в пайетку из ткани с шерстью",
+  "color": "темно-серый меланж",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/35745-2169_810_023_temno_seryi_melanz",
+  "files": [
+   "products/D2d_1.jpg",
+   "products/D2d_2.jpg",
+   "products/D2d_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, M, L, XL"
+ },
+ {
+  "code": "D3a",
+  "shop": "lichi",
+  "title": "Кружевная блуза с баской",
+  "color": "черный",
+  "price": 10999,
+  "url": "https://lichi.com/ru/ru/product/53052",
+  "files": [
+   "products/D3a_1.jpg",
+   "products/D3a_2.jpg",
+   "products/D3a_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "D3b",
+  "shop": "lr",
+  "title": "Кружевное платье миди",
+  "color": "черный",
+  "price": 10999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/336061/",
+  "files": [
+   "products/D3b_1.jpg",
+   "products/D3b_2.jpg",
+   "products/D3b_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 46, 44, 42, 40"
+ },
+ {
+  "code": "D3c",
+  "shop": "lime",
+  "title": "Миди-платье из атласа с кружевом",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/36655-1500_593_001_cernyi",
+  "files": [
+   "products/D3c_1.jpg",
+   "products/D3c_2.jpg",
+   "products/D3c_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "D3d",
+  "shop": "lichi",
+  "title": "Кружевная юбка макси",
+  "color": "черный",
+  "price": 9999,
+  "url": "https://lichi.com/ru/ru/product/53053",
+  "files": [
+   "products/D3d_1.jpg",
+   "products/D3d_2.jpg",
+   "products/D3d_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M"
+ },
+ {
+  "code": "D4a",
+  "shop": "lichi",
+  "title": "Платье миди из сетки со шлейфом",
+  "color": "черный",
+  "price": 9999,
+  "url": "https://lichi.com/ru/ru/product/50754",
+  "files": [
+   "products/D4a_1.jpg",
+   "products/D4a_2.jpg",
+   "products/D4a_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M"
+ },
+ {
+  "code": "D4b",
+  "shop": "lr",
+  "title": "Платье миди из шифона с воланами",
+  "color": "серый",
+  "price": 9999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/333701/",
+  "files": [
+   "products/D4b_1.jpg",
+   "products/D4b_2.jpg",
+   "products/D4b_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 46, 44, 42, 40"
+ },
+ {
+  "code": "D4c",
+  "shop": "lime",
+  "title": "Полупрозрачная блуза из лиоцелла",
+  "color": "пудрово-бежевый",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/38591-4567_788_280_pudrovo_bezevyi",
+  "files": [
+   "products/D4c_1.jpg",
+   "products/D4c_2.jpg",
+   "products/D4c_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "D4d",
+  "shop": "lr",
+  "title": "Платье мини с отделкой из органзы",
+  "color": "белый",
+  "price": 15999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/329302/",
+  "files": [
+   "products/D4d_1.jpg",
+   "products/D4d_2.jpg",
+   "products/D4d_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 48, 46, 44, 42, 40"
+ },
+ {
+  "code": "D5a",
+  "shop": "lr",
+  "title": "Платье мини с объемными рукавами",
+  "color": "красный",
+  "price": 8999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/333719/",
+  "files": [
+   "products/D5a_1.jpg",
+   "products/D5a_2.jpg",
+   "products/D5a_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 48, 46, 44, 42, 40"
+ },
+ {
+  "code": "D5b",
+  "shop": "lime",
+  "title": "Блейзер приталенного силуэта с вырезом",
+  "color": "красный",
+  "price": 9999,
+  "url": "https://limestore.com/ru_ru/product/39276-5447_849_610_krasnyi",
+  "files": [
+   "products/D5b_1.jpg",
+   "products/D5b_2.jpg",
+   "products/D5b_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "D5c",
+  "shop": "lime",
+  "title": "Мини-платье из вискозного джерси",
+  "color": "красный",
+  "price": 5599,
+  "url": "https://limestore.com/ru_ru/product/37989-3325_282_610_krasnyi",
+  "files": [
+   "products/D5c_1.jpg",
+   "products/D5c_2.jpg",
+   "products/D5c_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "D5d",
+  "shop": "lr",
+  "title": "Платье-бандо со шлейфом",
+  "color": "красный",
+  "price": 9999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/337532/",
+  "files": [
+   "products/D5d_1.jpg",
+   "products/D5d_2.jpg",
+   "products/D5d_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 46, 44, 42, 40"
+ },
+ {
+  "code": "D6a",
+  "shop": "2mood",
+  "title": "Шарф из искусственного меха длинный",
+  "color": "янтарный",
+  "price": 7980,
+  "url": "https://www.2moodstore.com/collection/katalog/sharf_iz_iskusstvennogo_mekha_dlinnyy_yantarnogo_tsveta/",
+  "files": [
+   "products/D6a_1.jpg",
+   "products/D6a_2.jpg",
+   "products/D6a_3.jpg"
+  ],
+  "packshot_file": "products/D6a_3.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "D6b",
+  "shop": "lr",
+  "title": "Шарф из искусственного меха",
+  "color": "коричневый",
+  "price": 6599,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/scarves/337294/",
+  "files": [
+   "products/D6b_1.jpg",
+   "products/D6b_2.jpg",
+   "products/D6b_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 160*36 см"
+ },
+ {
+  "code": "D6c",
+  "shop": "lime",
+  "title": "Укороченная шуба под мех норки",
+  "color": "коричневый",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/37102-8125_117_210_koricnevyi",
+  "files": [
+   "products/D6c_1.jpg",
+   "products/D6c_2.jpg",
+   "products/D6c_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "D6d",
+  "shop": "lichi",
+  "title": "Укороченная шуба из эко-меха",
+  "color": "серый",
+  "price": 15999,
+  "url": "https://lichi.com/ru/ru/product/52942",
+  "files": [
+   "products/D6d_1.jpg",
+   "products/D6d_2.jpg",
+   "products/D6d_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L"
+ },
+ {
+  "code": "D7a",
+  "shop": "lichi",
+  "title": "Платье макси с юбкой из атласа и разрезом сбоку",
+  "color": "черный",
+  "price": 12999,
+  "url": "https://lichi.com/ru/ru/product/50731",
+  "files": [
+   "products/D7a_1.jpg",
+   "products/D7a_2.jpg",
+   "products/D7a_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M"
+ },
+ {
+  "code": "D7b",
+  "shop": "lime",
+  "title": "Атласное платье с отделкой фактурными строчками",
+  "color": "черный",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/38049-3895_501_001_cernyi",
+  "files": [
+   "products/D7b_1.jpg",
+   "products/D7b_2.jpg",
+   "products/D7b_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "D7c",
+  "shop": "lime",
+  "title": "Широкие брюки из сатина",
+  "color": "золотой",
+  "price": 7999,
+  "url": "https://limestore.com/ru_ru/product/38550-4616_482_710_zolotoi",
+  "files": [
+   "products/D7c_1.jpg",
+   "products/D7c_2.jpg",
+   "products/D7c_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: XS, S, M, L, XL"
+ },
+ {
+  "code": "D7d",
+  "shop": "lr",
+  "title": "Платье мини из жатого сатина",
+  "color": "розовый",
+  "price": 11999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/320649/",
+  "files": [
+   "products/D7d_1.jpg",
+   "products/D7d_2.jpg",
+   "products/D7d_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 48, 46, 44, 42, 40"
+ },
+ {
+  "code": "D8a",
+  "shop": "lichi",
+  "title": "Длинные перчатки из натуральной кожи",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://lichi.com/ru/ru/product/48817",
+  "files": [
+   "products/D8a_1.jpg",
+   "products/D8a_2.jpg",
+   "products/D8a_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: One Size"
+ },
+ {
+  "code": "D8b",
+  "shop": "lime",
+  "title": "Длинные перчатки из овечьей кожи",
+  "color": "черный",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/38880-3276_962_001_cernyi",
+  "files": [
+   "products/D8b_1.jpg",
+   "products/D8b_2.jpg",
+   "products/D8b_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: S, M"
+ },
+ {
+  "code": "D8c",
+  "shop": "lr",
+  "title": "Длинные перчатки из натуральной замши",
+  "color": "коричневый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/perchatki/337287/",
+  "files": [
+   "products/D8c_1.jpg",
+   "products/D8c_2.jpg",
+   "products/D8c_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 20"
+ },
+ {
+  "code": "D8d",
+  "shop": "2mood",
+  "title": "Длинные кожаные перчатки",
+  "color": "черный",
+  "price": 13980,
+  "url": "https://www.2moodstore.com/collection/katalog/dlinnye_kozhanye_perchatki_chernogo_tsveta/",
+  "files": [
+   "products/D8d_1.jpg",
+   "products/D8d_2.jpg",
+   "products/D8d_3.jpg"
+  ],
+  "packshot_file": "products/D8d_3.jpg",
+  "note": "product JSON-LD InStock; sizes not individually confirmed"
+ },
+ {
+  "code": "D9a",
+  "shop": "lime",
+  "title": "Виниловые босоножки с кристальными камнями",
+  "color": "Голубой",
+  "price": 13999,
+  "url": "https://limestore.com/ru_ru/product/35460-8185_160_450_goluboi",
+  "files": [
+   "products/D9a_1.jpg",
+   "products/D9a_2.jpg",
+   "products/D9a_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 36, 37, 38, 39, 40, 41"
+ },
+ {
+  "code": "D9b",
+  "shop": "lime",
+  "title": "Атласные туфли с розой",
+  "color": "пудровый",
+  "price": 13999,
+  "url": "https://limestore.com/ru_ru/product/36410-0542_386_682_pudrovyi",
+  "files": [
+   "products/D9b_1.jpg",
+   "products/D9b_2.jpg",
+   "products/D9b_3.jpg"
+  ],
+  "packshot_file": null,
+  "note": "sizes in stock: 37, 38, 39, 40"
+ },
+ {
+  "code": "D9c",
+  "shop": "rv",
+  "title": "Мюли из натуральной замши на каблуке",
+  "color": "серебряный",
+  "price": 13290,
+  "url": "https://www.rendez-vous.ru/catalog/female/myuli/tendance_rl662_11_serebryanyy-4344009/",
+  "files": [
+   "products/D9c_1.jpg",
+   "products/D9c_2.jpg",
+   "products/D9c_3.jpg"
+  ],
+  "packshot_file": "products/D9c_1.jpg",
+  "note": "sizes listed: 35, 36, 37, 38, 39, 40, 41"
+ },
+ {
+  "code": "D9d",
+  "shop": "rv",
+  "title": "Мюли из сатина с бантом на каблуке",
+  "color": "бордовый",
+  "price": 10190,
+  "url": "https://www.rendez-vous.ru/catalog/female/myuli/tendance_clf1297_01_bordovyy-5161760/",
+  "files": [
+   "products/D9d_1.jpg",
+   "products/D9d_2.jpg",
+   "products/D9d_3.jpg"
+  ],
+  "packshot_file": "products/D9d_1.jpg",
+  "note": "sizes listed: 35, 36, 37, 38, 39, 40, 41"
  }
 ]
