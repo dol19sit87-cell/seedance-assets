@@ -1,0 +1,231 @@
+[
+ {
+  "code": "C01",
+  "shop": "lime",
+  "title": "Двубортное пальто из полушерсти",
+  "color": "серо-бежевый",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/35324-7157_478_262_sero_bezevyi",
+  "sizes_in_stock": [
+   "S",
+   "M",
+   "L"
+  ],
+  "files": [
+   "capsule-free/C01_1.jpg",
+   "capsule-free/C01_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C01_1.jpg"
+ },
+ {
+  "code": "C02",
+  "shop": "lime",
+  "title": "Стеганая куртка на синтепоне",
+  "color": "темно-коричневый",
+  "price": 7999,
+  "url": "https://limestore.com/ru_ru/product/36034-7988_484_201_temno_koricnevyi",
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L"
+  ],
+  "files": [
+   "capsule-free/C02_1.jpg",
+   "capsule-free/C02_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C02_1.jpg"
+ },
+ {
+  "code": "C03",
+  "shop": "lime",
+  "title": "Базовый свитер из полушерсти",
+  "color": "молочный",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/37661-2888_608_120_molocnyi",
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "files": [
+   "capsule-free/C03_1.jpg",
+   "capsule-free/C03_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C03_1.jpg"
+ },
+ {
+  "code": "C04",
+  "shop": "lime",
+  "title": "Кардиган из пряжи с шерстью в стиле ретро",
+  "color": "серо-бежевый меланж",
+  "price": 7999,
+  "url": "https://limestore.com/ru_ru/product/38128-3859_571_263_sero_bezevyi_melanz",
+  "sizes_in_stock": [
+   "S",
+   "M",
+   "L"
+  ],
+  "files": [
+   "capsule-free/C04_1.jpg",
+   "capsule-free/C04_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C04_1.jpg"
+ },
+ {
+  "code": "C05",
+  "shop": "lime",
+  "title": "Приталенная рубашка из хлопка",
+  "color": "белый",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/38134-4643_134_110_belyi",
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "files": [
+   "capsule-free/C05_1.jpg",
+   "capsule-free/C05_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C05_1.jpg"
+ },
+ {
+  "code": "C06",
+  "shop": "lime",
+  "title": "Свободные брюки с широкими складками",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/37006-3042_121_001_cernyi",
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "files": [
+   "capsule-free/C06_1.jpg",
+   "capsule-free/C06_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C06_1.jpg"
+ },
+ {
+  "code": "C07",
+  "shop": "lime",
+  "title": "Прямые джинсы с высокой посадкой",
+  "color": "темно-синий",
+  "price": 5599,
+  "url": "https://limestore.com/ru_ru/product/33238-5425_533_402_temno_sinii",
+  "sizes_in_stock": [
+   "34",
+   "36",
+   "38",
+   "40",
+   "42",
+   "44"
+  ],
+  "files": [
+   "capsule-free/C07_1.jpg",
+   "capsule-free/C07_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C07_1.jpg"
+ },
+ {
+  "code": "C08",
+  "shop": "lime",
+  "title": "Миди-юбка с ангорой и шерстью",
+  "color": "молочный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/38555-4608_218_120_molocnyi",
+  "sizes_in_stock": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "files": [
+   "capsule-free/C08_1.jpg",
+   "capsule-free/C08_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C08_1.jpg"
+ },
+ {
+  "code": "C09",
+  "shop": "lime",
+  "title": "Ботильоны из овечьей кожи",
+  "color": "черный",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/35140-0901_869_001_cernyi",
+  "sizes_in_stock": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "files": [
+   "capsule-free/C09_1.jpg",
+   "capsule-free/C09_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C09_1.jpg"
+ },
+ {
+  "code": "C10",
+  "shop": "lime",
+  "title": "Балетки из овечьей кожи на овчине",
+  "color": "черный",
+  "price": 13999,
+  "url": "https://limestore.com/ru_ru/product/37649-2060_544_001_cernyi",
+  "sizes_in_stock": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "files": [
+   "capsule-free/C10_1.jpg",
+   "capsule-free/C10_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C10_1.jpg"
+ },
+ {
+  "code": "C11",
+  "shop": "lime",
+  "title": "Мягкая сумка на кулиске",
+  "color": "винный",
+  "price": 5599,
+  "url": "https://limestore.com/ru_ru/product/35642-9275_960_603_vinnyi",
+  "sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "capsule-free/C11_1.jpg",
+   "capsule-free/C11_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C11_1.jpg"
+ },
+ {
+  "code": "C12",
+  "shop": "lime",
+  "title": "Шарф-косынка из 100% шерсти",
+  "color": "молочный",
+  "price": 3999,
+  "url": "https://limestore.com/ru_ru/product/36763-1570_454_120_molocnyi",
+  "sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "capsule-free/C12_1.jpg",
+   "capsule-free/C12_2.jpg"
+  ],
+  "packshot_file": "capsule-free/C12_1.jpg"
+ }
+]
