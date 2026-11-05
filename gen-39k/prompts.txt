@@ -1,0 +1,29 @@
+# look1
+/ultrarealistic
+Photoreal street-style photo, vertical 4:5, shot on a 50mm lens at eye level, soft overcast winter daylight, light snow on the ground, European city street with old stone facades.
+One woman, about 32, natural Slavic appearance, light-brown hair in a loose low bun, natural makeup, real skin texture, realistic body proportions, five fingers on each hand.
+Full body visible from hair to shoes, centred, standing on the pavement in a relaxed natural pose like reference 1: weight on one leg, one hand in the coat pocket, gaze slightly down and to the side.
+Outfit, matching the reference product photos exactly in colour, fabric and cut:
+- brown drape oversize half-coat with the faux-fur collar from reference 2, worn open;
+- underneath, the opaque milk-white knit polo jumper with V-neck and collar from reference 3 (thick visible knit texture, not see-through);
+- black wide-leg suit trousers from reference 4;
+- black ankle boots from reference 5;
+- wine-red croc-embossed box bag from reference 6 carried in the free hand.
+No text, no logos, no watermark, no other people in focus.
+
+refs: refs/ref1.jpg, capsule-39k/C01_1 C03_1 C06_1 C09_1 C11_1
+
+# look2
+/ultrarealistic
+Photoreal street-style photo, vertical 4:5, shot on a 50mm lens at eye level, soft overcast winter daylight, light snow on the ground, European city street with stone facades and a shop window.
+The SAME woman as in reference 1 (same face, hair colour and build): about 32, natural Slavic appearance, light-brown hair, natural makeup, real skin texture, realistic proportions, five fingers on each hand.
+Full body visible from hair to shoes, standing three-quarter to the camera like reference 2: one hand lightly holding the jacket edge, the other relaxed, calm natural expression.
+Outfit, matching the reference product photos exactly in colour, fabric and cut:
+- black quilted padded jacket from reference 3, worn open;
+- underneath, the beige V-neck button knit cardigan from reference 4;
+- light-blue straight high-waist jeans from reference 5, full length;
+- black soft square-toe loafers from reference 6;
+- burgundy thin fringed scarf from reference 7 loosely around the neck.
+No bag. No text, no logos, no watermark, no other people in focus.
+
+refs: look1 (face), refs/ref3.jpg, capsule-39k/C02_1 C04_1 C07_1 C10_1 C12_1

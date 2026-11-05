@@ -39,17 +39,17 @@
  },
  {
   "code": "C03",
-  "shop": "lime",
-  "title": "Базовый свитер из полушерсти",
+  "shop": "befree",
+  "title": "Джемпер-поло свободный вязаный с вырезом",
   "color": "молочный",
-  "price": 4999,
-  "url": "https://limestore.com/ru_ru/product/37661-2888_608_120_molocnyi",
+  "price": 2599,
+  "url": "https://befree.ru/zhenskaya/product/BF2631526024/60",
   "sizes_in_stock": [
-   "XS",
-   "S",
-   "M",
    "L",
-   "XL"
+   "M",
+   "S",
+   "XL",
+   "XS"
   ],
   "files": [
    "capsule-39k/C03_1.jpg",
