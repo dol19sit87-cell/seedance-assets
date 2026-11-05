@@ -1,0 +1,232 @@
+[
+ {
+  "code": "C01",
+  "shop": "befree",
+  "title": "Полупальто оверсайз драповое",
+  "color": "коричневый",
+  "price": 7999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641602046/22",
+  "sizes_in_stock": [
+   "L",
+   "S",
+   "XL",
+   "XS"
+  ],
+  "files": [
+   "capsule-39k/C01_1.jpg",
+   "capsule-39k/C01_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C01_1.jpg"
+ },
+ {
+  "code": "C02",
+  "shop": "befree",
+  "title": "Куртка стеганая утепленная с капюшоном",
+  "color": "черный",
+  "price": 2999,
+  "url": "https://befree.ru/zhenskaya/product/BF2631601065/50",
+  "sizes_in_stock": [
+   "L",
+   "M",
+   "S",
+   "XS"
+  ],
+  "files": [
+   "capsule-39k/C02_1.jpg",
+   "capsule-39k/C02_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C02_1.jpg"
+ },
+ {
+  "code": "C03",
+  "shop": "lime",
+  "title": "Базовый свитер из полушерсти",
+  "color": "молочный",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/37661-2888_608_120_molocnyi",
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "files": [
+   "capsule-39k/C03_1.jpg",
+   "capsule-39k/C03_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C03_1.jpg"
+ },
+ {
+  "code": "C04",
+  "shop": "befree",
+  "title": "Кардиган вязаный на пуговицах",
+  "color": "бежевый",
+  "price": 2999,
+  "url": "https://befree.ru/zhenskaya/product/BF2631527002/36",
+  "sizes_in_stock": [
+   "L",
+   "M",
+   "S",
+   "XL",
+   "XS"
+  ],
+  "files": [
+   "capsule-39k/C04_1.jpg",
+   "capsule-39k/C04_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C04_1.jpg"
+ },
+ {
+  "code": "C05",
+  "shop": "befree",
+  "title": "Рубашка прямая вискозная",
+  "color": "белый",
+  "price": 999,
+  "url": "https://befree.ru/zhenskaya/product/BF2631418043/1",
+  "sizes_in_stock": [
+   "L",
+   "M",
+   "S",
+   "XL",
+   "XS"
+  ],
+  "files": [
+   "capsule-39k/C05_1.jpg",
+   "capsule-39k/C05_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C05_1.jpg"
+ },
+ {
+  "code": "C06",
+  "shop": "befree",
+  "title": "Брюки широкие костюмные со средней посадкой и разрезами",
+  "color": "черный",
+  "price": 1999,
+  "url": "https://befree.ru/zhenskaya/product/BF2631308041/50",
+  "sizes_in_stock": [
+   "L",
+   "M",
+   "S",
+   "XL",
+   "XS"
+  ],
+  "files": [
+   "capsule-39k/C06_1.jpg",
+   "capsule-39k/C06_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C06_1.jpg"
+ },
+ {
+  "code": "C07",
+  "shop": "befree",
+  "title": "Джинсы прямые с высокой посадкой и поясом",
+  "color": "голубой",
+  "price": 2599,
+  "url": "https://befree.ru/zhenskaya/product/BF2631209026/102",
+  "sizes_in_stock": [
+   "M",
+   "S",
+   "XS"
+  ],
+  "files": [
+   "capsule-39k/C07_1.jpg",
+   "capsule-39k/C07_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C07_1.jpg"
+ },
+ {
+  "code": "C08",
+  "shop": "befree",
+  "title": "Юбка миди прямая с разрезом",
+  "color": "черный",
+  "price": 1299,
+  "url": "https://befree.ru/zhenskaya/product/BF2631312026/50",
+  "sizes_in_stock": [
+   "L",
+   "M",
+   "S",
+   "XL",
+   "XS"
+  ],
+  "files": [
+   "capsule-39k/C08_1.jpg",
+   "capsule-39k/C08_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C08_1.jpg"
+ },
+ {
+  "code": "C09",
+  "shop": "befree",
+  "title": "Ботинки на молнии сзади",
+  "color": "черный",
+  "price": 3999,
+  "url": "https://befree.ru/zhenskaya/product/BF2646687010/50",
+  "sizes_in_stock": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "files": [
+   "capsule-39k/C09_1.jpg",
+   "capsule-39k/C09_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C09_1.jpg"
+ },
+ {
+  "code": "C10",
+  "shop": "befree",
+  "title": "Лоферы мягкие из искусственной кожи с квадратным носом",
+  "color": "черный",
+  "price": 2599,
+  "url": "https://befree.ru/zhenskaya/product/BF2636682021/50",
+  "sizes_in_stock": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "files": [
+   "capsule-39k/C10_1.jpg",
+   "capsule-39k/C10_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C10_1.jpg"
+ },
+ {
+  "code": "C11",
+  "shop": "lime",
+  "title": "Сумка-бокс с крокодиловым тиснением",
+  "color": "винный",
+  "price": 3999,
+  "url": "https://limestore.com/ru_ru/product/39241-5827_824_603_vinnyi",
+  "sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "capsule-39k/C11_1.jpg",
+   "capsule-39k/C11_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C11_1.jpg"
+ },
+ {
+  "code": "C12",
+  "shop": "befree",
+  "title": "Шарф тонкий базовый с бахромой",
+  "color": "бордовый",
+  "price": 999,
+  "url": "https://befree.ru/zhenskaya/product/BasicScarfCol5/71",
+  "sizes_in_stock": [
+   "Единый размер"
+  ],
+  "files": [
+   "capsule-39k/C12_1.jpg",
+   "capsule-39k/C12_2.jpg"
+  ],
+  "packshot_file": "capsule-39k/C12_1.jpg"
+ }
+]
