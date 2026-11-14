@@ -551,5 +551,765 @@
    "sel-week/T2/F3-4_1.jpg",
    "sel-week/T2/F3-4_2.jpg"
   ]
+ },
+ {
+  "code": "T3-K1",
+  "theme": "Укороченный тренч",
+  "role": "key",
+  "piece": "укороченный тренч",
+  "shop": "Lime",
+  "title": "Двубортная куртка-тренч из хлопка",
+  "color": "бежевый",
+  "price": 13999,
+  "url": "https://limestore.com/ru_ru/product/36245-0494_394_260_bezevyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T3/K1_1.jpg",
+   "sel-week/T3/K1_2.jpg"
+  ]
+ },
+ {
+  "code": "T3-K2",
+  "theme": "Укороченный тренч",
+  "role": "key",
+  "piece": "укороченный тренч",
+  "shop": "Lime",
+  "title": "Хлопковая куртка-тренч",
+  "color": "каменный",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/36994-9713_002_268_kamennyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T3/K2_1.jpg",
+   "sel-week/T3/K2_2.jpg"
+  ]
+ },
+ {
+  "code": "T3-K3",
+  "theme": "Укороченный тренч",
+  "role": "key",
+  "piece": "укороченный тренч",
+  "shop": "Lime",
+  "title": "Хлопковая куртка-тренч",
+  "color": "темно-коричневый",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/36994-9713_002_201_temno_koricnevyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T3/K3_1.jpg",
+   "sel-week/T3/K3_2.jpg"
+  ]
+ },
+ {
+  "code": "T3-F1-1",
+  "theme": "Укороченный тренч",
+  "role": "F1",
+  "piece": "чёрная мини-юбка",
+  "shop": "Love Republic",
+  "title": "Юбка мини из экокожи с ремнем",
+  "color": "черный",
+  "price": 5599,
+  "url": "https://loverepublic.ru/catalog/odezhda/yubki/329194/",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "files": [
+   "sel-week/T3/F1-1_1.jpg",
+   "sel-week/T3/F1-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T3-F1-2",
+  "theme": "Укороченный тренч",
+  "role": "F1",
+  "piece": "высокие сапоги",
+  "shop": "Befree",
+  "title": "Сапоги высокие на платформе из натуральной замши",
+  "color": "коричневый",
+  "price": 8999,
+  "url": "https://befree.ru/zhenskaya/product/BF2646685006/20",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T3/F1-2_1.jpg",
+   "sel-week/T3/F1-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T3-F2-1",
+  "theme": "Укороченный тренч",
+  "role": "F2",
+  "piece": "широкие джинсы",
+  "shop": "Befree",
+  "title": "Джинсы широкие из лиоцелла со средней посадкой",
+  "color": "голубой",
+  "price": 1999,
+  "url": "https://befree.ru/zhenskaya/product/BF2631209032/102",
+  "sizes_in_stock": [
+   "S"
+  ],
+  "files": [
+   "sel-week/T3/F2-1_1.jpg",
+   "sel-week/T3/F2-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T3-F2-2",
+  "theme": "Укороченный тренч",
+  "role": "F2",
+  "piece": "бордовая сумка",
+  "shop": "Lichi",
+  "title": "Сумка-багет с широким ремнем",
+  "color": "бордовый",
+  "price": 2999,
+  "url": "https://lichi.com/ru/ru/product/50053",
+  "sizes_in_stock": [
+   "One Size"
+  ],
+  "files": [
+   "sel-week/T3/F2-2_1.jpg",
+   "sel-week/T3/F2-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T3-F2-3",
+  "theme": "Укороченный тренч",
+  "role": "F2",
+  "piece": "туфли-лодочки с острым носом",
+  "shop": "Lime",
+  "title": "Лодочки на шпильке из овечьей кожи с тиснением",
+  "color": "светло-бежевый",
+  "price": 12999,
+  "url": "https://limestore.com/ru_ru/product/37878-3892_343_270_svetlo_bezevyi",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T3/F2-3_1.jpg",
+   "sel-week/T3/F2-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T3-F3-1",
+  "theme": "Укороченный тренч",
+  "role": "F3",
+  "piece": "чёрная водолазка",
+  "shop": "Lichi",
+  "title": "Трикотажная водолазка в рубчик",
+  "color": "черный",
+  "price": 3299,
+  "url": "https://lichi.com/ru/ru/product/50157",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T3/F3-1_1.jpg",
+   "sel-week/T3/F3-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T3-F3-2",
+  "theme": "Укороченный тренч",
+  "role": "F3",
+  "piece": "чёрные широкие брюки",
+  "shop": "Love Republic",
+  "title": "Брюки-палаццо с вискозой",
+  "color": "черный",
+  "price": 7999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/334411/",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "files": [
+   "sel-week/T3/F3-2_1.jpg",
+   "sel-week/T3/F3-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T3-F3-3",
+  "theme": "Укороченный тренч",
+  "role": "F3",
+  "piece": "очки-авиаторы",
+  "shop": "Befree",
+  "title": "Очки-авиаторы декоративные с цветными линзами",
+  "color": "черепаховая оправа, жёлтые линзы",
+  "price": 399,
+  "url": "https://befree.ru/zhenskaya/product/BF2625360011/32",
+  "sizes_in_stock": [
+   "Единый размер"
+  ],
+  "files": [
+   "sel-week/T3/F3-3_1.jpg",
+   "sel-week/T3/F3-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-K1",
+  "theme": "Мини-юбка",
+  "role": "key",
+  "piece": "мини-юбка",
+  "shop": "Lime",
+  "title": "Юбка-шорты в длине мини",
+  "color": "черный",
+  "price": 4599,
+  "url": "https://limestore.com/ru_ru/product/38054-3775_517_001_cernyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T4/K1_1.jpg",
+   "sel-week/T4/K1_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-K2",
+  "theme": "Мини-юбка",
+  "role": "key",
+  "piece": "мини-юбка",
+  "shop": "Befree",
+  "title": "Юбка-шорты мини в складку с ремешком",
+  "color": "черный",
+  "price": 1599,
+  "url": "https://befree.ru/zhenskaya/product/BF2632312009/50",
+  "sizes_in_stock": [
+   "M"
+  ],
+  "files": [
+   "sel-week/T4/K2_1.jpg",
+   "sel-week/T4/K2_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-K3",
+  "theme": "Мини-юбка",
+  "role": "key",
+  "piece": "коричневая кожаная мини-юбка",
+  "shop": "Love Republic",
+  "title": "Юбка мини из искусственной кожи с отделкой",
+  "color": "коричневый",
+  "price": 6599,
+  "url": "https://loverepublic.ru/catalog/odezhda/yubki/333843/",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "files": [
+   "sel-week/T4/K3_1.jpg",
+   "sel-week/T4/K3_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-K4",
+  "theme": "Мини-юбка",
+  "role": "key",
+  "piece": "коричневая кожаная мини-юбка",
+  "shop": "Lichi",
+  "title": "Юбка мини из экокожи",
+  "color": "коричневый",
+  "price": 5999,
+  "url": "https://lichi.com/ru/ru/product/49878",
+  "sizes_in_stock": [
+   "S"
+  ],
+  "files": [
+   "sel-week/T4/K4_1.jpg",
+   "sel-week/T4/K4_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-F1-1",
+  "theme": "Мини-юбка",
+  "role": "F1",
+  "piece": "чёрный пиджак",
+  "shop": "Love Republic",
+  "title": "Однобортный жакет",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://loverepublic.ru/catalog/odezhda/zhakety/331869/",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "files": [
+   "sel-week/T4/F1-1_1.jpg",
+   "sel-week/T4/F1-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-F1-2",
+  "theme": "Мини-юбка",
+  "role": "F1",
+  "piece": "ремень",
+  "shop": "Lime",
+  "title": "Ремень с анималистичным тиснением",
+  "color": "черный",
+  "price": 3599,
+  "url": "https://limestore.com/ru_ru/product/38031-2076_553_001_cernyi",
+  "sizes_in_stock": [
+   "XS/S",
+   "M/L"
+  ],
+  "files": [
+   "sel-week/T4/F1-2_1.jpg",
+   "sel-week/T4/F1-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-F1-3",
+  "theme": "Мини-юбка",
+  "role": "F1",
+  "piece": "чёрные колготки",
+  "shop": "Befree",
+  "title": "Колготки капроновые 50 den со штрипками",
+  "color": "черный",
+  "price": 1299,
+  "url": "https://befree.ru/zhenskaya/product/BF2634933007/50",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T4/F1-3_1.jpg"
+  ]
+ },
+ {
+  "code": "T4-F1-4",
+  "theme": "Мини-юбка",
+  "role": "F1",
+  "piece": "туфли-лодочки",
+  "shop": "Lime",
+  "title": "Туфли-лодочки с декоративной деталью",
+  "color": "черный",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/39236-4951_342_001_cernyi",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T4/F1-4_1.jpg",
+   "sel-week/T4/F1-4_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-F2-1",
+  "theme": "Мини-юбка",
+  "role": "F2",
+  "piece": "чёрная водолазка",
+  "shop": "Lichi",
+  "title": "Водолазка с диагональной драпировкой на плече",
+  "color": "черный",
+  "price": 3999,
+  "url": "https://lichi.com/ru/ru/product/50346",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T4/F2-1_1.jpg",
+   "sel-week/T4/F2-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-F2-2",
+  "theme": "Мини-юбка",
+  "role": "F2",
+  "piece": "высокие сапоги",
+  "shop": "Lime",
+  "title": "Жокейские сапоги из телячьей кожи",
+  "color": "темно-коричневый",
+  "price": 17999,
+  "url": "https://limestore.com/ru_ru/product/38642-0550_901_201_temno_koricnevyi",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T4/F2-2_1.jpg",
+   "sel-week/T4/F2-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-F3-1",
+  "theme": "Мини-юбка",
+  "role": "F3",
+  "piece": "белая футболка",
+  "shop": "Lichi",
+  "title": "Приталенная футболка из хлопка с декором на спинке",
+  "color": "белый",
+  "price": 3299,
+  "url": "https://lichi.com/ru/ru/product/52256",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T4/F3-1_1.jpg",
+   "sel-week/T4/F3-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-F3-2",
+  "theme": "Мини-юбка",
+  "role": "F3",
+  "piece": "коричневый свитер",
+  "shop": "Love Republic",
+  "title": "Свитер из тенселя и хлопка с шерстью",
+  "color": "коричневый",
+  "price": 5599,
+  "url": "https://loverepublic.ru/catalog/odezhda/trikotazh/dzhempery/334684/",
+  "sizes_in_stock": [
+   "M"
+  ],
+  "files": [
+   "sel-week/T4/F3-2_1.jpg",
+   "sel-week/T4/F3-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-F3-3",
+  "theme": "Мини-юбка",
+  "role": "F3",
+  "piece": "замшевая куртка",
+  "shop": "Love Republic",
+  "title": "Жакет из экозамши",
+  "color": "коричневый",
+  "price": 10999,
+  "url": "https://loverepublic.ru/catalog/odezhda/zhakety/334342/",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "files": [
+   "sel-week/T4/F3-3_1.jpg",
+   "sel-week/T4/F3-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-F3-4",
+  "theme": "Мини-юбка",
+  "role": "F3",
+  "piece": "гольфы",
+  "shop": "Befree",
+  "title": "Гольфы высокие с шерстью",
+  "color": "серый",
+  "price": 599,
+  "url": "https://befree.ru/zhenskaya/product/BF2544934011/37",
+  "sizes_in_stock": [
+   "36-38"
+  ],
+  "files": [
+   "sel-week/T4/F3-4_1.jpg",
+   "sel-week/T4/F3-4_2.jpg"
+  ]
+ },
+ {
+  "code": "T4-F3-5",
+  "theme": "Мини-юбка",
+  "role": "F3",
+  "piece": "лоферы",
+  "shop": "Befree",
+  "title": "Лоферы замшевые на каблуке",
+  "color": "коричневый",
+  "price": 3999,
+  "url": "https://befree.ru/zhenskaya/product/BF2636682022/20",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T4/F3-5_1.jpg",
+   "sel-week/T4/F3-5_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-K1",
+  "theme": "Чёрные широкие брюки",
+  "role": "key",
+  "piece": "чёрные широкие брюки",
+  "shop": "Lime",
+  "title": "Свободные брюки с широкими складками",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/37006-3042_121_001_cernyi",
+  "sizes_in_stock": [
+   "M"
+  ],
+  "files": [
+   "sel-week/T5/K1_1.jpg",
+   "sel-week/T5/K1_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-K2",
+  "theme": "Чёрные широкие брюки",
+  "role": "key",
+  "piece": "чёрные широкие брюки",
+  "shop": "Love Republic",
+  "title": "Брюки-палаццо с защипами",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/323812/",
+  "sizes_in_stock": [
+   "42"
+  ],
+  "files": [
+   "sel-week/T5/K2_1.jpg",
+   "sel-week/T5/K2_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-K3",
+  "theme": "Чёрные широкие брюки",
+  "role": "key",
+  "piece": "чёрные широкие брюки",
+  "shop": "Lichi",
+  "title": "Свободные брюки с застежкой на поясе",
+  "color": "черный",
+  "price": 5499,
+  "url": "https://lichi.com/ru/ru/product/50225",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T5/K3_1.jpg",
+   "sel-week/T5/K3_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-K4",
+  "theme": "Чёрные широкие брюки",
+  "role": "key",
+  "piece": "чёрные широкие брюки",
+  "shop": "Love Republic",
+  "title": "Брюки-палаццо с высокой посадкой",
+  "color": "черный",
+  "price": 5599,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/332357/",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "files": [
+   "sel-week/T5/K4_1.jpg",
+   "sel-week/T5/K4_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-F1-1",
+  "theme": "Чёрные широкие брюки",
+  "role": "F1",
+  "piece": "чёрная атласная рубашка",
+  "shop": "Lichi",
+  "title": "Атласная блуза с шарфом",
+  "color": "черный",
+  "price": 7499,
+  "url": "https://lichi.com/ru/ru/product/52927",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T5/F1-1_1.jpg",
+   "sel-week/T5/F1-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-F1-2",
+  "theme": "Чёрные широкие брюки",
+  "role": "F1",
+  "piece": "ремень",
+  "shop": "Befree",
+  "title": "Ремень из искусственной кожи",
+  "color": "черный",
+  "price": 799,
+  "url": "https://befree.ru/zhenskaya/product/BF2635346018/50",
+  "sizes_in_stock": [
+   "100 см",
+   "110 см"
+  ],
+  "files": [
+   "sel-week/T5/F1-2_1.jpg",
+   "sel-week/T5/F1-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-F1-3",
+  "theme": "Чёрные широкие брюки",
+  "role": "F1",
+  "piece": "туфли-лодочки",
+  "shop": "Lime",
+  "title": "Кожаные туфли с квадратным мысом",
+  "color": "черный",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/35398-2071_993_001_cernyi",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T5/F1-3_1.jpg",
+   "sel-week/T5/F1-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-F2-1",
+  "theme": "Чёрные широкие брюки",
+  "role": "F2",
+  "piece": "кружевная водолазка",
+  "shop": "Love Republic",
+  "title": "Полупрозрачная водолазка из кружева",
+  "color": "черный",
+  "price": 4999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bluzy/336693/",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T5/F2-1_1.jpg",
+   "sel-week/T5/F2-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-F2-2",
+  "theme": "Чёрные широкие брюки",
+  "role": "F2",
+  "piece": "чёрный пиджак",
+  "shop": "Lichi",
+  "title": "Однобортный жакет с крупными пуговицами",
+  "color": "черный",
+  "price": 12999,
+  "url": "https://lichi.com/ru/ru/product/50140",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T5/F2-2_1.jpg",
+   "sel-week/T5/F2-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-F2-3",
+  "theme": "Чёрные широкие брюки",
+  "role": "F2",
+  "piece": "клатч",
+  "shop": "Lime",
+  "title": "Бархатный клатч с шелковистыми кисточками",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/39422-5158_342_001_cernyi",
+  "sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "sel-week/T5/F2-3_1.jpg",
+   "sel-week/T5/F2-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-F3-1",
+  "theme": "Чёрные широкие брюки",
+  "role": "F3",
+  "piece": "белая футболка",
+  "shop": "Befree",
+  "title": "Футболка облегающая из вискозы",
+  "color": "белый",
+  "price": 799,
+  "url": "https://befree.ru/zhenskaya/product/BF2631120014/1",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T5/F3-1_1.jpg",
+   "sel-week/T5/F3-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-F3-2",
+  "theme": "Чёрные широкие брюки",
+  "role": "F3",
+  "piece": "синий свитер",
+  "shop": "Befree",
+  "title": "Джемпер оверсайз вязаный",
+  "color": "синий",
+  "price": 2299,
+  "url": "https://befree.ru/zhenskaya/product/BF2632526023/47",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T5/F3-2_1.jpg",
+   "sel-week/T5/F3-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-F3-3",
+  "theme": "Чёрные широкие брюки",
+  "role": "F3",
+  "piece": "длинное чёрное пальто",
+  "shop": "Lime",
+  "title": "Двубортное пальто оверсайз из шерсти",
+  "color": "черный",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/37070-1278_539_001_cernyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T5/F3-3_1.jpg",
+   "sel-week/T5/F3-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T5-F3-4",
+  "theme": "Чёрные широкие брюки",
+  "role": "F3",
+  "piece": "панама",
+  "shop": "Befree",
+  "title": "Панама фетровая с шерстью",
+  "color": "черный",
+  "price": 2299,
+  "url": "https://befree.ru/zhenskaya/product/BF2635340030/50",
+  "sizes_in_stock": [
+   "Единый размер"
+  ],
+  "files": [
+   "sel-week/T5/F3-4_1.jpg",
+   "sel-week/T5/F3-4_2.jpg"
+  ]
  }
 ]
