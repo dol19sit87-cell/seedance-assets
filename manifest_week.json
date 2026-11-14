@@ -1,0 +1,555 @@
+[
+ {
+  "code": "T1-K1",
+  "theme": "Серый пиджак",
+  "role": "key",
+  "piece": "серый пиджак",
+  "shop": "Befree",
+  "title": "Пиджак прямой двубортный",
+  "color": "серый",
+  "price": 3999,
+  "url": "https://befree.ru/zhenskaya/product/BF2631305022/38",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T1/K1_1.jpg",
+   "sel-week/T1/K1_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-K2",
+  "theme": "Серый пиджак",
+  "role": "key",
+  "piece": "серый пиджак",
+  "shop": "Love Republic",
+  "title": "Приталенный двубортный жакет с вискозой",
+  "color": "серый",
+  "price": 13999,
+  "url": "https://loverepublic.ru/catalog/odezhda/zhakety/329551/",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "files": [
+   "sel-week/T1/K2_1.jpg",
+   "sel-week/T1/K2_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-K3",
+  "theme": "Серый пиджак",
+  "role": "key",
+  "piece": "серый пиджак",
+  "shop": "Lime",
+  "title": "Двубортный жакет асимметричного кроя",
+  "color": "темно-серый меланж",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/37630-1612_421_023_temno_seryi_melanz",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T1/K3_1.jpg",
+   "sel-week/T1/K3_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-K4",
+  "theme": "Серый пиджак",
+  "role": "key",
+  "piece": "серый пиджак",
+  "shop": "Lichi",
+  "title": "Приталенный жакет из костюмной ткани",
+  "color": "серый",
+  "price": 8999,
+  "url": "https://lichi.com/ru/ru/product/47740",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T1/K4_1.jpg",
+   "sel-week/T1/K4_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F1-1",
+  "theme": "Серый пиджак",
+  "role": "F1",
+  "piece": "белый топ",
+  "shop": "Love Republic",
+  "title": "Топ из хлопка",
+  "color": "белый",
+  "price": 1999,
+  "url": "https://loverepublic.ru/catalog/odezhda/topy/334269/",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T1/F1-1_1.jpg",
+   "sel-week/T1/F1-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F1-2",
+  "theme": "Серый пиджак",
+  "role": "F1",
+  "piece": "голубые джинсы",
+  "shop": "Befree",
+  "title": "Джинсы прямые с высокой посадкой и поясом",
+  "color": "голубой",
+  "price": 2299,
+  "url": "https://befree.ru/zhenskaya/product/BF2631209026/102",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T1/F1-2_1.jpg",
+   "sel-week/T1/F1-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F1-3",
+  "theme": "Серый пиджак",
+  "role": "F1",
+  "piece": "белые кеды",
+  "shop": "Lime",
+  "title": "Комбинированные кеды из кожи и замши",
+  "color": "цвет слоновой кости",
+  "price": 10999,
+  "url": "https://limestore.com/ru_ru/product/31917_4901_259-cvet_slonovoi_kosti",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T1/F1-3_1.jpg",
+   "sel-week/T1/F1-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F1-4",
+  "theme": "Серый пиджак",
+  "role": "F1",
+  "piece": "чёрная сумка",
+  "shop": "Lime",
+  "title": "Сумка-цилиндр на плечо",
+  "color": "черный",
+  "price": 6599,
+  "url": "https://limestore.com/ru_ru/product/38285-0298_714_001_cernyi",
+  "sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "sel-week/T1/F1-4_1.jpg",
+   "sel-week/T1/F1-4_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F2-1",
+  "theme": "Серый пиджак",
+  "role": "F2",
+  "piece": "серый кардиган",
+  "shop": "Love Republic",
+  "title": "Кардиган с шерстью",
+  "color": "серый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/odezhda/trikotazh/kardigany/336232/",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T1/F2-1_1.jpg",
+   "sel-week/T1/F2-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F2-2",
+  "theme": "Серый пиджак",
+  "role": "F2",
+  "piece": "белые джинсы",
+  "shop": "Befree",
+  "title": "Джинсы мом с высокой посадкой",
+  "color": "белый",
+  "price": 2299,
+  "url": "https://befree.ru/zhenskaya/product/MomSS20col1h/1",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T1/F2-2_1.jpg",
+   "sel-week/T1/F2-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F2-3",
+  "theme": "Серый пиджак",
+  "role": "F2",
+  "piece": "туфли мэри джейн",
+  "shop": "Rendez-Vous",
+  "title": "Балетки Мэри Джейн Tendance",
+  "color": "черный",
+  "price": 12390,
+  "url": "https://www.rendez-vous.ru/catalog/female/baletki/tendance_glc8033_01_chernyy-4484238/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T1/F2-3_1.jpg",
+   "sel-week/T1/F2-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F2-4",
+  "theme": "Серый пиджак",
+  "role": "F2",
+  "piece": "кепка",
+  "shop": "Lime",
+  "title": "Бейсболка из смесовой шерсти",
+  "color": "серый меланж",
+  "price": 2999,
+  "url": "https://limestore.com/ru_ru/product/37356-1742_033_032_seryi_melanz",
+  "sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "sel-week/T1/F2-4_1.jpg",
+   "sel-week/T1/F2-4_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F3-1",
+  "theme": "Серый пиджак",
+  "role": "F3",
+  "piece": "белая футболка",
+  "shop": "Lichi",
+  "title": "Укороченная однотонная футболка из хлопка",
+  "color": "белый",
+  "price": 2999,
+  "url": "https://lichi.com/ru/ru/product/51703",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T1/F3-1_1.jpg",
+   "sel-week/T1/F3-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F3-2",
+  "theme": "Серый пиджак",
+  "role": "F3",
+  "piece": "чёрный свитер (на плечи)",
+  "shop": "Lichi",
+  "title": "Джемпер из фактурного трикотажа с крупными пуговицами",
+  "color": "черный",
+  "price": 5499,
+  "url": "https://lichi.com/ru/ru/product/49816",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T1/F3-2_1.jpg",
+   "sel-week/T1/F3-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F3-3",
+  "theme": "Серый пиджак",
+  "role": "F3",
+  "piece": "чёрные легинсы",
+  "shop": "Love Republic",
+  "title": "Бархатные легинсы со штрипками",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/328319/",
+  "sizes_in_stock": [
+   "S"
+  ],
+  "files": [
+   "sel-week/T1/F3-3_1.jpg",
+   "sel-week/T1/F3-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T1-F3-4",
+  "theme": "Серый пиджак",
+  "role": "F3",
+  "piece": "высокие сапоги",
+  "shop": "Befree",
+  "title": "Сапоги высокие с двойным голенищем",
+  "color": "черный",
+  "price": 4999,
+  "url": "https://befree.ru/zhenskaya/product/BF2646685007/50",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T1/F3-4_1.jpg",
+   "sel-week/T1/F3-4_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-K1",
+  "theme": "Чёрные легинсы",
+  "role": "key",
+  "piece": "чёрные легинсы",
+  "shop": "Lime",
+  "title": "Легинсы клеш из ткани интерлок с разрезами",
+  "color": "черный",
+  "price": 3599,
+  "url": "https://limestore.com/ru_ru/product/30266_2524_605-2524_605_001_cernyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T2/K1_1.jpg",
+   "sel-week/T2/K1_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-K2",
+  "theme": "Чёрные легинсы",
+  "role": "key",
+  "piece": "чёрные легинсы",
+  "shop": "Love Republic",
+  "title": "Легинсы со штрипками",
+  "color": "черный",
+  "price": 3599,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/334027/",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T2/K2_1.jpg",
+   "sel-week/T2/K2_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-K3",
+  "theme": "Чёрные легинсы",
+  "role": "key",
+  "piece": "чёрные легинсы",
+  "shop": "Befree",
+  "title": "Леггинсы из искусственной кожи со штрипками",
+  "color": "черный",
+  "price": 1999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641308012/50",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T2/K3_1.jpg",
+   "sel-week/T2/K3_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-K4",
+  "theme": "Чёрные легинсы",
+  "role": "key",
+  "piece": "чёрные легинсы",
+  "shop": "Lichi",
+  "title": "Утепленные легинсы",
+  "color": "черный",
+  "price": 5499,
+  "url": "https://lichi.com/ru/ru/product/53031",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T2/K4_1.jpg",
+   "sel-week/T2/K4_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-F1-1",
+  "theme": "Чёрные легинсы",
+  "role": "F1",
+  "piece": "объёмный молочный свитер",
+  "shop": "Lichi",
+  "title": "Свободный свитер в крупный рубчик",
+  "color": "молочный",
+  "price": 6999,
+  "url": "https://lichi.com/ru/ru/product/50566",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T2/F1-1_1.jpg",
+   "sel-week/T2/F1-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-F1-2",
+  "theme": "Чёрные легинсы",
+  "role": "F1",
+  "piece": "замшевые слипоны",
+  "shop": "Lime",
+  "title": "Слипоны из овечьей замши с мехом",
+  "color": "темно-коричневый",
+  "price": 13999,
+  "url": "https://limestore.com/ru_ru/product/38310-2060_575_201_temno_koricnevyi",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T2/F1-2_1.jpg",
+   "sel-week/T2/F1-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-F2-1",
+  "theme": "Чёрные легинсы",
+  "role": "F2",
+  "piece": "бежевый свитер",
+  "shop": "Love Republic",
+  "title": "Свитер с шерстью",
+  "color": "бежевый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/odezhda/trikotazh/dzhempery/329620/",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T2/F2-1_1.jpg",
+   "sel-week/T2/F2-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-F2-2",
+  "theme": "Чёрные легинсы",
+  "role": "F2",
+  "piece": "коричневое пальто оверсайз",
+  "shop": "Lime",
+  "title": "Двубортное пальто из полушерсти",
+  "color": "темно-коричневый",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/35324-7157_478_201_temno_koricnevyi",
+  "sizes_in_stock": [
+   "M"
+  ],
+  "files": [
+   "sel-week/T2/F2-2_1.jpg",
+   "sel-week/T2/F2-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-F2-3",
+  "theme": "Чёрные легинсы",
+  "role": "F2",
+  "piece": "лоферы",
+  "shop": "Love Republic",
+  "title": "Лоферы из натуральной замши",
+  "color": "коричневый",
+  "price": 13999,
+  "url": "https://loverepublic.ru/catalog/shoes/331966/",
+  "sizes_in_stock": [
+   "39",
+   "38",
+   "37"
+  ],
+  "files": [
+   "sel-week/T2/F2-3_1.jpg",
+   "sel-week/T2/F2-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-F3-1",
+  "theme": "Чёрные легинсы",
+  "role": "F3",
+  "piece": "стёганая куртка оверсайз",
+  "shop": "Lime",
+  "title": "Стеганая куртка свободного кроя",
+  "color": "карамельный",
+  "price": 10999,
+  "url": "https://limestore.com/ru_ru/product/35598-8029_521_222_karamelnyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T2/F3-1_1.jpg",
+   "sel-week/T2/F3-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-F3-2",
+  "theme": "Чёрные легинсы",
+  "role": "F3",
+  "piece": "белые носки",
+  "shop": "Befree",
+  "title": "Носки высокие в рубчик",
+  "color": "белый",
+  "price": 199,
+  "url": "https://befree.ru/zhenskaya/product/BF2534934024/1",
+  "sizes_in_stock": [
+   "36-38",
+   "39-41"
+  ],
+  "files": [
+   "sel-week/T2/F3-2_1.jpg",
+   "sel-week/T2/F3-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-F3-3",
+  "theme": "Чёрные легинсы",
+  "role": "F3",
+  "piece": "кроссовки",
+  "shop": "Befree",
+  "title": "Кроссовки из натуральной замши с косой шнуровкой",
+  "color": "коричневый",
+  "price": 2599,
+  "url": "https://befree.ru/zhenskaya/product/BF2636681009/20",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T2/F3-3_1.jpg",
+   "sel-week/T2/F3-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T2-F3-4",
+  "theme": "Чёрные легинсы",
+  "role": "F3",
+  "piece": "кепка",
+  "shop": "Befree",
+  "title": "Кепка хлопковая",
+  "color": "молочный",
+  "price": 899,
+  "url": "https://befree.ru/zhenskaya/product/BF2635340009/60",
+  "sizes_in_stock": [
+   "Единый размер"
+  ],
+  "files": [
+   "sel-week/T2/F3-4_1.jpg",
+   "sel-week/T2/F3-4_2.jpg"
+  ]
+ }
+]
