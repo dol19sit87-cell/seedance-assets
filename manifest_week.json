@@ -1,0 +1,571 @@
+[
+ {
+  "code": "T6-K1",
+  "theme": "Тёмно-синее пальто",
+  "role": "key",
+  "piece": "тёмно-синее длинное пальто",
+  "shop": "Befree",
+  "title": "Пальто драповое с капюшоном",
+  "color": "синий",
+  "price": 7599,
+  "url": "https://befree.ru/zhenskaya/product/BF2641602040/47",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T6/K1_1.jpg"
+  ]
+ },
+ {
+  "code": "T6-K2",
+  "theme": "Тёмно-синее пальто",
+  "role": "key",
+  "piece": "чёрное длинное пальто",
+  "shop": "Lime",
+  "title": "Двубортное пальто оверсайз из шерсти",
+  "color": "черный",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/37070-1278_539_001_cernyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T6/K2_1.jpg",
+   "sel-week/T6/K2_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-K3",
+  "theme": "Тёмно-синее пальто",
+  "role": "key",
+  "piece": "чёрное длинное пальто",
+  "shop": "Lichi",
+  "title": "Пальто макси кроя оверсайз с застежкой на воротнике",
+  "color": "черный",
+  "price": 19999,
+  "url": "https://lichi.com/ru/ru/product/52651",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T6/K3_1.jpg",
+   "sel-week/T6/K3_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-K4",
+  "theme": "Тёмно-синее пальто",
+  "role": "key",
+  "piece": "длинное утеплённое пальто",
+  "shop": "Love Republic",
+  "title": "Утепленное пальто с меховой отделкой",
+  "color": "черный",
+  "price": 19999,
+  "url": "https://loverepublic.ru/catalog/odezhda/verhnyaya-odezhda/332534/",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T6/K4_1.jpg",
+   "sel-week/T6/K4_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F1-1",
+  "theme": "Тёмно-синее пальто",
+  "role": "F1",
+  "piece": "голубые джинсы",
+  "shop": "Befree",
+  "title": "Джинсы прямые с высокой посадкой и поясом",
+  "color": "голубой",
+  "price": 2299,
+  "url": "https://befree.ru/zhenskaya/product/BF2631209026/102",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T6/F1-1_1.jpg",
+   "sel-week/T6/F1-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F1-2",
+  "theme": "Тёмно-синее пальто",
+  "role": "F1",
+  "piece": "белая футболка",
+  "shop": "Lichi",
+  "title": "Укороченная однотонная футболка из хлопка",
+  "color": "белый",
+  "price": 2999,
+  "url": "https://lichi.com/ru/ru/product/51703",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T6/F1-2_1.jpg",
+   "sel-week/T6/F1-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F1-3",
+  "theme": "Тёмно-синее пальто",
+  "role": "F1",
+  "piece": "серый свитер (на плечи)",
+  "shop": "Lime",
+  "title": "Свитер из 100% шерсти",
+  "color": "серебристо-серый меланж",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/30530_4989_454-4989_454_053_serebristo_seryi_melanz",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T6/F1-3_1.jpg",
+   "sel-week/T6/F1-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F1-4",
+  "theme": "Тёмно-синее пальто",
+  "role": "F1",
+  "piece": "бордовая сумка",
+  "shop": "Lime",
+  "title": "Мягкая сумка на кулиске",
+  "color": "винный",
+  "price": 5599,
+  "url": "https://limestore.com/ru_ru/product/35642-9275_960_603_vinnyi",
+  "sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "sel-week/T6/F1-4_1.jpg",
+   "sel-week/T6/F1-4_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F1-5",
+  "theme": "Тёмно-синее пальто",
+  "role": "F1",
+  "piece": "бордовые лоферы",
+  "shop": "Rendez-Vous",
+  "title": "Женские лоферы TENDANCE",
+  "color": "темно-бордовый",
+  "price": 6250,
+  "url": "https://www.rendez-vous.ru/catalog/female/lofery/tendance_gl215_01_temno_bordovyy-4872328/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T6/F1-5_1.jpg",
+   "sel-week/T6/F1-5_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F2-1",
+  "theme": "Тёмно-синее пальто",
+  "role": "F2",
+  "piece": "чёрный лонгслив",
+  "shop": "Lime",
+  "title": "Свободный лонгслив из хлопка",
+  "color": "черный",
+  "price": 2599,
+  "url": "https://limestore.com/ru_ru/product/34978-1583_776_001_cernyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T6/F2-1_1.jpg",
+   "sel-week/T6/F2-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F2-2",
+  "theme": "Тёмно-синее пальто",
+  "role": "F2",
+  "piece": "тёмные джинсы",
+  "shop": "Love Republic",
+  "title": "Прямые джинсы с высокой посадкой",
+  "color": "синий",
+  "price": 5599,
+  "url": "https://loverepublic.ru/catalog/odezhda/dzhinsy/320449/",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "files": [
+   "sel-week/T6/F2-2_1.jpg",
+   "sel-week/T6/F2-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F2-3",
+  "theme": "Тёмно-синее пальто",
+  "role": "F2",
+  "piece": "бордовый свитер (на плечи)",
+  "shop": "Befree",
+  "title": "Свитер вязаный с горлом",
+  "color": "бордовый",
+  "price": 3299,
+  "url": "https://befree.ru/zhenskaya/product/BF2631526026/76",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T6/F2-3_1.jpg",
+   "sel-week/T6/F2-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F2-4",
+  "theme": "Тёмно-синее пальто",
+  "role": "F2",
+  "piece": "бордовая сумка",
+  "shop": "Lichi",
+  "title": "Сумка-багет с широким ремнем",
+  "color": "бордовый",
+  "price": 2999,
+  "url": "https://lichi.com/ru/ru/product/50053",
+  "sizes_in_stock": [
+   "One Size"
+  ],
+  "files": [
+   "sel-week/T6/F2-4_1.jpg",
+   "sel-week/T6/F2-4_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F3-1",
+  "theme": "Тёмно-синее пальто",
+  "role": "F3",
+  "piece": "коричневое платье",
+  "shop": "Lichi",
+  "title": "Платье-водолазка мини с юбкой",
+  "color": "коричневый",
+  "price": 7499,
+  "url": "https://lichi.com/ru/ru/product/52932",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T6/F3-1_1.jpg",
+   "sel-week/T6/F3-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F3-2",
+  "theme": "Тёмно-синее пальто",
+  "role": "F3",
+  "piece": "ремень",
+  "shop": "Befree",
+  "title": "Ремень брючный широкий из натуральной замши",
+  "color": "коричневый",
+  "price": 1599,
+  "url": "https://befree.ru/zhenskaya/product/BF2635346045/20",
+  "sizes_in_stock": [
+   "105 см",
+   "115 см",
+   "95 см"
+  ],
+  "files": [
+   "sel-week/T6/F3-2_1.jpg",
+   "sel-week/T6/F3-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F3-3",
+  "theme": "Тёмно-синее пальто",
+  "role": "F3",
+  "piece": "коричневые сапоги до колена",
+  "shop": "Rendez-Vous",
+  "title": "Женские сапоги TENDANCE",
+  "color": "шоколадный",
+  "price": 16720,
+  "url": "https://www.rendez-vous.ru/catalog/female/sapogi/tendance_gl1035_02_shokoladnyy-5128293/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T6/F3-3_1.jpg",
+   "sel-week/T6/F3-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F3-4",
+  "theme": "Тёмно-синее пальто",
+  "role": "F3",
+  "piece": "коричневый шарф",
+  "shop": "Love Republic",
+  "title": "Шарф с кашемиром и шерстью",
+  "color": "коричневый",
+  "price": 3599,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/scarves/339037/",
+  "sizes_in_stock": [
+   "190*53 см"
+  ],
+  "files": [
+   "sel-week/T6/F3-4_1.jpg",
+   "sel-week/T6/F3-4_2.jpg"
+  ]
+ },
+ {
+  "code": "T6-F3-5",
+  "theme": "Тёмно-синее пальто",
+  "role": "F3",
+  "piece": "сумка",
+  "shop": "Love Republic",
+  "title": "Сумка из фактурной экокожи",
+  "color": "коричневый",
+  "price": 4999,
+  "url": "https://loverepublic.ru/catalog/sumki/330505/",
+  "sizes_in_stock": [
+   "21,5*10,4*10,4 см"
+  ],
+  "files": [
+   "sel-week/T6/F3-5_1.jpg",
+   "sel-week/T6/F3-5_2.jpg"
+  ]
+ },
+ {
+  "code": "T7-K1",
+  "theme": "Высокие угги",
+  "role": "key",
+  "piece": "высокие угги",
+  "shop": "Befree",
+  "title": "Сапоги-унты высокие меховые",
+  "color": "молочный",
+  "price": 4999,
+  "url": "https://befree.ru/zhenskaya/product/BF2646685012/60",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T7/K1_1.jpg",
+   "sel-week/T7/K1_2.jpg"
+  ]
+ },
+ {
+  "code": "T7-K2",
+  "theme": "Высокие угги",
+  "role": "key",
+  "piece": "высокие угги",
+  "shop": "Rendez-Vous",
+  "title": "Женские сапоги TENDANCE",
+  "color": "светло-бежевый",
+  "price": 22810,
+  "url": "https://www.rendez-vous.ru/catalog/female/sapogi/tendance_pz2257_18_svetlo_bezhevyy-4724127/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T7/K2_1.jpg",
+   "sel-week/T7/K2_2.jpg"
+  ]
+ },
+ {
+  "code": "T7-K3",
+  "theme": "Высокие угги",
+  "role": "key",
+  "piece": "высокие угги",
+  "shop": "Rendez-Vous",
+  "title": "Женские сапоги TENDANCE",
+  "color": "пыльно-коричневый",
+  "price": 22110,
+  "url": "https://www.rendez-vous.ru/catalog/female/sapogi/tendance_pz2257_18_pyl_no_korichnevyy-4724018/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T7/K3_1.jpg",
+   "sel-week/T7/K3_2.jpg"
+  ]
+ },
+ {
+  "code": "T7-F1-1",
+  "theme": "Высокие угги",
+  "role": "F1",
+  "piece": "чёрный свитшот",
+  "shop": "Befree",
+  "title": "Свитшот свободный с воротником-стойкой",
+  "color": "черный",
+  "price": 3599,
+  "url": "https://befree.ru/zhenskaya/product/BF2641123017/50",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "files": [
+   "sel-week/T7/F1-1_1.jpg"
+  ]
+ },
+ {
+  "code": "T7-F1-2",
+  "theme": "Высокие угги",
+  "role": "F1",
+  "piece": "чёрные широкие брюки",
+  "shop": "Love Republic",
+  "title": "Брюки-палаццо с высокой посадкой",
+  "color": "черный",
+  "price": 5599,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/332357/",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "files": [
+   "sel-week/T7/F1-2_1.jpg",
+   "sel-week/T7/F1-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T7-F2-1",
+  "theme": "Высокие угги",
+  "role": "F2",
+  "piece": "угги с мехом наружу на отвороте",
+  "shop": "Rendez-Vous",
+  "title": "Женские угги TENDANCE",
+  "color": "темно-коричневый",
+  "price": 6640,
+  "url": "https://www.rendez-vous.ru/catalog/female/obuv-tipa-uggi/tendance_ys_38168d_41_temno_korichnevyy-4247248/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "files": [
+   "sel-week/T7/F2-1_1.jpg",
+   "sel-week/T7/F2-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T7-F2-2",
+  "theme": "Высокие угги",
+  "role": "F2",
+  "piece": "большие солнцезащитные очки",
+  "shop": "Lime",
+  "title": "Солнцезащитные очки в пластиковой оправе",
+  "color": "черный",
+  "price": 3599,
+  "url": "https://limestore.com/ru_ru/product/36919-2893_858_001_cernyi",
+  "sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "sel-week/T7/F2-2_1.jpg"
+  ]
+ },
+ {
+  "code": "T7-F2-3",
+  "theme": "Высокие угги",
+  "role": "F2",
+  "piece": "яркая сумка",
+  "shop": "Lime",
+  "title": "Сумка-цилиндр на плечо",
+  "color": "красный",
+  "price": 6599,
+  "url": "https://limestore.com/ru_ru/product/38281-0298_799_610_krasnyi",
+  "sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "sel-week/T7/F2-3_1.jpg",
+   "sel-week/T7/F2-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T7-F3-1",
+  "theme": "Высокие угги",
+  "role": "F3",
+  "piece": "куртка хаки",
+  "shop": "Lime",
+  "title": "Укороченная куртка под замшу",
+  "color": "хаки",
+  "price": 10999,
+  "url": "https://limestore.com/ru_ru/product/36260-7594_505_312_xaki",
+  "sizes_in_stock": [
+   "M"
+  ],
+  "files": [
+   "sel-week/T7/F3-1_1.jpg",
+   "sel-week/T7/F3-1_2.jpg"
+  ]
+ },
+ {
+  "code": "T7-F3-2",
+  "theme": "Высокие угги",
+  "role": "F3",
+  "piece": "рубашка в клетку",
+  "shop": "Lime",
+  "title": "Клетчатая рубашка оверсайз из фланели",
+  "color": "серый / красный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/37638-3370_253_918_seryi_krasnyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "files": [
+   "sel-week/T7/F3-2_1.jpg",
+   "sel-week/T7/F3-2_2.jpg"
+  ]
+ },
+ {
+  "code": "T7-F3-3",
+  "theme": "Высокие угги",
+  "role": "F3",
+  "piece": "джинсы",
+  "shop": "Love Republic",
+  "title": "Прямые джинсы с высокой посадкой",
+  "color": "синий",
+  "price": 6599,
+  "url": "https://loverepublic.ru/catalog/odezhda/dzhinsy/330407/",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "files": [
+   "sel-week/T7/F3-3_1.jpg",
+   "sel-week/T7/F3-3_2.jpg"
+  ]
+ },
+ {
+  "code": "T7-F3-4",
+  "theme": "Высокие угги",
+  "role": "F3",
+  "piece": "замшевая сумка",
+  "shop": "Befree",
+  "title": "Сумка-хобо замшевая",
+  "color": "зеленый",
+  "price": 4999,
+  "url": "https://befree.ru/zhenskaya/product/BF2635457084/13",
+  "sizes_in_stock": [
+   "Единый размер"
+  ],
+  "files": [
+   "sel-week/T7/F3-4_1.jpg",
+   "sel-week/T7/F3-4_2.jpg"
+  ]
+ }
+]
