@@ -1,0 +1,781 @@
+[
+ {
+  "code": "A2-K1",
+  "theme": "Чёрные легинсы",
+  "role": "key",
+  "piece": "чёрные легинсы",
+  "shop": "Lime",
+  "title": "Легинсы клеш из ткани интерлок с разрезами",
+  "color": "черный",
+  "price": 3599,
+  "url": "https://limestore.com/ru_ru/product/30266_2524_605-2524_605_001_cernyi",
+  "files": [
+   "sel-week/A2/K1_1.jpg",
+   "sel-week/A2/K1_2.jpg"
+  ],
+  "reused_from": "week-1611:T2-K1",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-K2",
+  "theme": "Чёрные легинсы",
+  "role": "key",
+  "piece": "чёрные легинсы",
+  "shop": "Love Republic",
+  "title": "Легинсы со штрипками",
+  "color": "черный",
+  "price": 3599,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/334027/",
+  "files": [
+   "sel-week/A2/K2_1.jpg",
+   "sel-week/A2/K2_2.jpg"
+  ],
+  "reused_from": "week-1611:T2-K2",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-K3",
+  "theme": "Чёрные легинсы",
+  "role": "key",
+  "piece": "чёрные легинсы",
+  "shop": "Befree",
+  "title": "Леггинсы из искусственной кожи со штрипками",
+  "color": "черный",
+  "price": 1999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641308012/50",
+  "files": [
+   "sel-week/A2/K3_1.jpg",
+   "sel-week/A2/K3_2.jpg"
+  ],
+  "reused_from": "week-1611:T2-K3",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-K4",
+  "theme": "Чёрные легинсы",
+  "role": "key",
+  "piece": "чёрные легинсы",
+  "shop": "Lichi",
+  "title": "Утепленные легинсы",
+  "color": "черный",
+  "price": 5499,
+  "url": "https://lichi.com/ru/ru/product/53031",
+  "files": [
+   "sel-week/A2/K4_1.jpg",
+   "sel-week/A2/K4_2.jpg"
+  ],
+  "reused_from": "week-1611:T2-K4",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F1-1",
+  "theme": "Чёрные легинсы",
+  "role": "F1",
+  "piece": "тёмно-синяя рубашка",
+  "shop": "Lime",
+  "title": "Джинсовая рубашка с роговыми пуговицами",
+  "color": "темно-синий",
+  "price": 6599,
+  "url": "https://limestore.com/ru_ru/product/34094-7423_405_402_temno_sinii",
+  "files": [
+   "sel-week/A2/F1-1_1.jpg",
+   "sel-week/A2/F1-1_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F1-2",
+  "theme": "Чёрные легинсы",
+  "role": "F1",
+  "piece": "юбка миди на запах",
+  "shop": "Befree",
+  "title": "Юбка-трапеция миди асимметричная на запах в полоску",
+  "color": "черный",
+  "price": 2599,
+  "url": "https://befree.ru/zhenskaya/product/BF2631312043/50",
+  "files": [
+   "sel-week/A2/F1-2_1.jpg",
+   "sel-week/A2/F1-2_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F1-3",
+  "theme": "Чёрные легинсы",
+  "role": "F1",
+  "piece": "чёрная кожаная куртка",
+  "shop": "Lime",
+  "title": "Куртка из ткани под кожу с поясом",
+  "color": "черный",
+  "price": 9999,
+  "url": "https://limestore.com/ru_ru/product/37599-7578_383_001_cernyi",
+  "files": [
+   "sel-week/A2/F1-3_1.jpg",
+   "sel-week/A2/F1-3_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F1-4",
+  "theme": "Чёрные легинсы",
+  "role": "F1",
+  "piece": "туфли-лодочки на каблуке",
+  "shop": "Lime",
+  "title": "Кожаные туфли с квадратным мысом",
+  "color": "черный",
+  "price": 11999,
+  "url": "https://limestore.com/ru_ru/product/35398-2071_993_001_cernyi",
+  "files": [
+   "sel-week/A2/F1-4_1.jpg",
+   "sel-week/A2/F1-4_2.jpg"
+  ],
+  "reused_from": "week-1611:T5-F1-3",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F2-1",
+  "theme": "Чёрные легинсы",
+  "role": "F2",
+  "piece": "белый лонгслив",
+  "shop": "Lichi",
+  "title": "Лонгслив с металлическим декором",
+  "color": "белый",
+  "price": 4999,
+  "url": "https://lichi.com/ru/ru/product/51617",
+  "files": [
+   "sel-week/A2/F2-1_1.jpg",
+   "sel-week/A2/F2-1_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F2-2",
+  "theme": "Чёрные легинсы",
+  "role": "F2",
+  "piece": "чёрное худи",
+  "shop": "Lichi",
+  "title": "Прилегающее худи с молнией на воротнике",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://lichi.com/ru/ru/product/50557",
+  "files": [
+   "sel-week/A2/F2-2_1.jpg",
+   "sel-week/A2/F2-2_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F2-3",
+  "theme": "Чёрные легинсы",
+  "role": "F2",
+  "piece": "короткая стёганая куртка",
+  "shop": "Love Republic",
+  "title": "Стеганая куртка с вельветовым воротником",
+  "color": "черный",
+  "price": 8999,
+  "url": "https://loverepublic.ru/catalog/odezhda/verhnyaya-odezhda/kurtki/333114/",
+  "files": [
+   "sel-week/A2/F2-3_1.jpg",
+   "sel-week/A2/F2-3_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F2-4",
+  "theme": "Чёрные легинсы",
+  "role": "F2",
+  "piece": "угги",
+  "shop": "Rendez-Vous",
+  "title": "Угги Tendance",
+  "color": "темно-коричневый",
+  "price": 6640,
+  "url": "https://www.rendez-vous.ru/catalog/female/obuv-tipa-uggi/tendance_ys_38168d_41_temno_korichnevyy-4247248/",
+  "files": [
+   "sel-week/A2/F2-4_1.jpg",
+   "sel-week/A2/F2-4_2.jpg"
+  ],
+  "reused_from": "week-1611b:T7-F2-1",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F3-1",
+  "theme": "Чёрные легинсы",
+  "role": "F3",
+  "piece": "пиджак оверсайз",
+  "shop": "Befree",
+  "title": "Пиджак оверсайз с подплечниками",
+  "color": "коричневый",
+  "price": 3999,
+  "url": "https://befree.ru/zhenskaya/product/BF2631305019/20",
+  "files": [
+   "sel-week/A2/F3-1_1.jpg",
+   "sel-week/A2/F3-1_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F3-2",
+  "theme": "Чёрные легинсы",
+  "role": "F3",
+  "piece": "сапоги со сборками (слауч)",
+  "shop": "Befree",
+  "title": "Казаки высокие со сборками на голенище и ремешками",
+  "color": "черный",
+  "price": 4999,
+  "url": "https://befree.ru/zhenskaya/product/BF2636684001/50",
+  "files": [
+   "sel-week/A2/F3-2_1.jpg",
+   "sel-week/A2/F3-2_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F4-1",
+  "theme": "Чёрные легинсы",
+  "role": "F4",
+  "piece": "белая рубашка",
+  "shop": "Love Republic",
+  "title": "Рубашка из хлопка",
+  "color": "белый",
+  "price": 4599,
+  "url": "https://loverepublic.ru/catalog/odezhda/bluzy/317410/",
+  "files": [
+   "sel-week/A2/F4-1_1.jpg",
+   "sel-week/A2/F4-1_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "44",
+   "42"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F4-2",
+  "theme": "Чёрные легинсы",
+  "role": "F4",
+  "piece": "джемпер",
+  "shop": "Love Republic",
+  "title": "Укороченный джемпер с шерстью",
+  "color": "бежевый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/odezhda/trikotazh/dzhempery/336397/",
+  "files": [
+   "sel-week/A2/F4-2_1.jpg",
+   "sel-week/A2/F4-2_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A2-F4-3",
+  "theme": "Чёрные легинсы",
+  "role": "F4",
+  "piece": "длинное пальто",
+  "shop": "Lichi",
+  "title": "Пальто макси кроя оверсайз с застежкой на воротнике",
+  "color": "черный",
+  "price": 19999,
+  "url": "https://lichi.com/ru/ru/product/52651",
+  "files": [
+   "sel-week/A2/F4-3_1.jpg",
+   "sel-week/A2/F4-3_2.jpg"
+  ],
+  "reused_from": "week-1611b:T6-K3",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-K1",
+  "theme": "Длинное пальто",
+  "role": "key",
+  "piece": "серое длинное пальто",
+  "shop": "Lime",
+  "title": "Пальто оверсайз из шерсти",
+  "color": "серый меланж",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/38036-8880_457_032_seryi_melanz",
+  "files": [
+   "sel-week/A3/K1_1.jpg",
+   "sel-week/A3/K1_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-K2",
+  "theme": "Длинное пальто",
+  "role": "key",
+  "piece": "серое длинное пальто",
+  "shop": "Lichi",
+  "title": "Приталенное пальто миди с объемными рукавами",
+  "color": "серый",
+  "price": 19999,
+  "url": "https://lichi.com/ru/ru/product/52653",
+  "files": [
+   "sel-week/A3/K2_1.jpg",
+   "sel-week/A3/K2_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-K3",
+  "theme": "Длинное пальто",
+  "role": "key",
+  "piece": "чёрное длинное пальто",
+  "shop": "Lime",
+  "title": "Двубортное пальто оверсайз из шерсти",
+  "color": "черный",
+  "price": 15999,
+  "url": "https://limestore.com/ru_ru/product/37070-1278_539_001_cernyi",
+  "files": [
+   "sel-week/A3/K3_1.jpg",
+   "sel-week/A3/K3_2.jpg"
+  ],
+  "reused_from": "week-1611b:T6-K2",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-K4",
+  "theme": "Длинное пальто",
+  "role": "key",
+  "piece": "чёрное длинное пальто",
+  "shop": "Lichi",
+  "title": "Пальто макси кроя оверсайз с застежкой на воротнике",
+  "color": "черный",
+  "price": 19999,
+  "url": "https://lichi.com/ru/ru/product/52651",
+  "files": [
+   "sel-week/A3/K4_1.jpg",
+   "sel-week/A3/K4_2.jpg"
+  ],
+  "reused_from": "week-1611b:T6-K3",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F1-1",
+  "theme": "Длинное пальто",
+  "role": "F1",
+  "piece": "чёрный пиджак",
+  "shop": "Love Republic",
+  "title": "Однобортный жакет",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://loverepublic.ru/catalog/odezhda/zhakety/331869/",
+  "files": [
+   "sel-week/A3/F1-1_1.jpg",
+   "sel-week/A3/F1-1_2.jpg"
+  ],
+  "reused_from": "week-1611:T4-F1-1",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F1-2",
+  "theme": "Длинное пальто",
+  "role": "F1",
+  "piece": "белая футболка",
+  "shop": "Befree",
+  "title": "Футболка облегающая из вискозы",
+  "color": "белый",
+  "price": 799,
+  "url": "https://befree.ru/zhenskaya/product/BF2631120014/1",
+  "files": [
+   "sel-week/A3/F1-2_1.jpg",
+   "sel-week/A3/F1-2_2.jpg"
+  ],
+  "reused_from": "week-1611:T5-F3-1",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F1-3",
+  "theme": "Длинное пальто",
+  "role": "F1",
+  "piece": "голубые джинсы",
+  "shop": "Befree",
+  "title": "Джинсы прямые с высокой посадкой и поясом",
+  "color": "голубой",
+  "price": 2299,
+  "url": "https://befree.ru/zhenskaya/product/BF2631209026/102",
+  "files": [
+   "sel-week/A3/F1-3_1.jpg",
+   "sel-week/A3/F1-3_2.jpg"
+  ],
+  "reused_from": "week-1611:T1-F1-2",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F1-4",
+  "theme": "Длинное пальто",
+  "role": "F1",
+  "piece": "яркие ботильоны",
+  "shop": "Rendez-Vous",
+  "title": "Ботильоны Tendance",
+  "color": "бордовый",
+  "price": 10490,
+  "url": "https://www.rendez-vous.ru/catalog/female/botilony/tendance_tw_258_3_bordovyy-5004327/",
+  "files": [
+   "sel-week/A3/F1-4_1.jpg",
+   "sel-week/A3/F1-4_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "38",
+   "39"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F2-1",
+  "theme": "Длинное пальто",
+  "role": "F2",
+  "piece": "футболка",
+  "shop": "Lime",
+  "title": "Футболка из хлопка и вискозы",
+  "color": "черный",
+  "price": 2299,
+  "url": "https://limestore.com/ru_ru/product/24236_4105_688-cernyi",
+  "files": [
+   "sel-week/A3/F2-1_1.jpg",
+   "sel-week/A3/F2-1_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F2-2",
+  "theme": "Длинное пальто",
+  "role": "F2",
+  "piece": "худи из футера (костюм)",
+  "shop": "Lichi",
+  "title": "Свободное худи из футера",
+  "color": "серый",
+  "price": 8999,
+  "url": "https://lichi.com/ru/ru/product/51632",
+  "files": [
+   "sel-week/A3/F2-2_1.jpg",
+   "sel-week/A3/F2-2_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F2-3",
+  "theme": "Длинное пальто",
+  "role": "F2",
+  "piece": "широкие брюки из футера (костюм)",
+  "shop": "Lichi",
+  "title": "Свободные брюки из футера",
+  "color": "серый",
+  "price": 7499,
+  "url": "https://lichi.com/ru/ru/product/51633",
+  "files": [
+   "sel-week/A3/F2-3_1.jpg",
+   "sel-week/A3/F2-3_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F2-4",
+  "theme": "Длинное пальто",
+  "role": "F2",
+  "piece": "кроссовки",
+  "shop": "Rendez-Vous",
+  "title": "Кроссовки Caprice Kaia",
+  "color": "молочно-белый",
+  "price": 7800,
+  "url": "https://www.rendez-vous.ru/catalog/female/krossovki/caprice_9_9_23708_45_molochno_belyy-4578721/",
+  "files": [
+   "sel-week/A3/F2-4_1.jpg",
+   "sel-week/A3/F2-4_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F3-1",
+  "theme": "Длинное пальто",
+  "role": "F3",
+  "piece": "чёрная водолазка",
+  "shop": "Love Republic",
+  "title": "Водолазка с акцентными швами",
+  "color": "черный",
+  "price": 3999,
+  "url": "https://loverepublic.ru/catalog/odezhda/trikotazh/vodolazki/336842/",
+  "files": [
+   "sel-week/A3/F3-1_1.jpg",
+   "sel-week/A3/F3-1_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F3-2",
+  "theme": "Длинное пальто",
+  "role": "F3",
+  "piece": "голубые джинсы",
+  "shop": "Befree",
+  "title": "Джинсы широкие из лиоцелла со средней посадкой",
+  "color": "голубой",
+  "price": 1999,
+  "url": "https://befree.ru/zhenskaya/product/BF2631209032/102",
+  "files": [
+   "sel-week/A3/F3-2_1.jpg",
+   "sel-week/A3/F3-2_2.jpg"
+  ],
+  "reused_from": "week-1611:T3-F2-1",
+  "sizes_in_stock": [
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F3-3",
+  "theme": "Длинное пальто",
+  "role": "F3",
+  "piece": "белые носки",
+  "shop": "Befree",
+  "title": "Носки высокие в рубчик",
+  "color": "белый",
+  "price": 199,
+  "url": "https://befree.ru/zhenskaya/product/BF2534934024/1",
+  "files": [
+   "sel-week/A3/F3-3_1.jpg",
+   "sel-week/A3/F3-3_2.jpg"
+  ],
+  "reused_from": "week-1611:T2-F3-2",
+  "sizes_in_stock": [
+   "36-38",
+   "39-41"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F3-4",
+  "theme": "Длинное пальто",
+  "role": "F3",
+  "piece": "лоферы",
+  "shop": "Rendez-Vous",
+  "title": "Высокие лоферы Tendance",
+  "color": "черный",
+  "price": 8320,
+  "url": "https://www.rendez-vous.ru/catalog/female/lofery/tendance_ys_2299k_10l_chernyy-4747919/",
+  "files": [
+   "sel-week/A3/F3-4_1.jpg",
+   "sel-week/A3/F3-4_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F4-1",
+  "theme": "Длинное пальто",
+  "role": "F4",
+  "piece": "белый лонгслив",
+  "shop": "Lime",
+  "title": "Свободный лонгслив из хлопка",
+  "color": "белый",
+  "price": 2599,
+  "url": "https://limestore.com/ru_ru/product/34978-1583_776_110_belyi",
+  "files": [
+   "sel-week/A3/F4-1_1.jpg",
+   "sel-week/A3/F4-1_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F4-2",
+  "theme": "Длинное пальто",
+  "role": "F4",
+  "piece": "серый кардиган",
+  "shop": "Love Republic",
+  "title": "Кардиган с шерстью",
+  "color": "серый",
+  "price": 5999,
+  "url": "https://loverepublic.ru/catalog/odezhda/trikotazh/kardigany/336232/",
+  "files": [
+   "sel-week/A3/F4-2_1.jpg",
+   "sel-week/A3/F4-2_2.jpg"
+  ],
+  "reused_from": "week-1611:T1-F2-1",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F4-3",
+  "theme": "Длинное пальто",
+  "role": "F4",
+  "piece": "серые брюки палаццо",
+  "shop": "Love Republic",
+  "title": "Брюки-палаццо с ремнем",
+  "color": "серый",
+  "price": 8999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/336435/",
+  "files": [
+   "sel-week/A3/F4-3_1.jpg",
+   "sel-week/A3/F4-3_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "42"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F4-4",
+  "theme": "Длинное пальто",
+  "role": "F4",
+  "piece": "белые носки",
+  "shop": "Befree",
+  "title": "Носки высокие в рубчик",
+  "color": "белый",
+  "price": 199,
+  "url": "https://befree.ru/zhenskaya/product/BF2534934024/1",
+  "files": [
+   "sel-week/A3/F4-4_1.jpg",
+   "sel-week/A3/F4-4_2.jpg"
+  ],
+  "reused_from": "week-1611:T2-F3-2",
+  "sizes_in_stock": [
+   "36-38",
+   "39-41"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A3-F4-5",
+  "theme": "Длинное пальто",
+  "role": "F4",
+  "piece": "яркие лоферы",
+  "shop": "Rendez-Vous",
+  "title": "Лоферы Tendance",
+  "color": "темно-бордовый",
+  "price": 6250,
+  "url": "https://www.rendez-vous.ru/catalog/female/lofery/tendance_gl215_01_temno_bordovyy-4872328/",
+  "files": [
+   "sel-week/A3/F4-5_1.jpg",
+   "sel-week/A3/F4-5_2.jpg"
+  ],
+  "reused_from": "week-1611b:T6-F1-5",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "checked": "2026-11-15"
+ }
+]
