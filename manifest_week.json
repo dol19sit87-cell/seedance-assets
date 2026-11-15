@@ -1,0 +1,272 @@
+[
+ {
+  "code": "A1-K1",
+  "theme": "Серый жакет",
+  "role": "key",
+  "piece": "серый жакет",
+  "shop": "Befree",
+  "title": "Пиджак прямой двубортный",
+  "color": "серый",
+  "price": 3999,
+  "url": "https://befree.ru/zhenskaya/product/BF2631305022/38",
+  "files": [
+   "sel-week/A1/K1_1.jpg",
+   "sel-week/A1/K1_2.jpg"
+  ],
+  "reused_from": "week-1611:T1-K1",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-K2",
+  "theme": "Серый жакет",
+  "role": "key",
+  "piece": "серый жакет",
+  "shop": "Love Republic",
+  "title": "Приталенный двубортный жакет с вискозой",
+  "color": "серый",
+  "price": 13999,
+  "url": "https://loverepublic.ru/catalog/odezhda/zhakety/329551/",
+  "files": [
+   "sel-week/A1/K2_1.jpg",
+   "sel-week/A1/K2_2.jpg"
+  ],
+  "reused_from": "week-1611:T1-K2",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-K3",
+  "theme": "Серый жакет",
+  "role": "key",
+  "piece": "серый жакет",
+  "shop": "Lime",
+  "title": "Двубортный жакет асимметричного кроя",
+  "color": "темно-серый меланж",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/37630-1612_421_023_temno_seryi_melanz",
+  "files": [
+   "sel-week/A1/K3_1.jpg",
+   "sel-week/A1/K3_2.jpg"
+  ],
+  "reused_from": "week-1611:T1-K3",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-K4",
+  "theme": "Серый жакет",
+  "role": "key",
+  "piece": "серый жакет",
+  "shop": "Lichi",
+  "title": "Приталенный жакет из костюмной ткани",
+  "color": "серый",
+  "price": 8999,
+  "url": "https://lichi.com/ru/ru/product/47740",
+  "files": [
+   "sel-week/A1/K4_1.jpg",
+   "sel-week/A1/K4_2.jpg"
+  ],
+  "reused_from": "week-1611:T1-K4",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-F1-1",
+  "theme": "Серый жакет",
+  "role": "F1",
+  "piece": "белый джемпер",
+  "shop": "Lichi",
+  "title": "Свитер из мохера с шерстью",
+  "color": "белый",
+  "price": 7499,
+  "url": "https://lichi.com/ru/ru/product/53095",
+  "files": [
+   "sel-week/A1/F1-1_1.jpg",
+   "sel-week/A1/F1-1_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-F1-2",
+  "theme": "Серый жакет",
+  "role": "F1",
+  "piece": "чёрные кожаные брюки",
+  "shop": "Befree",
+  "title": "Брюки облегающие из искусственной кожи со средней посадкой",
+  "color": "черный",
+  "price": 2999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641308013/50",
+  "files": [
+   "sel-week/A1/F1-2_1.jpg",
+   "sel-week/A1/F1-2_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-F1-3",
+  "theme": "Серый жакет",
+  "role": "F1",
+  "piece": "ботильоны с острым носом",
+  "shop": "Rendez-Vous",
+  "title": "Ботильоны Tendance с острым носом",
+  "color": "черный",
+  "price": 12380,
+  "url": "https://www.rendez-vous.ru/catalog/female/botilony/tendance_lt070_401_chernyy-4565027/",
+  "files": [
+   "sel-week/A1/F1-3_1.jpg",
+   "sel-week/A1/F1-3_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-F2-1",
+  "theme": "Серый жакет",
+  "role": "F2",
+  "piece": "белая рубашка",
+  "shop": "Love Republic",
+  "title": "Рубашка из хлопка",
+  "color": "белый",
+  "price": 4599,
+  "url": "https://loverepublic.ru/catalog/odezhda/bluzy/317410/",
+  "files": [
+   "sel-week/A1/F2-1_1.jpg",
+   "sel-week/A1/F2-1_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "44",
+   "42"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-F2-2",
+  "theme": "Серый жакет",
+  "role": "F2",
+  "piece": "чёрные джинсы",
+  "shop": "Befree",
+  "title": "Джинсы прямые со средней посадкой",
+  "color": "черный",
+  "price": 3599,
+  "url": "https://befree.ru/zhenskaya/product/BF2631209053/50",
+  "files": [
+   "sel-week/A1/F2-2_1.jpg"
+  ],
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-F2-3",
+  "theme": "Серый жакет",
+  "role": "F2",
+  "piece": "сапоги на плоской подошве",
+  "shop": "Rendez-Vous",
+  "title": "Сапоги Marco Tozzi Faustino на плоской подошве",
+  "color": "черный",
+  "price": 9080,
+  "url": "https://www.rendez-vous.ru/catalog/female/sapogi/marco_tozzi_2_2_25645_47_chernyy-5105399/",
+  "files": [
+   "sel-week/A1/F2-3_1.jpg",
+   "sel-week/A1/F2-3_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-F3-1",
+  "theme": "Серый жакет",
+  "role": "F3",
+  "piece": "чёрная водолазка",
+  "shop": "Lichi",
+  "title": "Трикотажная водолазка в рубчик",
+  "color": "черный",
+  "price": 3299,
+  "url": "https://lichi.com/ru/ru/product/50157",
+  "files": [
+   "sel-week/A1/F3-1_1.jpg",
+   "sel-week/A1/F3-1_2.jpg"
+  ],
+  "reused_from": "week-1611:T3-F3-1",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-F3-2",
+  "theme": "Серый жакет",
+  "role": "F3",
+  "piece": "чёрная мини-юбка",
+  "shop": "Love Republic",
+  "title": "Юбка мини из экокожи с ремнем",
+  "color": "черный",
+  "price": 5599,
+  "url": "https://loverepublic.ru/catalog/odezhda/yubki/329194/",
+  "files": [
+   "sel-week/A1/F3-2_1.jpg",
+   "sel-week/A1/F3-2_2.jpg"
+  ],
+  "reused_from": "week-1611:T3-F1-1",
+  "sizes_in_stock": [
+   "46",
+   "44",
+   "42"
+  ],
+  "checked": "2026-11-15"
+ },
+ {
+  "code": "A1-F3-3",
+  "theme": "Серый жакет",
+  "role": "F3",
+  "piece": "жокейские сапоги",
+  "shop": "Lime",
+  "title": "Жокейские сапоги из телячьей кожи",
+  "color": "темно-коричневый",
+  "price": 17999,
+  "url": "https://limestore.com/ru_ru/product/38642-0550_901_201_temno_koricnevyi",
+  "files": [
+   "sel-week/A1/F3-3_1.jpg",
+   "sel-week/A1/F3-3_2.jpg"
+  ],
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "checked": "2026-11-15"
+ }
+]
