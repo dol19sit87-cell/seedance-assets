@@ -1,0 +1,622 @@
+[
+ {
+  "code": "L01-top",
+  "look": "L01",
+  "occasion": "Дома с семьёй",
+  "slot": "top",
+  "shop": "Lichi",
+  "title": "Свитер из фактурного трикотажа с деталями в рубчик",
+  "color": "Красный",
+  "price": 3999,
+  "url": "https://lichi.com/ru/ru/product/50069",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "XS",
+   "S",
+   "M"
+  ],
+  "files": [
+   "ny/L01_top_1.jpg",
+   "ny/L01_top_2.jpg"
+  ],
+  "packshot_file": "ny/L01_top_1.jpg",
+  "photo_urls": [
+   "https://static.lichishop.ru/product/50069/90589aec28731f3b49cdcc4e602305df.jpg",
+   "https://static.lichishop.ru/product/50069/222de836c450734d73cb89daf84270ec.jpg"
+  ],
+  "checked": "2026-11-22",
+  "note": "textured knit"
+ },
+ {
+  "code": "L01-skirt",
+  "look": "L01",
+  "occasion": "Дома с семьёй",
+  "slot": "skirt",
+  "shop": "Lime",
+  "title": "Миди-юбка из сатина с деталью в бельевом стиле",
+  "color": "молочный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/39466-4903_946_120_molocnyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "files": [
+   "ny/L01_skirt_1.jpg",
+   "ny/L01_skirt_2.jpg"
+  ],
+  "packshot_file": "ny/L01_skirt_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/33c613e85ec35c15ac462564449d4c7b.jpeg",
+   "https://a.cdn.lime-shine.com/p/44d94a61c3b75ac2b7cd2ce8a82545f9.jpeg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L01-shoes",
+  "look": "L01",
+  "occasion": "Дома с семьёй",
+  "slot": "shoes",
+  "shop": "Rendez-Vous",
+  "title": "Женские балетки TENDANCE",
+  "color": "светло-бежевый",
+  "price": 7460,
+  "url": "https://www.rendez-vous.ru/catalog/female/baletki/tendance_ys_58277a_2_svetlo_bezhevyy-5062899/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "all_sizes_in_stock": [
+   "35",
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "files": [
+   "ny/L01_shoes_1.jpg",
+   "ny/L01_shoes_2.jpg"
+  ],
+  "packshot_file": "ny/L01_shoes_1.jpg",
+  "photo_urls": [
+   "https://static.rendez-vous.ru/files/catalog_images/5062899_baletki_tendance_ys_58277a_2_svetlo_bezhevyy_meh_natural_nyy_5.jpg",
+   "https://static.rendez-vous.ru/files/catalog_images/5062899_baletki_tendance_ys_58277a_2_svetlo_bezhevyy_meh_natural_nyy_11.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L01-acc",
+  "look": "L01",
+  "occasion": "Дома с семьёй",
+  "slot": "acc",
+  "shop": "Lime",
+  "title": "Металлические серьги-конго",
+  "color": "золотой",
+  "price": 1599,
+  "url": "https://limestore.com/ru_ru/product/35920-2156_012_710_zolotoi",
+  "sizes_in_stock": [
+   "один размер"
+  ],
+  "all_sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "ny/L01_acc_1.jpg",
+   "ny/L01_acc_2.jpg"
+  ],
+  "packshot_file": "ny/L01_acc_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/329b7514289f54fa9a7e2572f4f55569.jpeg",
+   "https://a.cdn.lime-shine.com/p/ea3506dd70e45df2b250f1ac6c2b0f2a.jpeg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L02-top",
+  "look": "L02",
+  "occasion": "Дома с семьёй",
+  "slot": "top",
+  "shop": "Love Republic",
+  "title": "Футболка из хлопка с вышивкой бисером",
+  "color": "белый",
+  "price": 3999,
+  "url": "https://loverepublic.ru/catalog/odezhda/futbolki/338359/",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "all_sizes_in_stock": [
+   "L",
+   "M",
+   "S",
+   "XS",
+   "XXS"
+  ],
+  "files": [
+   "ny/L02_top_1.jpg",
+   "ny/L02_top_2.jpg"
+  ],
+  "packshot_file": "ny/L02_top_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.loverepublic.ru/upload/images/64521/6452106330_1_4.jpg",
+   "https://imgcdn.loverepublic.ru/upload/images/64521/6452106330_1.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L02-bottom",
+  "look": "L02",
+  "occasion": "Дома с семьёй",
+  "slot": "bottom",
+  "shop": "Lime",
+  "title": "Прямые джинсы с высокой посадкой",
+  "color": "состаренный синий",
+  "price": 4999,
+  "url": "https://limestore.com/ru_ru/product/32388_6278_815-6278_815_433_sostarennyi_sinii",
+  "sizes_in_stock": [
+   "36",
+   "38"
+  ],
+  "all_sizes_in_stock": [
+   "34",
+   "36",
+   "38",
+   "40",
+   "42",
+   "44"
+  ],
+  "files": [
+   "ny/L02_bottom_1.jpg",
+   "ny/L02_bottom_2.jpg"
+  ],
+  "packshot_file": "ny/L02_bottom_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/abf73b0abbbe58c8988fa44f17d3e691.jpeg",
+   "https://a.cdn.lime-shine.com/p/660f94a58bc553a2b7befc2240e59c78.jpeg"
+  ],
+  "checked": "2026-11-22",
+  "note": "Lime jeans sizes are EU: 36=RU 42, 38=RU 44"
+ },
+ {
+  "code": "L02-shoes",
+  "look": "L02",
+  "occasion": "Дома с семьёй",
+  "slot": "shoes",
+  "shop": "Befree",
+  "title": "Лоферы на каблуке из искусственной кожи под крокодила",
+  "color": "бордовый",
+  "price": 2999,
+  "url": "https://befree.ru/zhenskaya/product/BF2636686003/71",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "all_sizes_in_stock": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40"
+  ],
+  "files": [
+   "ny/L02_shoes_1.jpg",
+   "ny/L02_shoes_2.jpg"
+  ],
+  "packshot_file": "ny/L02_shoes_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.befree.ru/rest/V1/images/1280/product/images/BF2636686003/BF2636686003_71_3.jpg",
+   "https://imgcdn.befree.ru/rest/V1/images/1280/product/images/BF2636686003/BF2636686003_71_11.jpg"
+  ],
+  "checked": "2026-11-22",
+  "note": "small block heel"
+ },
+ {
+  "code": "L02-acc",
+  "look": "L02",
+  "occasion": "Дома с семьёй",
+  "slot": "acc",
+  "shop": "Love Republic",
+  "title": "Геометричные серьги из латуни",
+  "color": "золотой",
+  "price": 1999,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/earrings/335543/",
+  "sizes_in_stock": [
+   "один размер"
+  ],
+  "all_sizes_in_stock": [
+   "один размер"
+  ],
+  "files": [
+   "ny/L02_acc_1.jpg",
+   "ny/L02_acc_2.jpg"
+  ],
+  "packshot_file": "ny/L02_acc_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.loverepublic.ru/upload/images/64494/644948050_6_4.jpg",
+   "https://imgcdn.loverepublic.ru/upload/images/64494/644948050_6_0.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L03-top",
+  "look": "L03",
+  "occasion": "В гостях у друзей",
+  "slot": "top",
+  "shop": "Lime",
+  "title": "Топ с отделкой пайетками",
+  "color": "коричневый",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/39313-5318_000_210_koricnevyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "files": [
+   "ny/L03_top_1.jpg",
+   "ny/L03_top_2.jpg"
+  ],
+  "packshot_file": "ny/L03_top_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/dd8acc4879cb58c38c4069dd296b078d.jpeg",
+   "https://a.cdn.lime-shine.com/p/7c5115941b6152cba14f7fb2a50a8ef7.jpeg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L03-bottom",
+  "look": "L03",
+  "occasion": "В гостях у друзей",
+  "slot": "bottom",
+  "shop": "Lime",
+  "title": "Прямые джинсы с высокой посадкой",
+  "color": "темно-синий",
+  "price": 5599,
+  "url": "https://limestore.com/ru_ru/product/33238-5425_533_402_temno_sinii",
+  "sizes_in_stock": [
+   "36",
+   "38"
+  ],
+  "all_sizes_in_stock": [
+   "34",
+   "36",
+   "38",
+   "40",
+   "42",
+   "44"
+  ],
+  "files": [
+   "ny/L03_bottom_1.jpg",
+   "ny/L03_bottom_2.jpg"
+  ],
+  "packshot_file": "ny/L03_bottom_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/7c2a0f84f7de5d2895fae682fa066779.jpeg",
+   "https://a.cdn.lime-shine.com/p/07a993d9566a5af999ce9ddf9f9dc6ea.jpeg"
+  ],
+  "checked": "2026-11-22",
+  "note": "Lime jeans sizes are EU: 36=RU 42, 38=RU 44"
+ },
+ {
+  "code": "L03-shoes",
+  "look": "L03",
+  "occasion": "В гостях у друзей",
+  "slot": "shoes",
+  "shop": "Rendez-Vous",
+  "title": "Женские туфли с открытой пяткой (слинг-бэк) TENDANCE",
+  "color": "серебряный",
+  "price": 6490,
+  "url": "https://www.rendez-vous.ru/catalog/female/tufli/tendance_igg935_1_serebryanyy-4440972/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "all_sizes_in_stock": [
+   "35",
+   "36",
+   "37",
+   "38",
+   "39",
+   "40"
+  ],
+  "files": [
+   "ny/L03_shoes_1.jpg",
+   "ny/L03_shoes_2.jpg"
+  ],
+  "packshot_file": "ny/L03_shoes_1.jpg",
+  "photo_urls": [
+   "https://static.rendez-vous.ru/files/catalog_models/4440972_tufli_tendance_igg935_1_serebryanyy_kozha_natural_naya.jpg",
+   "https://static.rendez-vous.ru/files/catalog_images/4440972_tufli_tendance_igg935_1_serebryanyy_kozha_natural_naya_2.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L03-bag",
+  "look": "L03",
+  "occasion": "В гостях у друзей",
+  "slot": "bag",
+  "shop": "Love Republic",
+  "title": "Бархатная сумка с фермуаром",
+  "color": "черный",
+  "price": 4999,
+  "url": "https://loverepublic.ru/catalog/sumki/337923/",
+  "sizes_in_stock": [
+   "один размер"
+  ],
+  "all_sizes_in_stock": [
+   "16.5*6*20 см"
+  ],
+  "files": [
+   "ny/L03_bag_1.jpg",
+   "ny/L03_bag_2.jpg"
+  ],
+  "packshot_file": "ny/L03_bag_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.loverepublic.ru/upload/images/64422/644220087_50_5.jpg",
+   "https://imgcdn.loverepublic.ru/upload/images/64422/644220087_50_0.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L04-dress",
+  "look": "L04",
+  "occasion": "В гостях у друзей",
+  "slot": "dress",
+  "shop": "Love Republic",
+  "title": "Бархатное платье миди с драпировками",
+  "color": "коричневый",
+  "price": 9999,
+  "url": "https://loverepublic.ru/catalog/odezhda/platya/333759/",
+  "sizes_in_stock": [
+   "42"
+  ],
+  "all_sizes_in_stock": [
+   "42",
+   "40"
+  ],
+  "files": [
+   "ny/L04_dress_1.jpg",
+   "ny/L04_dress_2.jpg"
+  ],
+  "packshot_file": "ny/L04_dress_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.loverepublic.ru/upload/images/64516/6451616522_22_4.jpg",
+   "https://imgcdn.loverepublic.ru/upload/images/64516/6451616522_22.jpg"
+  ],
+  "checked": "2026-11-22",
+  "note": "very dark chocolate, can read near-black; only RU 42 of the target sizes in stock (also 40)"
+ },
+ {
+  "code": "L04-tights",
+  "look": "L04",
+  "occasion": "В гостях у друзей",
+  "slot": "tights",
+  "shop": "Befree",
+  "title": "Колготки 30 den с высокой посадкой",
+  "color": "черный",
+  "price": 699,
+  "url": "https://befree.ru/zhenskaya/product/30DEN6/50",
+  "sizes_in_stock": [
+   "2",
+   "3"
+  ],
+  "all_sizes_in_stock": [
+   "1",
+   "2",
+   "3"
+  ],
+  "files": [
+   "ny/L04_tights_2.jpg"
+  ],
+  "packshot_file": null,
+  "photo_urls": [
+   "https://imgcdn.befree.ru/rest/V1/images/1280/product/images/30DEN6/30DEN6_50_1.jpg"
+  ],
+  "checked": "2026-11-22",
+  "note": "no packshot in shop: _2 is legs-on-model crop on plain background"
+ },
+ {
+  "code": "L04-shoes",
+  "look": "L04",
+  "occasion": "В гостях у друзей",
+  "slot": "shoes",
+  "shop": "Rendez-Vous",
+  "title": "Женские туфли TAMARIS NYRA",
+  "color": "винный",
+  "price": 8110,
+  "url": "https://www.rendez-vous.ru/catalog/female/tufli/tamaris_1_1_22456_47_vinnyy-5092353/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "all_sizes_in_stock": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40"
+  ],
+  "files": [
+   "ny/L04_shoes_1.jpg"
+  ],
+  "packshot_file": "ny/L04_shoes_1.jpg",
+  "photo_urls": [
+   "https://static.rendez-vous.ru/files/catalog_images/5092353_tufli_tamaris_1_1_22456_47_vinnyy_zamsha_natural_naya_3.jpg"
+  ],
+  "checked": "2026-11-22",
+  "note": "no worn shot in shop"
+ },
+ {
+  "code": "L04-acc",
+  "look": "L04",
+  "occasion": "В гостях у друзей",
+  "slot": "acc",
+  "shop": "Love Republic",
+  "title": "Объемные серьги из мятого металла",
+  "color": "золотой",
+  "price": 1999,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/earrings/335539/",
+  "sizes_in_stock": [
+   "один размер"
+  ],
+  "all_sizes_in_stock": [
+   "один размер"
+  ],
+  "files": [
+   "ny/L04_acc_1.jpg",
+   "ny/L04_acc_2.jpg"
+  ],
+  "packshot_file": "ny/L04_acc_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.loverepublic.ru/upload/images/64494/644948047_6_4.jpg",
+   "https://imgcdn.loverepublic.ru/upload/images/64494/644948047_6.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L05-coat",
+  "look": "L05",
+  "occasion": "Ресторан",
+  "slot": "coat",
+  "shop": "Befree",
+  "title": "Шуба короткая утепленная",
+  "color": "молочный",
+  "price": 9999,
+  "url": "https://befree.ru/zhenskaya/product/BF2641602029/60",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "all_sizes_in_stock": [
+   "L",
+   "M",
+   "S",
+   "XL",
+   "XS"
+  ],
+  "files": [
+   "ny/L05_coat_1.jpg",
+   "ny/L05_coat_2.jpg"
+  ],
+  "packshot_file": "ny/L05_coat_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.befree.ru/rest/V1/images/1280/product/images/BF2641602029/BF2641602029_60_100.jpg",
+   "https://imgcdn.befree.ru/rest/V1/images/1280/product/images/BF2641602029/BF2641602029_60_3.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L05-dress",
+  "look": "L05",
+  "occasion": "Ресторан",
+  "slot": "dress",
+  "shop": "Lime",
+  "title": "Миди-платье из атласа с кружевом",
+  "color": "черный",
+  "price": 6999,
+  "url": "https://limestore.com/ru_ru/product/36655-1500_593_001_cernyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "files": [
+   "ny/L05_dress_1.jpg",
+   "ny/L05_dress_2.jpg"
+  ],
+  "packshot_file": "ny/L05_dress_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/a87328d727045b269ecceaf857db7523.jpeg",
+   "https://a.cdn.lime-shine.com/p/399744dda212599ca824e510a33d2239.jpeg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L05-shoes",
+  "look": "L05",
+  "occasion": "Ресторан",
+  "slot": "shoes",
+  "shop": "Lime",
+  "title": "Босоножки из ткани под кожу на каблуке",
+  "color": "золотой",
+  "price": 10999,
+  "url": "https://limestore.com/ru_ru/product/39624-4938_194_710_zolotoi",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "all_sizes_in_stock": [
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "files": [
+   "ny/L05_shoes_1.jpg",
+   "ny/L05_shoes_2.jpg"
+  ],
+  "packshot_file": "ny/L05_shoes_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/572566c881595ba7a1066aac8e0566a9.jpeg",
+   "https://a.cdn.lime-shine.com/p/1ec4ec6f53e95d5c86e37ff6519b0058.jpeg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L05-bag",
+  "look": "L05",
+  "occasion": "Ресторан",
+  "slot": "bag",
+  "shop": "Lime",
+  "title": "Клатч с анималистичным тиснением",
+  "color": "красный",
+  "price": 8999,
+  "url": "https://limestore.com/ru_ru/product/39035-4957_824_610_krasnyi",
+  "sizes_in_stock": [
+   "один размер"
+  ],
+  "all_sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "ny/L05_bag_1.jpg",
+   "ny/L05_bag_2.jpg"
+  ],
+  "packshot_file": "ny/L05_bag_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/7fc6c8da314c5d60ad57cd6a5fd079d2.jpeg",
+   "https://a.cdn.lime-shine.com/p/19b95ad0669c5c9f95424b89dfd1271d.jpeg"
+  ],
+  "checked": "2026-11-22"
+ }
+]
