@@ -618,5 +618,648 @@
    "https://a.cdn.lime-shine.com/p/19b95ad0669c5c9f95424b89dfd1271d.jpeg"
   ],
   "checked": "2026-11-22"
+ },
+ {
+  "code": "L06-top",
+  "look": "L06",
+  "occasion": "Ресторан",
+  "slot": "top",
+  "shop": "Lichi",
+  "title": "Блуза из кружева с каплевидным вырезом",
+  "color": "Черный",
+  "price": 8499,
+  "url": "https://lichi.com/ru/ru/product/53199",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L"
+  ],
+  "files": [
+   "ny/L06_top_1.jpg",
+   "ny/L06_top_2.jpg"
+  ],
+  "packshot_file": "ny/L06_top_1.jpg",
+  "photo_urls": [
+   "https://static.lichishop.ru/product/53199/d797e279bbb2bb3c908eb3245ad05049.jpg",
+   "https://static.lichishop.ru/product/53199/c4f1e74be8d006c6a26c9c6930ed6464.jpg"
+  ],
+  "checked": "2026-11-22",
+  "note": "lace, no beads"
+ },
+ {
+  "code": "L06-bottom",
+  "look": "L06",
+  "occasion": "Ресторан",
+  "slot": "bottom",
+  "shop": "Love Republic",
+  "title": "Широкие брюки с вискозой",
+  "color": "черный",
+  "price": 4999,
+  "url": "https://loverepublic.ru/catalog/odezhda/bryuki/333098/",
+  "sizes_in_stock": [
+   "44",
+   "42"
+  ],
+  "all_sizes_in_stock": [
+   "44",
+   "42",
+   "40"
+  ],
+  "files": [
+   "ny/L06_bottom_1.jpg",
+   "ny/L06_bottom_2.jpg"
+  ],
+  "packshot_file": "ny/L06_bottom_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.loverepublic.ru/upload/images/63592/6359257771_50_4.jpg",
+   "https://imgcdn.loverepublic.ru/upload/images/63592/6359257771_50_0.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L06-shoes",
+  "look": "L06",
+  "occasion": "Ресторан",
+  "slot": "shoes",
+  "shop": "Rendez-Vous",
+  "title": "Женские туфли TENDANCE",
+  "color": "черный",
+  "price": 7790,
+  "url": "https://www.rendez-vous.ru/catalog/female/tufli/tendance_rl769d_27_chernyy-4722784/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "all_sizes_in_stock": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "files": [
+   "ny/L06_shoes_1.jpg",
+   "ny/L06_shoes_2.jpg"
+  ],
+  "packshot_file": "ny/L06_shoes_1.jpg",
+  "photo_urls": [
+   "https://static.rendez-vous.ru/files/catalog_models/4722784_tufli_tendance_rl769d_27_chernyy_zamsha_natural_naya.jpg",
+   "https://static.rendez-vous.ru/files/catalog_images/4722784_tufli_tendance_rl769d_27_chernyy_zamsha_natural_naya_11.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L06-acc",
+  "look": "L06",
+  "occasion": "Ресторан",
+  "slot": "acc",
+  "shop": "Lime",
+  "title": "Серьги с кристаллами",
+  "color": "серебряный",
+  "price": 2599,
+  "url": "https://limestore.com/ru_ru/product/38940-4688_952_040_serebrianyi",
+  "sizes_in_stock": [
+   "один размер"
+  ],
+  "all_sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "ny/L06_acc_1.jpg",
+   "ny/L06_acc_2.jpg"
+  ],
+  "packshot_file": "ny/L06_acc_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/7038d7d04387591ab39c2d66d4193ee0.jpeg",
+   "https://a.cdn.lime-shine.com/p/ad64dabfb2f95f7bb2792411b0ec9d16.jpeg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L07-jacket",
+  "look": "L07",
+  "occasion": "Корпоратив",
+  "slot": "jacket",
+  "shop": "Lime",
+  "title": "Блейзер из бархата с контрастной подкладкой в клетку",
+  "color": "черный",
+  "price": 10999,
+  "url": "https://limestore.com/ru_ru/product/38302-4122_723_001_cernyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "files": [
+   "ny/L07_jacket_1.jpg"
+  ],
+  "packshot_file": "ny/L07_jacket_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/20aaaa46ac6a554383a7f7469ea46678.jpeg"
+  ],
+  "checked": "2026-11-22",
+  "note": "velvet, same line as L07-bottom; no worn shot picked"
+ },
+ {
+  "code": "L07-top",
+  "look": "L07",
+  "occasion": "Корпоратив",
+  "slot": "top",
+  "shop": "Selfmade",
+  "title": "Сияющий топ-халтер «Искры»",
+  "color": "серебристый",
+  "price": 6990,
+  "url": "https://selfmade.ru/collection/novogodnyaya-kollektsiya/product/top-halter-s-otkrytoy-spinoy-2",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L"
+  ],
+  "files": [
+   "ny/L07_top_1.jpg",
+   "ny/L07_top_2.jpg"
+  ],
+  "packshot_file": "ny/L07_top_1.jpg",
+  "photo_urls": [
+   "https://cdn.insales-shop.ru/images/products/1/4137/3421614121/Selfmade_31_10_44441_05.jpg",
+   "https://cdn.insales-shop.ru/images/products/1/3249/3418950833/SELFMADE_NY_03_11_2_2075_.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L07-bottom",
+  "look": "L07",
+  "occasion": "Корпоратив",
+  "slot": "bottom",
+  "shop": "Lime",
+  "title": "Прямые брюки из бархата",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/38305-4124_723_001_cernyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "files": [
+   "ny/L07_bottom_1.jpg"
+  ],
+  "packshot_file": "ny/L07_bottom_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/e0458c6fe5ad5d10a06b38c9424af1de.jpeg"
+  ],
+  "checked": "2026-11-22",
+  "note": "velvet, turn-up cuffs, same line as L07-jacket; no worn shot picked"
+ },
+ {
+  "code": "L07-shoes",
+  "look": "L07",
+  "occasion": "Корпоратив",
+  "slot": "shoes",
+  "shop": "Rendez-Vous",
+  "title": "Женские туфли TENDANCE",
+  "color": "черный",
+  "price": 8490,
+  "url": "https://www.rendez-vous.ru/catalog/female/tufli/tendance_sst3025_1_chernyy-4654589/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "all_sizes_in_stock": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "files": [
+   "ny/L07_shoes_1.jpg",
+   "ny/L07_shoes_2.jpg"
+  ],
+  "packshot_file": "ny/L07_shoes_1.jpg",
+  "photo_urls": [
+   "https://static.rendez-vous.ru/files/catalog_models/4654589_tufli_tendance_sst3025_1_chernyy_kozha_natural_naya.jpg",
+   "https://static.rendez-vous.ru/files/catalog_images/4654589_tufli_tendance_sst3025_1_chernyy_kozha_natural_naya_11.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L07-acc",
+  "look": "L07",
+  "occasion": "Корпоратив",
+  "slot": "acc",
+  "shop": "Lime",
+  "title": "Минималистичные серьги из металла",
+  "color": "серебряный",
+  "price": 2599,
+  "url": "https://limestore.com/ru_ru/product/37436-3902_396_040_serebrianyi",
+  "sizes_in_stock": [
+   "один размер"
+  ],
+  "all_sizes_in_stock": [
+   "ЕДИНЫЙ РАЗМЕР"
+  ],
+  "files": [
+   "ny/L07_acc_1.jpg",
+   "ny/L07_acc_2.jpg"
+  ],
+  "packshot_file": "ny/L07_acc_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/6e22a48612c15bf0b5aaf89877f0b818.jpeg",
+   "https://a.cdn.lime-shine.com/p/1c9c9edc653a5f2c8a13b826ea1470cc.jpeg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L08-top",
+  "look": "L08",
+  "occasion": "Корпоратив",
+  "slot": "top",
+  "shop": "Befree",
+  "title": "Блузка шифоновая с кружевом",
+  "color": "молочный",
+  "price": 2799,
+  "url": "https://befree.ru/zhenskaya/product/BF2641418037/60",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "all_sizes_in_stock": [
+   "M",
+   "S",
+   "XL",
+   "XS"
+  ],
+  "files": [
+   "ny/L08_top_1.jpg",
+   "ny/L08_top_2.jpg"
+  ],
+  "packshot_file": "ny/L08_top_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.befree.ru/rest/V1/images/1280/product/images/BF2641418037/BF2641418037_60_100.jpg",
+   "https://imgcdn.befree.ru/rest/V1/images/1280/product/images/BF2641418037/BF2641418037_60_4.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L08-skirt",
+  "look": "L08",
+  "occasion": "Корпоратив",
+  "slot": "skirt",
+  "shop": "Lichi",
+  "title": "Юбка до колена из экокожи с широким ремнем",
+  "color": "Черный",
+  "price": 7999,
+  "url": "https://lichi.com/ru/ru/product/52660",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L"
+  ],
+  "files": [
+   "ny/L08_skirt_1.jpg",
+   "ny/L08_skirt_2.jpg"
+  ],
+  "packshot_file": "ny/L08_skirt_1.jpg",
+  "photo_urls": [
+   "https://static.lichishop.ru/product/52660/2070485ea6150e32166d93f126ba3415.jpg",
+   "https://static.lichishop.ru/product/52660/18b5a6e29fd94e7d9155f032b6813629.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L08-shoes",
+  "look": "L08",
+  "occasion": "Корпоратив",
+  "slot": "shoes",
+  "shop": "Rendez-Vous",
+  "title": "Женские ботильоны TENDANCE",
+  "color": "черный",
+  "price": 9090,
+  "url": "https://www.rendez-vous.ru/catalog/female/botilony/tendance_ig0212_1_chernyy-5151731/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "all_sizes_in_stock": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "files": [
+   "ny/L08_shoes_1.jpg"
+  ],
+  "packshot_file": "ny/L08_shoes_1.jpg",
+  "photo_urls": [
+   "https://static.rendez-vous.ru/files/catalog_models/5151731_botil_ony_tendance_ig0212_1_chernyy_kozha_natural_naya.jpg"
+  ],
+  "checked": "2026-11-22",
+  "note": "no worn shot in shop"
+ },
+ {
+  "code": "L08-bag",
+  "look": "L08",
+  "occasion": "Корпоратив",
+  "slot": "bag",
+  "shop": "Lichi",
+  "title": "Объемный клатч из экокожи на тонком ремне",
+  "color": "Бежевый",
+  "price": 6499,
+  "url": "https://lichi.com/ru/ru/product/51829",
+  "sizes_in_stock": [
+   "один размер"
+  ],
+  "all_sizes_in_stock": [
+   "One Size"
+  ],
+  "files": [
+   "ny/L08_bag_1.jpg",
+   "ny/L08_bag_2.jpg"
+  ],
+  "packshot_file": "ny/L08_bag_1.jpg",
+  "photo_urls": [
+   "https://static.lichishop.ru/product/51829/ca0c4dfce5a8a3193fb6243abfed9f13.jpg",
+   "https://static.lichishop.ru/product/51829/cd9c86d09030f210f1accdcdadf3025b.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L09-jacket",
+  "look": "L09",
+  "occasion": "Вечеринка",
+  "slot": "jacket",
+  "shop": "Lime",
+  "title": "Кардиган с ангорой и шерстью",
+  "color": "черный",
+  "price": 5999,
+  "url": "https://limestore.com/ru_ru/product/38731-3344_585_001_cernyi",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "files": [
+   "ny/L09_jacket_1.jpg",
+   "ny/L09_jacket_2.jpg"
+  ],
+  "packshot_file": "ny/L09_jacket_1.jpg",
+  "photo_urls": [
+   "https://a.cdn.lime-shine.com/p/6e8ceecb70ff5b39a5943ed7859234d1.jpeg",
+   "https://a.cdn.lime-shine.com/p/5ecd1fa8f07a5b84a185938765cd2558.jpeg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L09-dress",
+  "look": "L09",
+  "occasion": "Вечеринка",
+  "slot": "dress",
+  "shop": "Befree",
+  "title": "Платье-комбинация миди атласное с кружевом",
+  "color": "бордовый",
+  "price": 2299,
+  "url": "https://befree.ru/zhenskaya/product/BF2641414003/71",
+  "sizes_in_stock": [
+   "M",
+   "S"
+  ],
+  "all_sizes_in_stock": [
+   "L",
+   "M",
+   "S",
+   "XL",
+   "XS"
+  ],
+  "files": [
+   "ny/L09_dress_1.jpg",
+   "ny/L09_dress_2.jpg"
+  ],
+  "packshot_file": "ny/L09_dress_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.befree.ru/rest/V1/images/1280/product/images/BF2641414003/BF2641414003_71_100.jpg",
+   "https://imgcdn.befree.ru/rest/V1/images/1280/product/images/BF2641414003/BF2641414003_71_4.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L09-shoes",
+  "look": "L09",
+  "occasion": "Вечеринка",
+  "slot": "shoes",
+  "shop": "Rendez-Vous",
+  "title": "Женские туфли мэри-джейн TENDANCE",
+  "color": "бордовый",
+  "price": 7490,
+  "url": "https://www.rendez-vous.ru/catalog/female/tufli/tendance_ys_58248a_3_bordovyy-5049823/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "all_sizes_in_stock": [
+   "36",
+   "37",
+   "38",
+   "39",
+   "40"
+  ],
+  "files": [
+   "ny/L09_shoes_1.jpg",
+   "ny/L09_shoes_2.jpg"
+  ],
+  "packshot_file": "ny/L09_shoes_1.jpg",
+  "photo_urls": [
+   "https://static.rendez-vous.ru/files/catalog_models/5049823_tufli_tendance_ys_58248a_3_bordovyy_kozha_natural_naya.jpg",
+   "https://static.rendez-vous.ru/files/catalog_images/5049823_tufli_tendance_ys_58248a_3_bordovyy_kozha_natural_naya_11.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L09-bag",
+  "look": "L09",
+  "occasion": "Вечеринка",
+  "slot": "bag",
+  "shop": "Love Republic",
+  "title": "Микросумка из бархата на цепочке",
+  "color": "коричневый",
+  "price": 3599,
+  "url": "https://loverepublic.ru/catalog/sumki/330585/",
+  "sizes_in_stock": [
+   "один размер"
+  ],
+  "all_sizes_in_stock": [
+   "11,5*2*12 см"
+  ],
+  "files": [
+   "ny/L09_bag_1.jpg",
+   "ny/L09_bag_2.jpg"
+  ],
+  "packshot_file": "ny/L09_bag_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.loverepublic.ru/upload/images/64492/644920077_27_5.jpg",
+   "https://imgcdn.loverepublic.ru/upload/images/64492/644920077_27_0.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L10-top",
+  "look": "L10",
+  "occasion": "Вечеринка",
+  "slot": "top",
+  "shop": "Selfmade",
+  "title": "Искристый топ «Лунный свет»",
+  "color": "серебристый",
+  "price": 10990,
+  "url": "https://selfmade.ru/collection/novogodnyaya-kollektsiya/product/top-iz-payetki-3",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L"
+  ],
+  "files": [
+   "ny/L10_top_1.jpg",
+   "ny/L10_top_2.jpg"
+  ],
+  "packshot_file": "ny/L10_top_1.jpg",
+  "photo_urls": [
+   "https://cdn.insales-shop.ru/images/products/1/2993/3421481905/Selfmade_31_10_44737_05.jpg",
+   "https://cdn.insales-shop.ru/images/products/1/5065/3412136905/SELFMADE_HNY_17822_.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L10-bottom",
+  "look": "L10",
+  "occasion": "Вечеринка",
+  "slot": "bottom",
+  "shop": "Lichi",
+  "title": "Брюки палаццо с широкими шлевками для ремня",
+  "color": "Черный",
+  "price": 6499,
+  "url": "https://lichi.com/ru/ru/product/49930",
+  "sizes_in_stock": [
+   "S",
+   "M"
+  ],
+  "all_sizes_in_stock": [
+   "S",
+   "M",
+   "L"
+  ],
+  "files": [
+   "ny/L10_bottom_1.jpg",
+   "ny/L10_bottom_2.jpg"
+  ],
+  "packshot_file": "ny/L10_bottom_1.jpg",
+  "photo_urls": [
+   "https://static.lichishop.ru/product/49930/92ad9e70bb5d3ea6a73d5a45d43d51f1.jpg",
+   "https://static.lichishop.ru/product/49930/971a10613f015ca24a49def93bfcf6c9.jpg"
+  ],
+  "checked": "2026-11-22"
+ },
+ {
+  "code": "L10-shoes",
+  "look": "L10",
+  "occasion": "Вечеринка",
+  "slot": "shoes",
+  "shop": "Rendez-Vous",
+  "title": "Женские балетки мэри-джейн TAMARIS ABRIL",
+  "color": "черный",
+  "price": 7990,
+  "url": "https://www.rendez-vous.ru/catalog/female/baletki/tamaris_1_1_22101_42_chernyy-3903401/",
+  "sizes_in_stock": [
+   "37",
+   "38",
+   "39"
+  ],
+  "all_sizes_in_stock": [
+   "37",
+   "38",
+   "39",
+   "40",
+   "41"
+  ],
+  "files": [
+   "ny/L10_shoes_1.jpg"
+  ],
+  "packshot_file": "ny/L10_shoes_1.jpg",
+  "photo_urls": [
+   "https://static.rendez-vous.ru/files/catalog_models/3903401_baletki_tamaris_1_1_22101_42_chernyy_iskusstvennaya_kozha.jpg"
+  ],
+  "checked": "2026-11-22",
+  "note": "no worn shot in shop"
+ },
+ {
+  "code": "L10-acc",
+  "look": "L10",
+  "occasion": "Вечеринка",
+  "slot": "acc",
+  "shop": "Love Republic",
+  "title": "Серьги-пусеты с подвесками",
+  "color": "серебряный",
+  "price": 1999,
+  "url": "https://loverepublic.ru/catalog/acces_bijoux/earrings/330831/",
+  "sizes_in_stock": [
+   "один размер"
+  ],
+  "all_sizes_in_stock": [
+   "один размер"
+  ],
+  "files": [
+   "ny/L10_acc_1.jpg",
+   "ny/L10_acc_2.jpg"
+  ],
+  "packshot_file": "ny/L10_acc_1.jpg",
+  "photo_urls": [
+   "https://imgcdn.loverepublic.ru/upload/images/64404/644048065_99_4.jpg",
+   "https://imgcdn.loverepublic.ru/upload/images/64404/644048065_99_0.jpg"
+  ],
+  "checked": "2026-11-22"
  }
 ]
